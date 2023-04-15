@@ -2,46 +2,30 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 简介: 一块屏幕上打造无缝衔接的 AI 体验
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 概述
 
-## Getting Started
+现代生活中，我们处于各种场景：在家或在办公室、使用手机或电脑、听音乐或观看视频…… AI 技术为我们带来的便利需与这些场景相互配合，才能让我们真正享受到科技带来的便利。因此，我们推出了一款 "一块屏幕上打造无缝衔接的 AI 体验" 产品，可以让你在不同场景间无缝衔接，更好地使用 AI。
 
-Get started by **creating a new site**.
+## 主要功能
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+该产品主要有以下几个功能：
 
-### What you'll need
+1. **统一控制中心**：通过在屏幕上按一下，即可轻松控制不同设备的 AI 功能，例如音乐播放、智能家居控制、社交媒体管理等。
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+2. **自动场景识别**：智能识别用户所处场景，并针对不同场景提供特定的 AI 功能。例如，在驾驶时，在屏幕上显示导航信息和车辆数据，同时播放驾驶员喜欢的音乐。
 
-## Generate a new site
+3. **智能语音交互**：支持智能语音助手，用户可以通过语音控制该产品上不同设备。例如，在家中用户可以通过语音控制智能家居设备，调整室温、关闭灯光等，并定制自己的语音命令。
 
-Generate a new Docusaurus site using the **classic template**.
+## 适用人群
 
-The classic template will automatically be added to your project after you run the command:
+该产品适合使用 AI 技术的任何人群，包括但不限于以下人群：
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. 拥有多种 AI 智能设备的人群，例如智能手机、智能手表、智能音响、智能家居等。
+2. 通过 AI 技术提高生活质量的人群，例如使用智能语音助手、翻译软件、健康管理等。
+3. 希望通过 AI 技术提高工作效率的人群，例如使用 AI 聊天机器人、语音识别等。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 结语
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+"一块屏幕上打造无缝衔接的 AI 体验" 产品是我们为使用 AI 技术的人群量身打造的。该产品方便易用，本着用户至上的原则，我们将不断优化和升级产品，为用户带来更好的 AI 体验。
