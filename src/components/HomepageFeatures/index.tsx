@@ -10,34 +10,21 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '浮动窗口提供直观的桌面可视化',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your website up and running
-        quickly.
-      </>
+      <>我们提供具有直观的桌面可视化功能的浮动窗口，方便用户简单、轻松地操作。无需过多学习，即可上手使用。</>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '高扩展性和定制性，满足不同需求',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your docs into the{' '}
-        <code>docs</code> directory.
-      </>
-    ),
+    description: <>该工具拥有高度的可扩展性和定制性，可以轻松加入自定义指令以满足不同的业务需求。</>,
   },
   {
-    title: 'Powered by React',
+    title: '本地数据存储更安全',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same
-        header and footer.
-      </>
-    ),
+    description: <>该系统所有资料和信息都存储在本地，不需要担心数据泄漏的风险。用户可以放心使用，并保障数据安全性。</>,
   },
 ];
 
