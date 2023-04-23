@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 产品安装
 
+通过内测的邮件收到下载链接后，点击进入链接。
+
 ## Windows
 
 Windows 下载 .exe 文件后，即可直接安装。
