@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GPT AI Flow',
-  tagline: '一块屏幕上打造无缝衔接的 AI 体验',
+  tagline: '一块屏幕上打造无缝衔接的 AI 内容创作体验',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
