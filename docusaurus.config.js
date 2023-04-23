@@ -82,11 +82,11 @@ const config = {
             position: 'left',
             label: '教程',
           },
-          {
-            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus/releases/tag/v0.0.1',
-            label: '下载',
-            position: 'left',
-          },
+          // {
+          //   to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus/releases/tag/v0.0.1',
+          //   label: '下载',
+          //   position: 'left',
+          // },
           {
             href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus',
             label: 'GitHub',
