@@ -60,6 +60,16 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+        gtag: {
+          trackingID: 'G-QRJ6KRQXR4',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -144,6 +154,22 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  themes: [
+    [
+      // @ts-ignore
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      // @ts-ignore
+      ({
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        language: ['zh'],
+      }),
+    ],
+    // ... Your other themes.
+  ],
 };
 
 module.exports = config;
