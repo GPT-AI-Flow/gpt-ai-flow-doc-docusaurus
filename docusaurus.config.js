@@ -170,6 +170,25 @@ const config = {
     ],
     // ... Your other themes.
   ],
+
+  plugins: [
+    // [
+    //   'docusaurus2-dotenv',
+    //   {
+    //     systemvars: true, // Set to true if you would rather load all system variables as well (useful for CI purposes)
+    //   },
+    // ],
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
