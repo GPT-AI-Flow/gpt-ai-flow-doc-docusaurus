@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GPT-AI-Flow', // Usually your GitHub org/user name.
-  projectName: 'gpt-ai-flow-doc-web', // Usually your repo name.
+  projectName: 'gpt-ai-flow-web-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -98,7 +98,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web',
+            href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus',
             label: 'GitHub',
             position: 'right',
           },

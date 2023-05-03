@@ -1,4 +1,4 @@
-# gpt-ai-flow-doc-web
+# gpt-ai-flow-web-docusaurus
 
 ## Website
 
