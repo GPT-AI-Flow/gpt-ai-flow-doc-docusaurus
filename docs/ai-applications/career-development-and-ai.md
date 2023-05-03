@@ -83,7 +83,7 @@ AI 提示可以帮助你创建个性化的模拟面试情景，以应对特定�
 ```
 
 :::info
-[模拟对话-面试 提示词](simulated-dialogue-interview)
+[模拟对话-面试 提示词](../ai-tips/simulated-dialogue-interview)
 :::
 
 ## 总结
