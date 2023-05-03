@@ -83,7 +83,7 @@ const config = {
         title: 'GPT AI Flow',
         logo: {
           alt: 'GPT AI Flow Logo',
-          src: 'img/logo.svg',
+          src: 'img/apple-touch-icon.png',
         },
         items: [
           {
