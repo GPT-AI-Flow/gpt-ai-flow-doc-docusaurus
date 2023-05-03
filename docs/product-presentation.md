@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# GPT AI Flow 产品说明
+# 产品说明
 
 ## 产品概述
 
