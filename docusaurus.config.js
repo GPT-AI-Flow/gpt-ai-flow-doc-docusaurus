@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GPT-AI-Flow', // Usually your GitHub org/user name.
-  projectName: 'gpt-ai-flow-web-docusaurus', // Usually your repo name.
+  projectName: 'gpt-ai-flow-doc-web', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -78,12 +78,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/gpt-ai-flow-social-card.png',
       navbar: {
         title: 'GPT AI Flow',
         logo: {
           alt: 'GPT AI Flow Logo',
-          src: 'img/logo.svg',
+          src: 'img/apple-touch-icon.png',
         },
         items: [
           {
@@ -92,13 +92,13 @@ const config = {
             position: 'left',
             label: '教程',
           },
-          // {
-          //   to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus/releases/tag/v0.0.1',
-          //   label: '下载',
-          //   position: 'left',
-          // },
           {
-            href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-web-docusaurus',
+            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web/releases',
+            label: '下载',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web',
             label: 'GitHub',
             position: 'right',
           },
@@ -108,46 +108,46 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
-                label: 'Tutorial',
+                label: '教程',
                 to: '/docs/intro',
               },
             ],
           },
+          // {
+          //   title: 'Community',
+          //   items: [
+          //     {
+          //       label: 'Stack Overflow',
+          //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+          //     },
+          //     {
+          //       label: 'Discord',
+          //       href: 'https://discordapp.com/invite/docusaurus',
+          //     },
+          //     {
+          //       label: 'Twitter',
+          //       href: 'https://twitter.com/docusaurus',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Community',
+            title: '更多',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '小卡养成记: 学习成长频道',
+                href: 'https://www.xiaokaup.com/',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GPT AI Flow`,
       },
       prism: {
         theme: lightCodeTheme,
