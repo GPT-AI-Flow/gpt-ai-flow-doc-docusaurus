@@ -134,10 +134,10 @@ const config = {
           //   ],
           // },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
-                label: '小卡养成记',
+                label: '小卡养成记: 学习成长频道',
                 href: 'https://www.xiaokaup.com/',
               },
               // {
