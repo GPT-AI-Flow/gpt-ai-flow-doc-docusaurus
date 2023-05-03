@@ -4,7 +4,9 @@ import styles from './styles.module.css';
 
 // @ts-ignore
 import feature1 from '@site/static/img/homePage/2023-05-03-bubble-gum-web-design-visualisation.png';
+// @ts-ignore
 import feature2 from '@site/static/img/homePage/2023-05-03-bubble-gum-online-meeting-between-the-team-extensions-and-customisation.png';
+// @ts-ignore
 import feature3 from '@site/static/img/homePage/2023-05-03-bubble-gum-man-with-a-tablet-checks-the-server-operation-local-data-security.png';
 
 interface IImportImage {
