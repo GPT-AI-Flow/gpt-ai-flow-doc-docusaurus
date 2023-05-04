@@ -30,6 +30,11 @@
 }
 
 /* === Add by Jiean === */
+html,
+body {
+  font-family: 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei';
+}
+
 iframe,
 video {
   width: 450px;
