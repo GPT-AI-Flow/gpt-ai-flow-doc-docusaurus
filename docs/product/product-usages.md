@@ -14,7 +14,7 @@ sidebar_position: 3
 - youtube: https://youtu.be/wR25u6XEvVQ
 - B 站: https://www.bilibili.com/video/BV1Gh4y1p7Yh/
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Gh4y1p7Yh&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Gh4y1p7Yh&page=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 增加、修改 和 删除 指令集
 
@@ -26,4 +26,4 @@ sidebar_position: 3
 - youtube: https://youtu.be/Yuy46iTH7gs
 - B 站: https://www.bilibili.com/video/BV19L411a7wo/
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV19L411a7wo&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV19L411a7wo&page=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowfullscreen="true"> </iframe>
