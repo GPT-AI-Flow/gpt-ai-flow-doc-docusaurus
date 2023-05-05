@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # AI 提示在职业发展中的应用：提高求职成功率
