@@ -114,8 +114,13 @@ const config = {
                 label: '教程',
                 to: '/docs/intro',
               },
+              {
+                label: 'beta版内测',
+                href: 'https://wj.qq.com/s2/12134685/0918',
+              },
             ],
           },
+
           // {
           //   title: 'Community',
           //   items: [
