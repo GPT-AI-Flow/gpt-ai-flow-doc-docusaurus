@@ -15,7 +15,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'baidu-site-verification',
-        content: 'codeva-1lYhBA8pui',
+        content: 'codeva-mWy3GV6uPO',
       },
     },
   ],
