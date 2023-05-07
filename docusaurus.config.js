@@ -10,6 +10,16 @@ const config = {
   tagline: '一块屏幕上打造无缝衔接的 AI 内容创作体验',
   favicon: 'img/favicon.ico',
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'baidu-site-verification',
+        content: 'codeva-1lYhBA8pui',
+      },
+    },
+  ],
+
   // Set the production url of your site here
   url: 'https://gptaiflow.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -79,6 +89,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/gpt-ai-flow-social-card.png',
+      // docs: {
+      //   sidebar: {
+      //     hideable: true,
+      //   },
+      // },
       navbar: {
         title: 'GPT AI Flow',
         logo: {
