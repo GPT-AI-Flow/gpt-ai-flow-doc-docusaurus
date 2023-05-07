@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: 快捷键
 ---
 
-# 快捷键
+# 产品快捷键
 
 ![product-shorcut-fill-out-input](./img/product-shorcut-fill-out-input.gif)
 

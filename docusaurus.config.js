@@ -89,11 +89,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/gpt-ai-flow-social-card.png',
-      // docs: {
-      //   sidebar: {
-      //     hideable: true,
-      //   },
-      // },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: 'GPT AI Flow',
         logo: {

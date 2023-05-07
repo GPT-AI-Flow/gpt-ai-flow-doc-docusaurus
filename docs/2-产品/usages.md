@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 产品使用视频
+# 使用
 
 ## 在设置窗口填写 OpenAI API Key，发起询问和搜索
 
