@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: 最佳实践
 tags: [AI, OpenAI, 提示工程, GPT-4, 最佳实践, 人工智能, 机器学习, 语言模型]
 description: 本文为 AI 初学者介绍了使用 OpenAI 进行提示工程的最佳实践，包括提示工程的工作原理、规则和示例。文章帮助您更好地理解如何利用 OpenAI 的强大功能，提高您与 AI 的协作效果。
 authors: [xiaoka]
