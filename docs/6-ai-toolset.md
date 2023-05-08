@@ -58,3 +58,7 @@ sidebar_position: 6
 - Pollinations：文本转视频、图片 https://pollinations.ai/
 - Zubtitle：为视频添加字幕和在线编辑视频 https://zubtitle.com/
 - Munch：人工智障提取视频中的最引人入胜、最流行和最有影响力的片段 https://www.getmunc
+
+## AI PDF
+
+- humata: https://www.humata.ai/, 读取 PDF 文件
