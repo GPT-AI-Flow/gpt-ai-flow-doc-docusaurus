@@ -88,6 +88,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      announcementBar: {
+        id: 'alert',
+        content: '内测阶段，服务器可能出现不稳定情况，给您带来的不便敬请谅解。',
+        backgroundColor: '#C75146',
+        textColor: 'white',
+        isCloseable: false,
+      },
       image: 'img/gpt-ai-flow-social-card.png',
       docs: {
         sidebar: {
