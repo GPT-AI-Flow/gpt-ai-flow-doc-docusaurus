@@ -90,7 +90,7 @@ const config = {
       // Replace with your project's social card
       announcementBar: {
         id: 'alert',
-        content: '内测阶段，服务器可能出现不稳定情况，给您带来的不便敬请谅解。',
+        content: '内测阶段，服务器正在维护，暂时无法使用，敬请谅解！',
         backgroundColor: '#C75146',
         textColor: 'white',
         isCloseable: false,
@@ -114,11 +114,11 @@ const config = {
             position: 'left',
             label: '教程',
           },
-          {
-            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web/releases',
-            label: '下载',
-            position: 'left',
-          },
+          // {
+          //   to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web/releases',
+          //   label: '下载',
+          //   position: 'left',
+          // },
           {
             href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-web',
             label: 'GitHub',
