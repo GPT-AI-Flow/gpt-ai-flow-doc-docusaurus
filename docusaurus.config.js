@@ -177,7 +177,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} GPT AI Flow`,
       },
       prism: {
-        theme: lightCodeTheme,
+        // theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
