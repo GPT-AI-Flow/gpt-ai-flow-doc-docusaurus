@@ -91,7 +91,7 @@ const config = {
       announcementBar: {
         id: 'alert',
         content: '为了能够正常使用本应用, 请将版本升级至最新版 v0.0.15',
-        backgroundColor: '#8E5572',
+        backgroundColor: '#38A3A5',
         textColor: 'white',
         isCloseable: false,
       },
