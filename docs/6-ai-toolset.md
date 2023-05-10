@@ -62,3 +62,7 @@ sidebar_position: 6
 ## AI PDF
 
 - humata: https://www.humata.ai/, 读取 PDF 文件
+
+## AI 内容鉴别
+
+- AI Text Classifier: 辨别内容是否由 ChatGPT 产出 https://platform.openai.com/ai-text-classifier
