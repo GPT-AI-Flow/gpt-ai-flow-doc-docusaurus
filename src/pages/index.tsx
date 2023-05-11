@@ -27,7 +27,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`AI 内容创作体验`} description="一块屏幕上打造无缝衔接的 AI 内容创作体验">
+    <Layout title={`AI 内容创作体验`} description="一块屏幕上打造极致的 AI 内容创作体验">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
