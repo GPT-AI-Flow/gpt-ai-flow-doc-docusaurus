@@ -66,3 +66,7 @@ sidebar_position: 6
 ## AI 内容鉴别
 
 - AI Text Classifier: 辨别内容是否由 ChatGPT 产出 https://platform.openai.com/ai-text-classifier
+
+## AI 技术
+
+- LangChain: https://langchain.com/
