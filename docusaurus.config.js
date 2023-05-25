@@ -181,6 +181,9 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      clarity: {
+        ID: 'h9kqzldifi',
+      },
     }),
 
   themes: [
@@ -216,6 +219,7 @@ const config = {
         disableInDev: false,
       },
     ],
+    'docusaurus-plugin-clarity',
   ],
 };
 
