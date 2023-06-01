@@ -19,6 +19,44 @@ const config = {
       },
     },
   ],
+  ssrTemplate: `<!DOCTYPE html>
+  <html <%~ it.htmlAttributes %>>
+    <head>
+      <meta charset="UTF-8">
+      <meta name="generator" content="Docusaurus v<%= it.version %>">
+      <% it.metaAttributes.forEach((metaAttribute) => { %>
+        <%~ metaAttribute %>
+      <% }); %>
+      <%~ it.headTags %>
+      <% it.stylesheets.forEach((stylesheet) => { %>
+        <link rel="stylesheet" href="<%= it.baseUrl %><%= stylesheet %>" />
+      <% }); %>
+      <% it.scripts.forEach((script) => { %>
+        <link rel="preload" href="<%= it.baseUrl %><%= script %>" as="script">
+      <% }); %>
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KLRK3CV');</script>
+      <!-- End Google Tag Manager -->
+    </head>
+    <body <%~ it.bodyAttributes %>>
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLRK3CV"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      <%~ it.preBodyTags %>
+      <div id="__docusaurus">
+        <%~ it.appHtml %>
+      </div>
+      <% it.scripts.forEach((script) => { %>
+        <script src="<%= it.baseUrl %><%= script %>"></script>
+      <% }); %>
+      <%~ it.postBodyTags %>
+    </body>
+  </html>`,
 
   // Set the production url of your site here
   url: 'https://gptaiflow.com/',
