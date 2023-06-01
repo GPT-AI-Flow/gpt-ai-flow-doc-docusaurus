@@ -76,10 +76,6 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-        gtag: {
-          trackingID: 'G-QRJ6KRQXR4',
-          anonymizeIP: true,
-        },
       }),
     ],
   ],
