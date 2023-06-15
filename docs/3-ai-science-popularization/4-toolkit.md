@@ -13,3 +13,7 @@
 - 编辑图片 - [Remini](https://remini.ai/)
 - 编辑视频 - [Pictory](https://pictory.ai/)
 - 摘要笔记 - [Wordlune](https://www.wordtune.com/)
+
+## 历史
+
+- 2023.06.15: first version
