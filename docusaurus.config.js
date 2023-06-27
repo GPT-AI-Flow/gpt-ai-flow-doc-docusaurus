@@ -136,7 +136,7 @@ const config = {
       image: 'img/gpt-ai-flow-social-card.png',
       docs: {
         sidebar: {
-          hideable: true,
+          hideable: false,
         },
       },
       navbar: {
