@@ -78,7 +78,7 @@ A: 目前有一个非常快速的解决问题的办法，就是将软件的本�
 
 如有疑问，请联系我们：
 
-- 客服邮箱：jiean@followparis.com
+- 客服邮箱：hello@gptaiflow.com
 - [产品反馈页面](https://wj.qq.com/s2/12214642/c9c6)
 
 感谢您使用 GPT AI Flow ！
