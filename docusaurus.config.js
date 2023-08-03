@@ -203,7 +203,7 @@ const config = {
             items: [
               {
                 label: '小卡养成记: 学习成长频道',
-                href: 'https://www.xiaokaup.com/',
+                href: 'https://space.bilibili.com/137975681',
               },
               // {
               //   label: 'GitHub',
