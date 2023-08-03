@@ -7,7 +7,7 @@ sidebar_position: 3
 ## 在设置窗口填写 OpenAI API Key，发起询问和搜索
 
 - youtube: https://youtu.be/Y1d_Zkx_KaU
-- B 站: 被审核拦住
+- B 站: 审核中
 
 ## 通过快捷键，输入和搜索问题并使用复制按钮和对话框隐藏按钮
 
@@ -24,6 +24,4 @@ sidebar_position: 3
 ## 重置对话框内容，重置指令集，重置所有本地数据资料
 
 - youtube: https://youtu.be/Yuy46iTH7gs
-- B 站: https://www.bilibili.com/video/BV19L411a7wo/
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV19L411a7wo&page=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- B 站: 审核中
