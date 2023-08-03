@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# GPT AI Flow - 自媒体运营神器，你的 AI 助手！
+# 自媒体运营神器，你的 AI 助手！
 
 <!--
 :::tip 优化
