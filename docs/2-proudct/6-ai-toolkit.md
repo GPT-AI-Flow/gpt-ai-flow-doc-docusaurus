@@ -32,7 +32,7 @@ sidebar_position: 6
 - Dreamlike.art：AI 图像生成 https://dreamlike.art/
 - 文心一格 飞桨：AI 艺术和创意辅助平台 https://yige.baidu.com/
 - Phygital+：AI 图像生成 https://phygital.plus/
-- Beautiful.ai：AI 生成 PPT https://www.beautiful.ai/
+- Starrytars: AI 生成头像 https://starryai.com/starrytars
 
 ## 🎶AI 音频
 
@@ -59,6 +59,11 @@ sidebar_position: 6
 - Zubtitle：为视频添加字幕和在线编辑视频 https://zubtitle.com/
 - Munch：人工智障提取视频中的最引人入胜、最流行和最有影响力的片段 https://www.getmunc
 
+## AI PPT
+
+- Beautiful.ai：AI 生成 PPT https://www.beautiful.ai/
+- slidesai: AI 生成 PPT https://www.slidesai.io/
+
 ## AI PDF
 
 - humata: https://www.humata.ai/, 读取 PDF 文件
@@ -66,6 +71,16 @@ sidebar_position: 6
 ## AI 内容鉴别
 
 - AI Text Classifier: 辨别内容是否由 ChatGPT 产出 https://platform.openai.com/ai-text-classifier
+
+## AI 工具
+
+- Remini: AI 编辑图片 https://remini.ai/
+- Pictory: AI 编辑视频 https://pictory.ai/
+- Wordlune: AI 摘要笔记 https://www.wordtune.com/
+- Copilot: AI 代码编辑器 visual Studio Code https://github.com/features/copilot
+- Replit: AI 生成代码 https://replit.com/
+
+<!-- - 生成 TikToks - [Fliki](https://fliki.ai/) -->
 
 ## AI 技术
 
