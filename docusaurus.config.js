@@ -157,11 +157,11 @@ const config = {
             label: '下载',
             position: 'left',
           },
-          {
-            href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
