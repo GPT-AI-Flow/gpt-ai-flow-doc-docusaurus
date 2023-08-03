@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+title: 写作文案
 ---
 
 # 创意写作与 AI：激发无限创意
