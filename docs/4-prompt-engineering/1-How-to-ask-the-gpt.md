@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+title: 如何提问
 ---
 
 # 如何向 GPT 提问？
