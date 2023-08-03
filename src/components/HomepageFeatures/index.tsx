@@ -31,24 +31,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '浮动窗口提供直观的桌面可视化',
+    title: '无需学习，上手即用',
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     image: feature1,
     description: (
-      <>我们提供具有直观的桌面可视化功能的浮动窗口，方便用户简单、轻松地操作。无需过多学习，即可上手使用。</>
+      <>
+        为非技术人员设计，无需编程或 AI 背景，无论你是新手还是资深运营者，10秒生成高质量文案，立即开始你的自媒体旅程。
+      </>
     ),
   },
   {
-    title: '高扩展性和定制性，满足不同需求',
+    title: '专为自媒体而生',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     image: feature2,
-    description: <>该工具拥有高度的可扩展性和定制性，可以轻松加入自定义指令以满足不同的业务需求。</>,
+    description: (
+      <>此工具的功能和指令设计，主要侧重于自媒体环境，尤其是小红书。未来将扩展到更多平台，满足不同的自媒体运营需求。</>
+    ),
   },
   {
-    title: '本地数据存储更安全',
+    title: '客户成功故事',
     // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     image: feature3,
-    description: <>该系统所有资料和信息都存储在本地，不需要担心数据泄漏的风险。用户可以放心使用，并保障数据安全性。</>,
+    description: (
+      <>
+        我们的客户已成功利用 AI 工具，在
+        <a target="_blank" href="https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf">
+          小红书平台「巴黎去哪玩」
+        </a>
+        上取得了显著成功，这验证了我们产品的实用性和有效性。
+      </>
+    ),
   },
 ];
 
