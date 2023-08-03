@@ -175,8 +175,12 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'beta版内测',
+                label: 'beta 版内测',
                 href: 'https://wj.qq.com/s2/12134685/0918',
+              },
+              {
+                label: '提出产品反馈',
+                href: 'https://wj.qq.com/s2/12214642/c9c6',
               },
             ],
           },
