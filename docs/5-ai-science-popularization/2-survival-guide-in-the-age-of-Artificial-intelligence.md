@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 title: 智能时代生存指南
 ---
 

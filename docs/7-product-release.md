@@ -1,5 +1,4 @@
 ---
-sidebar_position: 7
 ---
 
 # 产品更新

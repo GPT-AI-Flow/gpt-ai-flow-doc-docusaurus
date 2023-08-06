@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 title: '万字科普: GPT4 为何会颠覆现有工作流'
 ---
 
