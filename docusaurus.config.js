@@ -147,10 +147,24 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/intro/',
+            label: 'AI 助手',
             position: 'left',
-            label: '教程',
+          },
+          {
+            to: '/docs/proudct/presentation',
+            label: '产品说明',
+            position: 'left',
+          },
+          {
+            to: '/docs/application-scenarios/creative-writing-and-ai',
+            label: '应用场景',
+            position: 'left',
+          },
+          {
+            to: '/docs/prompt-engineering/How-to-ask-the-gpt',
+            label: '提示课程',
+            position: 'left',
           },
           {
             to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases',
