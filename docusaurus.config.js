@@ -185,7 +185,7 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '教程',
+                label: 'AI 助手',
                 to: '/docs/intro',
               },
               {
