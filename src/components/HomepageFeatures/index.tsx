@@ -15,7 +15,6 @@ import gif1 from '@site/static/img/homePage/2023-08-03-bubble-gum-workflow.gif';
 import gif2 from '@site/static/img/homePage/2023-08-03-bubble-gum-social-media.gif';
 // @ts-ignore
 import gif3 from '@site/static/img/homePage/2023-08-03-bubble-gum-financial-statistics.gif';
-import Link from '@docusaurus/Link';
 
 interface IImportImage {
   preSrc: string;
