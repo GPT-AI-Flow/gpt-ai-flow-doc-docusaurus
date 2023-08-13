@@ -189,7 +189,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: '提出产品反馈',
+                label: '产品反馈',
                 href: 'https://wj.qq.com/s2/12214642/c9c6',
               },
             ],
