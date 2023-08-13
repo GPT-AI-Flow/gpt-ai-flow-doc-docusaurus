@@ -110,7 +110,7 @@ const config = {
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
         sitemap: {
           changefreq: 'weekly',
@@ -272,6 +272,7 @@ const config = {
       },
     ],
     'docusaurus-plugin-clarity',
+    'docusaurus-plugin-sass',
     async function myPlugin(context, options) {
       return {
         name: 'docusaurus-tailwindcss',
@@ -283,7 +284,6 @@ const config = {
         },
       };
     },
-    'docusaurus-plugin-sass',
   ],
 };
 

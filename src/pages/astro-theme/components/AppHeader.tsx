@@ -1,4 +1,4 @@
-import './AppHeader.css';
+import './AppHeader.scss';
 
 import React, { useEffect, useState } from 'react';
 
