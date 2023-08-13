@@ -2,6 +2,7 @@ import './Layout.css';
 
 import React from 'react';
 import Head from '@docusaurus/Head';
+import AppHeader from '../components/AppHeader';
 
 // import AppFooter from '../components/AppFooter.astro';
 // import AppHeader from '../components/AppHeader.tsx';
@@ -24,7 +25,7 @@ const Layout = (props: any) => {
         />
       </Head>
       <body className="bg-white dark:bg-gray-900">
-        {/* <AppHeader /> */}
+        <AppHeader />
         <slot />
         {/* <AppFooter /> */}
       </body>
