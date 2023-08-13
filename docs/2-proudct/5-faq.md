@@ -22,6 +22,15 @@
 
 ![](./img/5-faq/2023-08-07-img-1-settings-aiflow-commands.png)
 
+## 如何导出自定义指令？
+
+重制所有本地存储之前，请确保你已经导出所有自定义指令。  
+因为我们不会将它们保存到云上，提前导出或者经常被分避免丢失自定义指令。
+
+![](./img/5-faq/2023-08-07-img-2-settings-aiflow-commands-importAndExport-button.png)
+
+![](./img/5-faq/2023-08-07-img-3-settings-aiflow-commands-Export-button.png)
+
 ## 如果产品使用出现问题，是否有什么快速的解决办法吗 ？
 
 目前有一个非常快速的解决问题的办法，就是将软件的本地存储重置掉。
@@ -34,11 +43,13 @@
 
 ![](./img/5-faq/2023-08-07-img-5-settings-reset-all-aiflow-commands-2.png)
 
-:::caution 如何导出自定义指令？
-重制所有本地存储之前，请确保你已经导出所有自定义指令。  
-因为我们不会将它们保存到云上，提前导出或者经常被分避免丢失自定义指令。
+## 为什么我无法使用 OpenAI 的 GPT-4 模型？
 
-![](./img/5-faq/2023-08-07-img-2-settings-aiflow-commands-importAndExport-button.png)
+是否能够使用 GPT-4 模型取决于你的 OpenAI 账户是否开通的 GPT-4 API 的访问权限。
 
-![](./img/5-faq/2023-08-07-img-3-settings-aiflow-commands-Export-button.png)
-:::
+开启方法有两个：
+
+1. 购买一个月的 OpenAI Plus 账户，系统会自动帮你开启你的 GPT-4 API 访问权限。
+2. 所有在 OpenAI API 花费超过 1 美元的用户，都会授予 GPT-4 API(8k)的访问权限。
+
+![](./img/5-faq/2023-08-13-img6-access-about-openai-gpt-4.png)
