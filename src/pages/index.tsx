@@ -1,7 +1,7 @@
 import React from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 // import Stats from '../astro-theme/components/Stats.astro';
-// import Features from '../astro-theme/components/Features.astro';
+import Features from './astro-theme/components/Features';
 import HeroSection from './astro-theme/components/HeroSection';
 import Layout from './astro-theme/layouts/Layout';
 // import Testimonials from '../astro-theme/components/Testimonials.astro';
@@ -15,8 +15,8 @@ export default function Home(): JSX.Element {
     <Layout title="Welcome to Astrolus.">
       <main className="space-y-40 mb-40">
         <HeroSection />
-        {/* <Features />
-        <Stats />
+        <Features />
+        {/* <Stats />
         <Testimonials />
         <CallToAction />
         <Blog /> */}
