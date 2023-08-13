@@ -6,7 +6,7 @@ import HeroSection from './astro-theme/components/HeroSection';
 import Layout from './astro-theme/layouts/Layout';
 import Testimonials from './astro-theme/components/Testimonials';
 import CallToAction from './astro-theme/components/CallToAction';
-// import Blog from '../astro-theme/components/Blog.astro';
+import Blog from './astro-theme/components/Blog';
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -19,7 +19,7 @@ export default function Home(): JSX.Element {
         <Stats />
         <Testimonials />
         <CallToAction />
-        {/* <Blog /> */}
+        <Blog />
       </main>
     </Layout>
   );
