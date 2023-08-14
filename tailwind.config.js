@@ -1,8 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
+  corePlugins: { preflight: false },
+  content: ['./src/**/*.{js,jsx,ts,tsx,md,mdx}', './docs/**/*.{md,mdx}'],
   presets: [],
-  darkMode: 'media', // or 'class'
+  darkMode: ['class', '[data-theme="dark"]'], // hooks into docusaurus' dark mode settigns
   theme: {
     screens: {
       sm: '640px',
@@ -965,4 +966,5 @@ module.exports = {
     'disabled',
   ],
   plugins: [],
+  // blocklist: ['container'],
 };
