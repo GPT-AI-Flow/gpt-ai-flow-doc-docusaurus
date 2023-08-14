@@ -35,8 +35,8 @@ const Features = () => {
               <img
                 src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"
                 className="w-12"
-                width="512"
-                height="512"
+                // width="512"
+                // height="512"
                 alt="burger illustration"
               />
 
@@ -70,8 +70,8 @@ const Features = () => {
               <img
                 src="https://cdn-icons-png.flaticon.com/512/4341/4341134.png"
                 className="w-12"
-                width="512"
-                height="512"
+                // width="512"
+                // height="512"
                 alt="burger illustration"
               />
 
@@ -105,8 +105,8 @@ const Features = () => {
               <img
                 src="https://cdn-icons-png.flaticon.com/512/4341/4341160.png"
                 className="w-12"
-                width="512"
-                height="512"
+                // width="512"
+                // height="512"
                 alt="burger illustration"
               />
 
@@ -140,8 +140,8 @@ const Features = () => {
               <img
                 src="https://cdn-icons-png.flaticon.com/512/4341/4341025.png"
                 className="w-12"
-                width="512"
-                height="512"
+                // width="512"
+                // height="512"
                 alt="burger illustration"
               />
 
