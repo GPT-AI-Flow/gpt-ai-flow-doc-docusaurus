@@ -144,6 +144,7 @@ const config = {
         logo: {
           alt: 'GPT AI Flow Logo',
           src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png',
+          srcDark: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
         },
         items: [
           {
@@ -226,7 +227,13 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GPT AI Flow`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
+        logo: {
+          alt: 'logo-gptaiflow-in-footer',
+          src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
+          srcDark: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
+          width: 200,
+        },
       },
       prism: {
         // theme: lightCodeTheme,
