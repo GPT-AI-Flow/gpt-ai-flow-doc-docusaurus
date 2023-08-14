@@ -16,7 +16,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar.webp"
+                src="/img/astro-theme/avatars/avatar.webp"
                 alt="user avatar"
                 width="400"
                 height="400"
@@ -38,7 +38,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar-1.webp"
+                src="/img/astro-theme/avatars/avatar-1.webp"
                 alt="user avatar"
                 width="200"
                 height="200"
@@ -59,7 +59,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar-2.webp"
+                src="/img/astro-theme/avatars/avatar-2.webp"
                 alt="user avatar"
                 width="200"
                 height="200"
@@ -80,7 +80,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar-3.webp"
+                src="/img/astro-theme/avatars/avatar-3.webp"
                 alt="user avatar"
                 width="200"
                 height="200"
@@ -101,7 +101,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar-4.webp"
+                src="/img/astro-theme/avatars/avatar-4.webp"
                 alt="user avatar"
                 width="200"
                 height="200"
@@ -123,7 +123,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="./images/avatars/avatar-2.webp"
+                src="/img/astro-theme/avatars/avatar-2.webp"
                 alt="user avatar"
                 width="400"
                 height="400"

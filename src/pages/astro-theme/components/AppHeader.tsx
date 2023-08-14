@@ -75,8 +75,8 @@ const AppHeader = () => {
             >
               <div className="w-full text-gray-600 dark:text-gray-200 lg:w-auto lg:pr-4 lg:pt-0">
                 <ul className="flex flex-col gap-6 tracking-wide lg:flex-row lg:gap-0 lg:text-sm">
-                  {links.map((link) => (
-                    <li>
+                  {links.map((link, index) => (
+                    <li key={index}>
                       <a
                         href={link.to}
                         className="hover:text-primary block transition dark:hover:text-white md:px-4 hover:no-underline"

@@ -26,7 +26,7 @@ const Stats = () => {
 
         <div className="space-y-6 justify-between text-gray-600 md:flex flex-row-reverse md:gap-6 md:space-y-0 lg:gap-12 lg:items-center">
           <div className="md:5/12 lg:w-1/2">
-            <img src="./images/pie.svg" alt="image" loading="lazy" width="" height="" className="w-full" />
+            <img src="/img/astro-theme/pie.svg" alt="image" loading="lazy" width="" height="" className="w-full" />
           </div>
           <div className="md:7/12 lg:w-1/2">
             <h2 className="text-3xl font-bold text-gray-900 md:text-4xl dark:text-white">
