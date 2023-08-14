@@ -142,7 +142,7 @@ const config = {
       navbar: {
         // title: 'GPT AI Flow',
         logo: {
-          alt: 'GPT AI Flow Logo',
+          alt: 'logo-gptaiflow-in-navbar',
           src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png',
           srcDark: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
         },
