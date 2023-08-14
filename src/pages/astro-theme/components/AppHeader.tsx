@@ -41,7 +41,7 @@ const AppHeader = () => {
         <Container>
           <div className="relative flex flex-wrap items-center justify-between gap-6 py-3 md:gap-0 md:py-4">
             <div className="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
-              <a href="/#home" aria-label="logo" className="flex items-center space-x-2">
+              <a href="/#home" aria-label="logo" className="flex items-center space-x-2 hover:no-underline">
                 <div aria-hidden="true" className="flex space-x-1">
                   <div className="h-4 w-4 rounded-full bg-gray-900 dark:bg-white"></div>
                   <div className="h-6 w-2 bg-primary"></div>
@@ -77,7 +77,10 @@ const AppHeader = () => {
                 <ul className="flex flex-col gap-6 tracking-wide lg:flex-row lg:gap-0 lg:text-sm">
                   {links.map((link) => (
                     <li>
-                      <a href={link.to} className="hover:text-primary block transition dark:hover:text-white md:px-4">
+                      <a
+                        href={link.to}
+                        className="hover:text-primary block transition dark:hover:text-white md:px-4 hover:no-underline"
+                      >
                         <span>{link.label}</span>
                       </a>
                     </li>
@@ -86,7 +89,7 @@ const AppHeader = () => {
                     <a
                       href="https://tailus.gumroad.com/l/astls-premium"
                       target="_blank"
-                      className="flex gap-2 font-semibold text-gray-700 transition hover:text-primary dark:text-white dark:hover:text-white md:px-4"
+                      className="flex gap-2 font-semibold text-gray-700 transition hover:text-primary dark:text-white dark:hover:text-white md:px-4 hover:no-underline"
                     >
                       <span>Premium</span>
                       <span className="flex rounded-full bg-primary/20 px-1.5 py-0.5 text-xs tracking-wider text-purple-700 dark:bg-white/10 dark:text-orange-300">
@@ -101,7 +104,7 @@ const AppHeader = () => {
               <div className="mt-12 lg:mt-0">
                 <a
                   href="/register"
-                  className="relative flex h-9 w-full items-center justify-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
+                  className="relative flex h-9 w-full items-center justify-center px-4 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max hover:no-underline"
                 >
                   <span className="relative text-sm font-semibold text-white"> Get Started</span>
                 </a>
