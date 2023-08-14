@@ -1,4 +1,5 @@
 import React, { useEffect, type ComponentProps } from 'react';
+import { useLocation } from 'react-router-dom';
 import clsx from 'clsx';
 import { useThemeConfig } from '@docusaurus/theme-common';
 import { useHideableNavbar, useNavbarMobileSidebar } from '@docusaurus/theme-common/internal';
@@ -20,6 +21,9 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
   const { navbarRef, isNavbarVisible } = useHideableNavbar(hideOnScroll);
 
   // === Add by xiaoka - start ===
+  const location = useLocation();
+  const { pathname } = location;
+
   const [scrollTop, setScrollTop] = React.useState(0);
 
   useEffect(() => {
@@ -55,7 +59,7 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
         }
       )}
       // === Add by xiaoka - start ===
-      style={scrollTop <= 0 ? { background: 'transparent', boxShadow: 'none' } : {}}
+      style={pathname === '/' && scrollTop <= 0 ? { background: 'transparent', boxShadow: 'none' } : {}}
       // === Add by xiaoka - end ===
     >
       {children}
