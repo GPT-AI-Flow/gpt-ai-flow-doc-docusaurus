@@ -141,6 +141,7 @@ const config = {
       },
       navbar: {
         // title: 'GPT AI Flow',
+        hideOnScroll: true,
         logo: {
           alt: 'logo-gptaiflow-in-navbar',
           src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png',

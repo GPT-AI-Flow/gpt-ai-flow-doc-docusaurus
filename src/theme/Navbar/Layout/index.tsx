@@ -1,4 +1,4 @@
-import React, { type ComponentProps } from 'react';
+import React, { useEffect, type ComponentProps } from 'react';
 import clsx from 'clsx';
 import { useThemeConfig } from '@docusaurus/theme-common';
 import { useHideableNavbar, useNavbarMobileSidebar } from '@docusaurus/theme-common/internal';
@@ -18,6 +18,24 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
   } = useThemeConfig();
   const mobileSidebar = useNavbarMobileSidebar();
   const { navbarRef, isNavbarVisible } = useHideableNavbar(hideOnScroll);
+
+  // === Add by xiaoka - start ===
+  const [scrollTop, setScrollTop] = React.useState(0);
+
+  useEffect(() => {
+    function handleScroll() {
+      const scrollTopValue = window.scrollY || document.documentElement.scrollTop;
+      setScrollTop(scrollTopValue);
+    }
+
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+  // === Add by xiaoka - end ===
+
   return (
     <nav
       ref={navbarRef}
@@ -37,7 +55,7 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
         }
       )}
       // === Add by xiaoka - start ===
-      style={{ background: 'transparent', boxShadow: 'none' }}
+      style={scrollTop <= 0 ? { background: 'transparent', boxShadow: 'none' } : {}}
       // === Add by xiaoka - end ===
     >
       {children}
