@@ -32,7 +32,7 @@ const Blog = () => {
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
                 Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
               </p>
-              <a className="inline-block" href="#">
+              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
                 <span className="text-info dark:text-blue-300">Read more</span>
               </a>
             </div>
@@ -55,7 +55,7 @@ const Blog = () => {
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
                 Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
               </p>
-              <a className="inline-block" href="#">
+              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
                 <span className="text-info dark:text-blue-300">Read more</span>
               </a>
             </div>
@@ -78,7 +78,7 @@ const Blog = () => {
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
                 Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
               </p>
-              <a className="inline-block" href="#">
+              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
                 <span className="text-info dark:text-blue-300">Read more</span>
               </a>
             </div>

@@ -48,7 +48,11 @@ const Features = () => {
                   Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
                 </p>
               </div>
-              <a href="#" className="flex items-center justify-between group-hover:text-secondary">
+              <a
+                href="#"
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-sm">Read more</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +87,11 @@ const Features = () => {
                   Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
                 </p>
               </div>
-              <a href="#" className="flex items-center justify-between group-hover:text-secondary">
+              <a
+                href="#"
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-sm">Read more</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +126,11 @@ const Features = () => {
                   Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
                 </p>
               </div>
-              <a href="#" className="flex items-center justify-between group-hover:text-secondary">
+              <a
+                href="#"
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-sm">Read more</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -153,7 +165,11 @@ const Features = () => {
                   Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
                 </p>
               </div>
-              <a href="#" className="flex items-center justify-between group-hover:text-secondary">
+              <a
+                href="#"
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-sm">Read more</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

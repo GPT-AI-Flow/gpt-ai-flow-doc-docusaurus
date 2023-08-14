@@ -1,4 +1,5 @@
 import './Layout.css';
+import '../buttons.scss';
 
 import React from 'react';
 import Head from '@docusaurus/Head';
