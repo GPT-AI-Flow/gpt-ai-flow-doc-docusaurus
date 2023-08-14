@@ -140,10 +140,10 @@ const config = {
         },
       },
       navbar: {
-        title: 'GPT AI Flow',
+        // title: 'GPT AI Flow',
         logo: {
           alt: 'GPT AI Flow Logo',
-          src: 'img/apple-touch-icon.png',
+          src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png',
         },
         items: [
           {

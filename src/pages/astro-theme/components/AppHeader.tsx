@@ -46,7 +46,8 @@ const AppHeader = () => {
                   <div className="h-4 w-4 rounded-full bg-gray-900 dark:bg-white"></div>
                   <div className="h-6 w-2 bg-primary"></div>
                 </div>
-                <span className="text-2xl font-bold text-gray-900 dark:text-white">Astrolus</span>
+                <img src="/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png" alt="logo-for-gptaiflow" className="h-8" />
+                {/* <span className="text-2xl font-bold text-gray-900 dark:text-white">GPT AI Flow</span> */}
               </a>
 
               <div className="relative flex max-h-10 items-center lg:hidden">
