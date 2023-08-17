@@ -7,10 +7,9 @@ const Blog = () => {
     <div id="blog">
       <Container>
         <div className="mb-12 space-y-2 text-center">
-          <h2 className="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">Latest Articles</h2>
+          <h2 className="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">最新洞见</h2>
           <p className="lg:mx-auto lg:w-6/12 text-gray-600 dark:text-gray-300">
-            Quam hic dolore cumque voluptate rerum beatae et quae, tempore sunt, debitis dolorum officia aliquid
-            explicabo? Excepturi, voluptate?
+            探索自媒体领域与 AI 结合的前沿思考和技术趋势，为您的内容制作提供深入的启示。
           </p>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -26,14 +25,12 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
-                De fuga fugiat lorem ispum laboriosam expedita.
-              </h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">AI在自媒体中的创新应用</h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
+                探索AI如何助力自媒体内容的创新，以及未来可能的趋势。
               </p>
               <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
-                <span className="text-info dark:text-blue-300">Read more</span>
+                <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
           </div>
@@ -49,14 +46,12 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
-                De fuga fugiat lorem ispum laboriosam expedita.
-              </h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">提高内容互动：数据驱动的策略</h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
+                数据如何指引自媒体创作者精准地定位受众，优化内容互动与用户体验？
               </p>
               <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
-                <span className="text-info dark:text-blue-300">Read more</span>
+                <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
           </div>
@@ -72,14 +67,12 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
-                De fuga fugiat lorem ispum laboriosam expedita.
-              </h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">AI在内容推荐中的深度整合</h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
+                详细分析AI如何在自媒体平台中进行内容推荐，以及对用户行为的深度洞察。
               </p>
               <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
-                <span className="text-info dark:text-blue-300">Read more</span>
+                <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
           </div>
