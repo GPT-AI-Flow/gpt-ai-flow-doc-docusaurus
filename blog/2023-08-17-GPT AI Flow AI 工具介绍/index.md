@@ -20,4 +20,4 @@ authors: xiaoka
 
 现在就试用 GPT AI Flow，让我们一起创造你的成功故事！别再羡慕别人，利用 AI，你也可以成为自媒体领域的**超级个体**。
 
-[立即体验](../../docs/2-proudct//3-registration-process.md#下载-gpt-ai-flow-软件安装)
+[立即体验](/docs/proudct/registration-process) <!-- 注册安装流程 -->

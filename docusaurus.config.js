@@ -104,7 +104,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          blogSidebarTitle: '最新洞见',
+          blogSidebarTitle: '博客文章',
           blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -165,7 +165,7 @@ const config = {
             label: '提示课程',
             position: 'left',
           },
-          { to: '/blog', label: '最新洞见', position: 'left' },
+          { to: '/blog', label: '博客文章', position: 'left' },
           {
             to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases',
             label: '下载',
