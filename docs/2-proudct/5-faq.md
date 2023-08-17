@@ -53,3 +53,11 @@
 2. 所有在 OpenAI API 花费超过 1 美元的用户，都会授予 GPT-4 API(8k)的访问权限。
 
 ![](./img/5-faq/2023-08-13-img6-access-about-openai-gpt-4.png)
+
+## 联系我们
+
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
+- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
+
+感谢您选择 GPT AI Flow ！
