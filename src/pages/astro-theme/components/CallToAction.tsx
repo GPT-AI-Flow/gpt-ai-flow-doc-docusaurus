@@ -65,14 +65,14 @@ const CallToAction = () => {
             </p>
             <div className="flex flex-wrap justify-center gap-6">
               <a
-                href="#"
+                href="/docs/proudct/registration-process#%E4%B8%8B%E8%BD%BD-gpt-ai-flow-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85" // #下载-gpt-ai-flow-软件安装
                 className="get-start-button relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
                 <span className="relative text-base font-semibold text-white dark:text-dark">开始创作</span>
               </a>
               <a
-                href="#"
+                href="/docs/proudct/modules" // 产品模块介绍
                 className="learn-more-button relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:border before:border-transparent before:bg-primary/10 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
