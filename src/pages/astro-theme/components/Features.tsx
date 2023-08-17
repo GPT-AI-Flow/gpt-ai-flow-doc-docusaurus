@@ -21,12 +21,10 @@ const Features = () => {
           </svg>
 
           <h2 className="my-8 text-2xl font-bold text-gray-700 dark:text-white md:text-4xl">
-            A technology-first approach to payments and finance
+            智能AI，让您的自媒体营销更轻松
           </h2>
           <p className="text-gray-600 dark:text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ad ipsum pariatur autem, fugit laborum in
-            atque amet obcaecati? Nisi minima aspernatur, quidem nulla cupiditate nam consequatur eligendi magni
-            adipisci.
+            我们的AI工具为您提供了一个强大的平台，帮助您自动化内容生成、分析受众数据并优化您的自媒体战略。
           </p>
         </div>
         <div className="mt-16 grid divide-x divide-y divide-gray-100 dark:divide-gray-700 overflow-hidden rounded-3xl border border-gray-100 text-gray-600 dark:border-gray-700 sm:grid-cols-2 lg:grid-cols-4 lg:divide-y-0 xl:grid-cols-4">
@@ -42,18 +40,19 @@ const Features = () => {
 
               <div className="space-y-2">
                 <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  First feature
+                  多语翻译员
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
+                  🌍 <b>免费</b>的多语言翻译支持
                 </p>
+                <p className="text-gray-600 dark:text-gray-300">✉️ 专门针对职场文档的翻译优化</p>
               </div>
               <a
                 href="#"
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="text-sm">Read more</span>
+                <span className="text-sm">了解更多</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -81,10 +80,16 @@ const Features = () => {
 
               <div className="space-y-2">
                 <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  Second feature
+                  社交媒体经理
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
+                  📕 专为<b>小红书</b>定制的文案生成
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💬 快速生成社交媒体<b>评论文案</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🤝 <b>职场沟通</b>模块，帮助您更好地与团队、客户沟通
                 </p>
               </div>
               <a
@@ -92,7 +97,7 @@ const Features = () => {
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="text-sm">Read more</span>
+                <span className="text-sm">了解更多</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -120,10 +125,13 @@ const Features = () => {
 
               <div className="space-y-2">
                 <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  Third feature
+                  办公室白领
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
+                  📄 <b>求职简历</b>、<b>求职信</b>生成与优化模块，帮助您更容易获得理想工作
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🗣 <b>职场与面试沟通</b>模块，提供实时的面试技巧与建议
                 </p>
               </div>
               <a
@@ -131,7 +139,7 @@ const Features = () => {
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="text-sm">Read more</span>
+                <span className="text-sm">了解更多</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -162,7 +170,13 @@ const Features = () => {
                   More features
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Neque Dolor, fugiat non cum doloribus aperiam voluptates nostrum.
+                  ✍️ 为<b>营销策略</b>与广告活动定制的文案工具
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🔍 <b>SEO内容优化</b> 易于被搜索引擎收录，提升排名
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎯 使您的文案<b>更易被受众</b>发现
                 </p>
               </div>
               <a
@@ -170,7 +184,7 @@ const Features = () => {
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="text-sm">Read more</span>
+                <span className="text-sm">了解更多</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
