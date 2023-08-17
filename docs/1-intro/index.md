@@ -56,7 +56,7 @@ title: 介绍
 
 想要体验一键生成的魔法吗？现在就开始立即 [免费试用](../2-proudct/3-registration-process.md#下载-gpt-ai-flow-软件安装)
 
-:::tip
+:::info
 更多与 AI 相关的知识和视频内容正在制作中，很快将会与大家见面！  
 请关注 [小卡大脑洞](https://space.bilibili.com/137975681) 频道，关注 AI 发展和应用，提升 10 倍个人效率，成为超级个体。
 :::
