@@ -1,0 +1,43 @@
+.get-start-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px; /* rounded-full effect */
+  background-color: #9333ea;
+  transition: all 0.3s ease;
+}
+.get-start-button:hover::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px; /* rounded-full effect */
+  background-color: #9333ea;
+  transition: all 0.3s ease;
+  transition-duration: 0.075s;
+  transform: scale(1.05);
+}
+
+.learn-more-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: transparent;
+  background-color: #9333ea; // Replace with your primary color
+  background-image: linear-gradient(to bottom, #9333ea, #9333ea); // Replace with your gradient
+  opacity: 0.1; // bg-primary/10
+  transition: all 0.3s ease;
+}
+.learn-more-button:hover::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: transparent;
+  background-color: #9333ea; // Replace with your primary color
+  background-image: linear-gradient(to bottom, #9333ea, #9333ea); // Replace with your gradient
+  opacity: 0.1; // bg-primary/10
+  transition: all 0.3s ease;
+  transition-duration: 0.075s;
+  transform: scale(1.05);
+}

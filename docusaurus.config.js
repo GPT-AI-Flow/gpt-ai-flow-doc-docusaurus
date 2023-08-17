@@ -104,13 +104,15 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: '博客文章',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
         sitemap: {
           changefreq: 'weekly',
@@ -140,10 +142,12 @@ const config = {
         },
       },
       navbar: {
-        title: 'GPT AI Flow',
+        // title: 'GPT AI Flow',
+        hideOnScroll: true,
         logo: {
-          alt: 'GPT AI Flow Logo',
-          src: 'img/apple-touch-icon.png',
+          alt: 'logo-gptaiflow-in-navbar',
+          src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-1.png',
+          srcDark: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
         },
         items: [
           {
@@ -152,30 +156,16 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/proudct/presentation',
-            label: '产品说明',
-            position: 'left',
-          },
-          {
-            to: '/docs/application-scenarios/creative-writing-and-ai',
-            label: '应用场景',
-            position: 'left',
-          },
-          {
             to: '/docs/prompt-engineering/How-to-ask-the-gpt',
             label: '提示课程',
             position: 'left',
           },
+          { to: '/blog', label: '博客文章', position: 'left' },
           {
             to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases',
             label: '下载',
             position: 'left',
           },
-          // {
-          //   href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
         ],
       },
       footer: {
@@ -226,7 +216,13 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GPT AI Flow`,
+        copyright: `Copyright © ${new Date().getFullYear()}`,
+        logo: {
+          alt: 'logo-gptaiflow-in-footer',
+          src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
+          srcDark: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
+          width: 200,
+        },
       },
       prism: {
         // theme: lightCodeTheme,
@@ -272,6 +268,18 @@ const config = {
       },
     ],
     'docusaurus-plugin-clarity',
+    'docusaurus-plugin-sass',
+    async function myPlugin(context, options) {
+      return {
+        name: 'docusaurus-tailwindcss',
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require('tailwindcss'));
+          postcssOptions.plugins.push(require('autoprefixer'));
+          return postcssOptions;
+        },
+      };
+    },
   ],
 };
 
