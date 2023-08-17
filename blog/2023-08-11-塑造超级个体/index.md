@@ -1,19 +1,24 @@
 ---
 locale: 'zh'
 title: '塑造超级个体'
+slug: exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals
 tags: ['AIGC', '人工智能', '合作', '超级个体', '探索', '技术前沿']
 keywords: ['AIGC', '人工智能', 'AI与人类合作', '超级个体', '技术探索']
 description: '本文深入探索了AIGC与人类合作的无限可能性，阐述了这种合作如何能塑造出超级个体。我们的讨论涵盖了AIGC的工作原理，以及它如何通过增强个体的能力和效率来改变我们的生活和工作方式。'
-image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg
+image: ./img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg
+authors:
+  name: AIGC
+  url: https://www.8btc.com/article/6813510
+  image_url: ./img/2023-08-17-author-avatar.png
 ---
 
 # 超级个体：探索 AIGC 与人类合作的无限可能
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg)
+![](./img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg)
 
 ## 开头
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-2-FqgstT25hlQ9N3GWzWNr6rfiJM3B.png)
+![](./img/2023-08-03-img-2-FqgstT25hlQ9N3GWzWNr6rfiJM3B.png)
 
 让我们先从个人标签说起，这里是我的一些标签，一个设计师，一个大学学的是食品化学的转行设计师，我还是一个自媒体人，除了前沿的人工智能，我对中西方最古老的文化感兴趣，我会针灸，会占星。
 
@@ -27,7 +32,7 @@ image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-s
 
 我为什么会在开头说这些，因为这一点在现在这个 AIGC 的时代变得越发明显了。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-3-FutvPD_K-vWRRoYyPaIY0w4ky5gU.png)
+![](./img/2023-08-03-img-3-FutvPD_K-vWRRoYyPaIY0w4ky5gU.png)
 
 这个是《纳瓦尔宝典》里的一段话，这本书是 2020 年出版的，这段话是我印象最深刻的一段。读四年大学，然后在一个职位上干 30 年，这是一个我们上一辈十分常见的生存方式。但是现在已经完全不一样了。
 
@@ -39,11 +44,11 @@ image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-s
 
 但是 controlnet 这个技术的出现让大家更加精准的控制输出，以前那些为了让输出稳定，做了大量研究的写词攻略就失效了。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-4-FpTYcwdqjgY4-qEqrWpdaM53B7gN.png)
+![](./img/2023-08-03-img-4-FpTYcwdqjgY4-qEqrWpdaM53B7gN.png)
 
 这张图是过去几年，AIGC 大事件的时间轴。在 22 年之前，AIGC 的发展都是非常缓慢的，只是一个非常小众的领域，大家对此毫不在意。我记得去年刚开始的时候，我还可以按月来去学习 AIGC 的知识，大新闻每个月也就发生那么一两次，在研究 disco diffusion 和 midjouney 的时候根本没有想到事情会进展到今天这样。画一些精度不够高的图可能就是极限了。没有人会想到现在任何一个领域的任何一个职位都有可能被 AI 侵入。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-5-FsqUoqmOlLIowyzvaasAZYr9FwPI.png)
+![](./img/2023-08-03-img-5-FsqUoqmOlLIowyzvaasAZYr9FwPI.png)
 
 大概从去年的 12 月开始，aigc 的发展速度就开始指数级的上升了，标志性的事件有 chatgpt 的发布，AI 绘画领域的 lora 模型和 controlnet 也迅速的发展了起来。lora 模型的自训练和 controlnet 对画面的控制能力，都让文生图变得更加的落地，补全了它进入工作流的最后一块拼图。
 
@@ -59,7 +64,7 @@ image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-s
 
 我的观点是：AIGC 必然会取代一大批人，造成大量的失业。但与此同时，它也会给小公司和个人带来从未有过的机遇。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-6-FpmJIOJu041EtGFSMlfquob3_1cp.png)
+![](./img/2023-08-03-img-6-FpmJIOJu041EtGFSMlfquob3_1cp.png)
 
 在 AIGC 的时代，公司会变成什么样？其实 midjouney 就是一个很好的例子，它没有软件，没有 App，没有融资，靠着 11 个人自筹资金，在不到一年的时间拥有了全球千万用户，年营收上亿美金。
 
@@ -73,7 +78,7 @@ image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-s
 
 对于公司如此，那么对于个人呢？
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-7-FjBKPJzuoM6OqQG2MYCbhpofHX9R.png)
+![](./img/2023-08-03-img-7-FjBKPJzuoM6OqQG2MYCbhpofHX9R.png)
 
 在我眼里，人可以大致可以分成 2 类，一种是工具人，另一种是使用工具的人。
 
@@ -93,7 +98,7 @@ image: ./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-s
 
 AIGC 带来的不仅仅是科技革命带来的生产力的提升。它是一种可以无限生产杠杆的杠杆。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-8-FtJcaM7I6gF4nbKVtSDmQ83iJo24.png)
+![](./img/2023-08-03-img-8-FtJcaM7I6gF4nbKVtSDmQ83iJo24.png)
 
 什么是杠杆？
 
@@ -135,11 +140,11 @@ AIGC 相当于给了你一个可以自己生产杠杆的杠杆。
 
 我会先从时间和技能的角度举一些案例。然后再详细说一下 AIGC 在信息的获取层面可以做哪些事情。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-9-FqRB0rBTBMJrnKvUBbw4r34IcWpy.png)
+![](./img/2023-08-03-img-9-FqRB0rBTBMJrnKvUBbw4r34IcWpy.png)
 
 这是一张混合了赛博朋克风格的蒙娜丽莎的插画，在过去一个插画师绘制类似水准的画，大概需要一周的时间。现在我们任何一个没有任何绘画基础的人只需要 60 s 就可以完成
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-10-FtXNGrYKloVDg65jQ2b_jiirXVv1.png)
+![](./img/2023-08-03-img-10-FtXNGrYKloVDg65jQ2b_jiirXVv1.png)
 
 我知道其实用 AI 训练画风在版权上有争议。但是在过去，一个人学会一个画风，只是 copy 不是创造的那种，都需要花费大量的时间。很多人终其一生都花在复制别人的画风，并且一辈子也不一定能掌握多少种。
 
@@ -149,19 +154,19 @@ AIGC 相当于给了你一个可以自己生产杠杆的杠杆。
 
 我们可以在有限的生命里，去探索更多的可能性。整个绘画史，都是不同元素风格的排列组合，并不存在什么空前绝后的原创。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-11-Fltp7FHqMr81wzSSHVM2IoUotG0L.png)
+![](./img/2023-08-03-img-11-Fltp7FHqMr81wzSSHVM2IoUotG0L.png)
 
 我们从来没有如此快速的，去获取这些生产性的技能来进行内容的创作。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-12-Fvo8gngQJkTg-5BTw2YCM6lp1RJP.png)
+![](./img/2023-08-03-img-12-Fvo8gngQJkTg-5BTw2YCM6lp1RJP.png)
 
 就拿漫画和动画来说，一直是一个劳动密集型的行业，但是在 AIGC 的技术加持下，已经有人通过 chatgpt 写故事，再通过文生图工具，几个小时就能制作出一本漫画。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-13-FrRagZ6tlAFpgO1EKe63Qu3TvJPD.png)
+![](./img/2023-08-03-img-13-FrRagZ6tlAFpgO1EKe63Qu3TvJPD.png)
 
 还有人用 chatgpt 用一天写了一本 100 多页的书，并且拿到亚马逊买，售价一美金。据说亚马逊上人类和 gpt 合作的书籍已经越来越多了，甚至他们单独有个 chatgpt 类别的分区。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-14-FhWueC6jp1OHUv5GSq-t78TEvxsN.png)
+![](./img/2023-08-03-img-14-FhWueC6jp1OHUv5GSq-t78TEvxsN.png)
 
 ## AIGC 帮你更好的获取信息
 
@@ -175,18 +180,14 @@ chatgpt 加搜索，这个目前能看到的产品就 newbing，我们之前通�
 
 我们还可以通过 gpt 去帮助我们归纳和总结，比如我去看一篇论文，论文太长我看不太懂怎么办？可以把这篇论文喂给 gpt，然后让它来讲给你听。
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-15-FrLdNFbuAaDACRnEpnZFB5-LHfGC.png)
+![](./img/2023-08-03-img-15-FrLdNFbuAaDACRnEpnZFB5-LHfGC.png)
 
 另外分享一个 AIGC 的工具网站，这个网站整合了 1680 种最新的 AIGC 工具，并且做了很详细的分类和介绍，这里的每一种都可以在一个方向拓展你的能力边界。
 
 https://www.futurepedia.io/‌
 
-![](./img/4-exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals/2023-08-03-img-16-Fo8R5JQikMdL5WBT30sVfo0PSIMR.png)
+![](./img/2023-08-03-img-16-Fo8R5JQikMdL5WBT30sVfo0PSIMR.png)
 
 其实 aigc 这个技术是个双刃剑，在未来的三五年之内，会颠覆掉很多我们已经熟悉的模式。
 
 它会造成一个相对混乱的时期，但是这个混乱是深渊还是阶梯，取决于你是如何看待和使用它。
-
-## 来源
-
-- 转载自：https://www.8btc.com/article/6813510
