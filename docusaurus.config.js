@@ -161,11 +161,6 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/application-scenarios/creative-writing-and-ai',
-            label: '应用场景',
-            position: 'left',
-          },
-          {
             to: '/docs/prompt-engineering/How-to-ask-the-gpt',
             label: '提示课程',
             position: 'left',
@@ -175,11 +170,7 @@ const config = {
             label: '下载',
             position: 'left',
           },
-          // {
-          //   href: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          { to: '/blog', label: '最新洞见', position: 'left' },
         ],
       },
       footer: {
