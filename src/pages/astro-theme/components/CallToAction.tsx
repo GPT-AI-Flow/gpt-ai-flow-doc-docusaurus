@@ -58,10 +58,10 @@ const CallToAction = () => {
           </div>
           <div className="mt-6 m-auto space-y-6 md:w-8/12 lg:w-7/12">
             <h1 className="text-center text-4xl font-bold text-gray-800 dark:text-white md:text-5xl">
-              Get Started now
+              提升您的内容制作水平
             </h1>
             <p className="text-center text-xl text-gray-600 dark:text-gray-300">
-              Be part of millions people around the world using tailus in modern User Interfaces.
+              加入全球的创作者，使用我们的AI工具轻松地创作出引人入胜的内容。
             </p>
             <div className="flex flex-wrap justify-center gap-6">
               <a
@@ -69,14 +69,14 @@ const CallToAction = () => {
                 className="get-start-button relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="relative text-base font-semibold text-white dark:text-dark">Get Started</span>
+                <span className="relative text-base font-semibold text-white dark:text-dark">开始创作</span>
               </a>
               <a
                 href="#"
                 className="learn-more-button relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:border before:border-transparent before:bg-primary/10 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="relative text-base font-semibold text-primary dark:text-white">More about</span>
+                <span className="relative text-base font-semibold text-primary dark:text-white">探索功能</span>
               </a>
             </div>
           </div>
