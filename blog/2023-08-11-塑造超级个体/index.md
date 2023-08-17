@@ -1,6 +1,5 @@
 ---
-locale: 'zh'
-title: '塑造超级个体'
+title: '超级个体：探索 AIGC 与人类合作的无限可能'
 slug: exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals
 tags: ['AIGC', '人工智能', '合作', '超级个体', '探索', '技术前沿']
 keywords: ['AIGC', '人工智能', 'AI与人类合作', '超级个体', '技术探索']

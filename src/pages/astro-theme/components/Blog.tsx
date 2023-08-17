@@ -13,10 +13,11 @@ const Blog = () => {
           </p>
         </div>
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          {/* Article 1 - start */}
           <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
             <div className="relative overflow-hidden rounded-xl">
               <img
-                src="https://images.unsplash.com/photo-1661749711934-492cd19a25c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
+                src="/img/blog/articles/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg"
                 alt="art cover"
                 loading="lazy"
                 width="1000"
@@ -25,16 +26,25 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">AI在自媒体中的创新应用</h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                超级个体：探索 AIGC 与人类合作的无限可能
+              </h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                探索AI如何助力自媒体内容的创新，以及未来可能的趋势。
+                本文深入探索了AIGC与人类合作的无限可能性，阐述了这种合作如何能塑造出超级个体。我们的讨论涵盖了AIGC的工作原理，以及它如何通过增强个体的能力和效率来改变我们的生活和工作方式。
               </p>
-              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
+              <a
+                className="inline-block"
+                href="/blog/exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
           </div>
-          <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+          {/* Article 1 - end */}
+
+          {/* Article 2 - start */}
+          {/* <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
             <div className="relative overflow-hidden rounded-xl">
               <img
                 src="https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
@@ -54,8 +64,11 @@ const Blog = () => {
                 <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
-          </div>
-          <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+          </div> */}
+          {/* Article 2 - end */}
+
+          {/* Article 3 - start */}
+          {/* <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
             <div className="relative overflow-hidden rounded-xl">
               <img
                 src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80"
@@ -75,7 +88,8 @@ const Blog = () => {
                 <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
-          </div>
+          </div> */}
+          {/* Article 3 - end */}
         </div>
       </Container>
     </div>
