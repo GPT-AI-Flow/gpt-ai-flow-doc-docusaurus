@@ -165,12 +165,12 @@ const config = {
             label: '提示课程',
             position: 'left',
           },
+          { to: '/blog', label: '最新洞见', position: 'left' },
           {
             to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases',
             label: '下载',
             position: 'left',
           },
-          { to: '/blog', label: '最新洞见', position: 'left' },
         ],
       },
       footer: {
