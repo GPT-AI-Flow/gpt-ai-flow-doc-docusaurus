@@ -156,11 +156,6 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/proudct/presentation',
-            label: '产品说明',
-            position: 'left',
-          },
-          {
             to: '/docs/prompt-engineering/How-to-ask-the-gpt',
             label: '提示课程',
             position: 'left',
