@@ -31,7 +31,10 @@ import Blog from './astro-theme/components/Blog';
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`AI 内容创作体验`} description="一块屏幕上打造极致的 AI 内容创作体验">
+    <Layout
+      title={`自媒体AI助手: 高效创作, 卓越成果!`}
+      description="面对自媒体内容创作的挑战, GPT AI Flow 是您的最佳助手。适合新手到专业博主，我们帮您生成高质量文案、优化互动并确保内容被搜索引擎发现。加入我们，共创成功故事！"
+    >
       {/* <HomepageHeader /> */}
       {/* <HomepageFeatures /> */}
       <main className="space-y-40 mb-40">
