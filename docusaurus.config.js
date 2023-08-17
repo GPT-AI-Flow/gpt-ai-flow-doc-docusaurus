@@ -133,7 +133,7 @@ const config = {
         textColor: 'white',
         isCloseable: false,
       },
-      image: 'img/gpt-ai-flow-social-card.png',
+      image: 'img/2023-08-17-gpt-ai-flow-social-card.png',
       docs: {
         sidebar: {
           hideable: false,
