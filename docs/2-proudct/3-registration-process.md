@@ -100,3 +100,11 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 ## 开始使用
 
 ![](./img/3-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
+
+## 联系我们
+
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
+- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
+
+感谢您选择 GPT AI Flow ！

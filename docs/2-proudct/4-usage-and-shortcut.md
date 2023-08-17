@@ -41,3 +41,11 @@
 选中输入框的情况下，按 `Shift + 回车` 换行，另起一行输入。
 
 ![](./img/4-usage-and-shortcut/2023-08-06-img-6-type-in-a-new-line.gif)
+
+## 联系我们
+
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
+- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
+
+感谢您选择 GPT AI Flow ！

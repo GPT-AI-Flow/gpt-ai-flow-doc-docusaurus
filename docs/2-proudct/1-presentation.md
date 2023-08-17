@@ -53,14 +53,13 @@ title: 介绍
 **小型自媒体团队**：确保团队输出的内容始终高质量、风格一致。
 
 :::tip
-想要体验一键生成的魔法吗？现在就开始[免费试用](./3-registration-process.md)！
+想要体验一键生成的魔法吗？现在就开始[免费试用](./3-registration-process.md#下载-gpt-ai-flow-软件安装)！
 :::
 
 ## 联系我们
 
-有疑问？请联系我们：
-
-- 客服邮箱：hello@gptaiflow.com
-- [产品反馈页面](https://wj.qq.com/s2/12214642/c9c6)
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
+- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
 
 感谢您选择 GPT AI Flow ！
