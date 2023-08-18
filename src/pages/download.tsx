@@ -28,7 +28,6 @@ const DownloadPage = (): JSX.Element => {
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.19/GPT.AI.Flow-0.1.19.dmg"
-                    target="_blank"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -42,7 +41,6 @@ const DownloadPage = (): JSX.Element => {
                   </a>
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.19/GPT.AI.Flow-0.1.19-arm64.dmg"
-                    target="_blank"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -56,7 +54,6 @@ const DownloadPage = (): JSX.Element => {
                   </a>
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.19/GPT.AI.Flow.Setup.0.1.19.exe"
-                    target="_blank"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
