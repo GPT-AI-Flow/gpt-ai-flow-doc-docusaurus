@@ -69,6 +69,29 @@ const DownloadPage = (): JSX.Element => {
                     下载 Windows 版本
                   </a>
                 </div>
+                <div className="hidden flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
+                  <p className="mt-2 text-gray-500">
+                    <a
+                      href="/docs/proudct/registration-process"
+                      className="text-gray-500 hover:text-gray-500 hover:no-underline"
+                    >
+                      注册安装流程
+                    </a>
+                  </p>
+                  <p className="mt-2 text-gray-500">
+                    <a
+                      href="/docs/proudct/usage-and-shortcut"
+                      className="text-gray-500 hover:text-gray-500 hover:no-underline"
+                    >
+                      使用与快捷键
+                    </a>
+                  </p>
+                  <p className="mt-2 text-gray-500">
+                    <a href="/docs/proudct/faq" className="text-gray-500 hover:text-gray-500 hover:no-underline">
+                      常见问题
+                    </a>
+                  </p>
+                </div>
               </div>
               <img
                 src="/img/downloadPage/2023-08-06-img-17-gpt-ai-flow-show.gif"
