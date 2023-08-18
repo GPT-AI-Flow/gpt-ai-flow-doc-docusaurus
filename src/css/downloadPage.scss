@@ -1,0 +1,35 @@
+/* styles.css */
+.download-link-button {
+  color: white;
+  background-color: #050708;
+  font-weight: medium;
+  border-radius: 0.375rem; /* Equivalent to rounded-lg */
+  font-size: 0.875rem; /* Equivalent to text-sm */
+  padding: 0.625rem 1.25rem; /* Equivalent to py-2.5 px-5 */
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.5rem; /* Equivalent to mr-2 */
+  margin-bottom: 0.5rem; /* Equivalent to mb-2 */
+  cursor: pointer;
+}
+
+.download-link-button:hover {
+  background-color: rgba(5, 7, 8, 0.9);
+  color: white;
+  text-decoration: none;
+}
+
+.download-link-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.25rem rgba(5, 7, 8, 0.5); /* Equivalent to focus:ring-4 and focus:ring-[#050708]/50 */
+}
+
+/* Assuming the "dark" class means a dark mode toggle or preference, you can prefix it with .dark */
+.dark .download-link-button:focus {
+  box-shadow: 0 0 0 0.25rem rgba(5, 7, 8, 0.5);
+}
+
+.dark .download-link-button:hover {
+  background-color: rgba(5, 7, 8, 0.3);
+}
