@@ -8,7 +8,7 @@ title: 高效产品模块
 
 擅长使用多种语言进行文字或口语翻译，确保信息完整、准确地传达。此外，它还提供语言教学辅导，帮助您轻松跨越语言障碍。
 
-[立即体验](./3-registration-process.md#下载-gpt-ai-flow-软件安装)
+[立即体验](/download)
 
 ## 社交媒体管理员
 
@@ -54,8 +54,9 @@ title: 高效产品模块
 
 ## 联系我们
 
+- 立即体验: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
-- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
+- 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
 
 感谢您选择 GPT AI Flow ！

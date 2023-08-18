@@ -54,7 +54,7 @@ OpenAI 官方后台: [点击这里](https://platform.openai.com/)
 
 ## 下载 GPT AI Flow 软件，安装
 
-下载链接: [点击这里](https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases)
+下载链接: [点击这里](/download)
 
 点击下载链接，根据自己的系统版本下载对应链接, `*.dmg`文件是运行在 Apple 苹果电脑的 MacOS 系统上，`*.exe`文件是运行在 Windows 系统上。
 
@@ -103,8 +103,9 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ## 联系我们
 
+- 立即体验: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](./5-faq.md)
-- [产品反馈](https://wj.qq.com/s2/12214642/c9c6)
+- 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
 
 感谢您选择 GPT AI Flow ！
