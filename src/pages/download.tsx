@@ -97,6 +97,7 @@ const DownloadPage = (): JSX.Element => {
                 className="m-auto md:w-5/12"
                 loading="lazy"
                 alt="mobility_illustration"
+                style={{ borderRadius: '0.5rem' }}
               />
             </div>
           </div>
