@@ -54,7 +54,7 @@ title: 介绍
 
 **所有想要成为超级个体的人**：打造强大的内容创作工具箱，助力每篇文章、视频或音频都达到专业的自媒体标准，使您的内容更具影响力。
 
-想要体验一键生成的魔法吗？现在就开始立即 [免费试用](../2-proudct/3-registration-process.md#下载-gpt-ai-flow-软件安装)
+想要体验一键生成的魔法吗？现在就开始立即 [免费试用](/download)
 
 :::info
 更多与 AI 相关的知识和视频内容正在制作中，很快将会与大家见面！  
@@ -63,7 +63,7 @@ title: 介绍
 
 ## 联系我们
 
-- 立即体验: [点击这里](../2-proudct//3-registration-process.md#下载-gpt-ai-flow-软件安装)
+- 立即体验: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](../2-proudct/5-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)

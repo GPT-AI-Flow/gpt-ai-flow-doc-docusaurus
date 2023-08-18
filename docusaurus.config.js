@@ -162,7 +162,7 @@ const config = {
           },
           { to: '/blog', label: '博客文章', position: 'left' },
           {
-            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases',
+            to: '/download',
             label: '下载',
             position: 'left',
           },
