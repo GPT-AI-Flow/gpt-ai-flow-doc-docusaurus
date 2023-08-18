@@ -15,6 +15,8 @@ authors:
 
 ![](./img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg)
 
+<!-- truncate -->
+
 ## 开头
 
 ![](./img/2023-08-03-img-2-FqgstT25hlQ9N3GWzWNr6rfiJM3B.png)
