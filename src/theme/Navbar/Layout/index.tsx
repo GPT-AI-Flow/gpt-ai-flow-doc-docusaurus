@@ -40,6 +40,21 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
   }, []);
   // === Add by xiaoka - end ===
 
+  const getStylesForPage = (pathname: string, scrollTop: number) => {
+    // const commonStyles = { transition: 'all 0.5s ease-out' };
+    const commonStyles = {};
+
+    if (pathname === '/' && scrollTop <= 0) {
+      return { ...commonStyles, background: 'transparent', boxShadow: 'none' };
+    }
+
+    if (pathname === '/download') {
+      return { ...commonStyles, boxShadow: 'none' };
+    }
+
+    return { ...commonStyles };
+  };
+
   return (
     <nav
       ref={navbarRef}
@@ -59,7 +74,7 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
         }
       )}
       // === Add by xiaoka - start ===
-      style={pathname === '/' && scrollTop <= 0 ? { background: 'transparent', boxShadow: 'none' } : {}}
+      style={getStylesForPage(pathname, scrollTop)}
       // === Add by xiaoka - end ===
     >
       {children}
