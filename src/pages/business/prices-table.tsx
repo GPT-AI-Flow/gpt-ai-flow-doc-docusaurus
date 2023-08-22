@@ -117,8 +117,8 @@ const PricesTable = () => {
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max"> 沟通专家模块 </span>
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
+                      ✓
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
