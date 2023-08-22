@@ -16,7 +16,7 @@ const PricesTable = () => {
           <div className="relative z-10">
             <div className="relative overflow-auto p-6">
               <table className="w-full border-t border-gray-100 dark:border-gray-700">
-                <thead>
+                <thead className="bg-white dark:bg-[--ifm-table-cell-color]">
                   <tr>
                     <td className="p-4 sm:sticky"></td>
                     <td className="p-8 space-y-8">
@@ -34,13 +34,11 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>15{' '}
+                        <span className="text-lg text-gray-500">$</span>0{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-sky-50 before:border before:border-sky-500 dark:before:border-gray-700 dark:before:bg-gray-800 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
-                        <span className="relative text-base font-semibold text-sky-600 dark:text-white">
-                          Get Started
-                        </span>
+                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-sky-50 border border-sky-500 dark:border-gray-700 dark:bg-gray-800 transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
+                        <span className="relative text-base font-semibold text-sky-600 dark:text-white">开始使用</span>
                       </button>
                     </td>
                     <td className="p-8 space-y-8">
@@ -58,14 +56,14 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>189{' '}
+                        <span className="text-lg text-gray-500">$</span>4.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary dark:before:bg-white before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
-                        <span className="relative text-base font-semibold text-white dark:text-dark">Buy Now</span>
+                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full border-0 cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
+                        <span className="relative text-base font-semibold text-white dark:text-black">成为会员</span>
                       </button>
                     </td>
-                    <td className="hidden p-8 space-y-8">
+                    {/* <td className="hidden p-8 space-y-8">
                       <img
                         src="/img/pricesPage/2023-08-23-organization.webp"
                         className="h-12 w-auto"
@@ -86,7 +84,7 @@ const PricesTable = () => {
                       <button className="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary dark:before:bg-white before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
                         <span className="relative text-base font-semibold text-white dark:text-dark">Buy Now</span>
                       </button>
-                    </td>
+                    </td> */}
                   </tr>
                 </thead>
 
