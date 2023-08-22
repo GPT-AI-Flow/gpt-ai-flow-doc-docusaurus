@@ -162,6 +162,11 @@ const config = {
           },
           { to: '/blog', label: '博客文章', position: 'left' },
           {
+            to: '/business/prices-table',
+            label: '价格',
+            position: 'left',
+          },
+          {
             to: '/download',
             label: '下载',
             position: 'left',
