@@ -28,9 +28,9 @@ const PricesTable = () => {
                         height=""
                       />
                       <div className="space-y-4">
-                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">FreeAI</h4>
+                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">FreeAI 免费版</h4>
                         <p className="text-sm text-gray-600 dark:text-gray-400">
-                          Delectus natus illum in, iste ut facilis ex sit culpa fuga dolor atque? Quis.
+                          为初学者和个体用户提供的入门级AI工具。
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
@@ -52,9 +52,9 @@ const PricesTable = () => {
                         height=""
                       />
                       <div className="space-y-4">
-                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">StartAI</h4>
+                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">StartAI 入门版</h4>
                         <p className="text-sm text-gray-600 dark:text-gray-400">
-                          Delectus natus illum vel veritatis in, iste ut facilis ex sit culpa fuga dolor atque? Quis.
+                          专为创业者和中小企业设计，提供多种专业模式以满足不同的业务需求。
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
@@ -65,7 +65,7 @@ const PricesTable = () => {
                         <span className="relative text-base font-semibold text-white dark:text-dark">Buy Now</span>
                       </button>
                     </td>
-                    <td className="p-8 space-y-8">
+                    <td className="hidden p-8 space-y-8">
                       <img
                         src="/img/pricesPage/2023-08-23-organization.webp"
                         className="h-12 w-auto"
@@ -74,9 +74,9 @@ const PricesTable = () => {
                         height=""
                       />
                       <div className="space-y-4">
-                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">MasterAI</h4>
+                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">MasterAI 企业版</h4>
                         <p className="text-sm text-gray-600 dark:text-gray-400">
-                          Delectus natus illum vel veritatis in, iste ut facilis ex sit culpa fuga dolor atque? Quis.
+                          为大型企业提供的高端AI解决方案，提供全方位的定制化服务和团队合作功能。
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
@@ -101,7 +101,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -115,7 +115,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -129,7 +129,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -143,7 +143,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -157,7 +157,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -171,7 +171,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -185,7 +185,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
@@ -199,7 +199,7 @@ const PricesTable = () => {
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
+                    <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
                       &check;
                     </td>
                   </tr>
