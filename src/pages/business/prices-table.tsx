@@ -37,9 +37,13 @@ const PricesTable = () => {
                         <span className="text-lg text-gray-500">$</span>0{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-sky-50 border border-sky-500 dark:border-gray-700 dark:bg-gray-800 transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                        <span className="relative text-base font-semibold text-sky-600 dark:text-white">开始使用</span>
-                      </button>
+                      <a
+                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-sky-50 border border-sky-500 dark:border-gray-700 dark:bg-gray-800 transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+                        href="/download"
+                        style={{ textDecoration: 'none' }}
+                      >
+                        <span className="relative text-base font-semibold  text-sky-600 dark:text-white">开始使用</span>
+                      </a>
                     </td>
                     <td className="p-8 space-y-8">
                       <img
@@ -59,9 +63,14 @@ const PricesTable = () => {
                         <span className="text-lg text-gray-500">$</span>4.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full border-0 cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                        <span className="relative text-base font-semibold text-white dark:text-black">成为会员</span>
-                      </button>
+                      <a
+                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full border-0 cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+                        href="/download"
+                      >
+                        <span className="relative text-base font-semibold align-middle text-white dark:text-black">
+                          成为会员
+                        </span>
+                      </a>
                     </td>
                     {/* <td className="hidden p-8 space-y-8">
                       <img
