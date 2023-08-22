@@ -166,6 +166,11 @@ const config = {
             label: '下载',
             position: 'left',
           },
+          {
+            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
