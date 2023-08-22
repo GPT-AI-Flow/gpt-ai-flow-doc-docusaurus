@@ -167,7 +167,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus',
+            to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/issues',
             label: 'GitHub',
             position: 'right',
           },
