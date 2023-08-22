@@ -94,13 +94,13 @@ const PricesTable = () => {
                       <span className="block w-max"> Favorite profile </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -114,7 +114,7 @@ const PricesTable = () => {
                       &times;
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -122,13 +122,13 @@ const PricesTable = () => {
                       <span className="block w-max"> Questions & Answers (soon) </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -139,10 +139,10 @@ const PricesTable = () => {
                       &times;
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -153,10 +153,10 @@ const PricesTable = () => {
                       <span className="m-auto block w-max"> Limited to 5 </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -167,10 +167,10 @@ const PricesTable = () => {
                       &times;
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -184,7 +184,7 @@ const PricesTable = () => {
                       &times;
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                   <tr>
@@ -198,7 +198,7 @@ const PricesTable = () => {
                       &times;
                     </td>
                     <td className="hidden border border-gray-100 dark:border-gray-700 p-4 text-center text-green-500">
-                      &check;
+                      <span className="text-green">✓</span>
                     </td>
                   </tr>
                 </tbody>
