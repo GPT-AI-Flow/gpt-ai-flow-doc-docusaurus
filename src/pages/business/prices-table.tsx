@@ -68,7 +68,7 @@ const PricesTable = () => {
                         href="/download"
                       >
                         <span className="relative text-base font-semibold align-middle text-white dark:text-black">
-                          成为会员
+                          成为会员 (应用中购买)
                         </span>
                       </a>
                     </td>
