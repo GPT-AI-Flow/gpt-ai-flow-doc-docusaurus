@@ -1,6 +1,10 @@
+---
+title: 专业模式界面
+---
+
 import Image from "@theme/IdealImage";
 
-# 专业模式工作
+# 专业模式工作流
 
 ## 引入
 
