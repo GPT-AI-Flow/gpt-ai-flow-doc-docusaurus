@@ -49,14 +49,15 @@ import Image from "@theme/IdealImage";
 
 ### 沟通模式展示
 
-![](./img/5-proMode-presentation/2023-07-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
+![](./img/5-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
+
+您已经经历了众多项目，井取得了成功的案例，或许您能提供一些宝费的指导。[谦逊的表情]（这是一个请求指导的诚挚邀请，但如果您现在非第忙，也完全可以选择不回复。）
 
 ### 小红书模式展示
 
-![](./img/5-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+![](./img/5-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
 
-- 介绍 1-2 个真实的应用案例，展示如何在实际场景中使用此产品的专业模式。
-- 该案例所带来的具体成果或效益。
+![](./img/5-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
 
 ## 客户反馈和评价
 
@@ -82,11 +83,11 @@ import Image from "@theme/IdealImage";
 
 如果要体验全部所有的模块，可以到设置界面的专业界面尝试开启一段试用期。
 
-### 1. 价格和购买方式：
+### 1. 价格和购买方式
 
 我们为您提供了具有竞争力的价格结构。具体的价格详情及购买链接，请访问我们的[官方购买页面](/business/prices-table)。
 
-### 2. 启动与配置流程：
+### 2. 启动与配置流程
 
 - 步骤一: 完成[软件的注册和安装](./3-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
