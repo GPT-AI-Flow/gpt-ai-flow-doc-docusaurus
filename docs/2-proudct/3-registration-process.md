@@ -103,7 +103,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ## 联系我们
 
-- 立即体验: [点击这里](/download)
+- 立即体验**半个月的免费试用期**: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](./6-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
