@@ -1,3 +1,5 @@
+import Image from "@theme/IdealImage";
+
 # 专业模式工作
 
 ## 引入
@@ -62,13 +64,12 @@
 
 > "使用这套工具后，我的工作效率提高了 50%！" ——满意的用户张先生
 
-![](./img/5-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png)
-
-![](./img/5-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png)
-
-![](./img/5-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png)
-
-![](./img/5-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png)
+<div style={{display:"flex", flexWrap: "wrap"}}>
+<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+</div>
 
 ## 如何获得和启用专业模式
 
