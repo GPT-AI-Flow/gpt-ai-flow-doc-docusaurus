@@ -20,6 +20,8 @@ title: 介绍
 
 **丰富的模块扩展**: 拓展功能，满足各种创作需求，点击查看[模块功能](../2-proudct/2-modules.md)。
 
+![](./img/2023-08-23-img-3-gpt-ai-flow-proMode-demo.png)
+
 ## 产品功能
 
 ### 专为自媒体人设计
