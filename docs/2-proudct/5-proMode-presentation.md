@@ -122,7 +122,7 @@ import Image from "@theme/IdealImage";
 
 最后，我们真诚地**邀请您尝试我们的产品**。您可以通过 [官方购买页面](/business/prices-table) 了解价格详情，或是**先尝试半个月的免费试用期，感受它为您带来的变化**。相信您会发现，与 GPT AI Flow 一同工作，每一天都将变得更加轻松、高效。
 
-期待您的加入，成为未来的超级个体，与您共同开创职业新纪元！
+期待您的加入，成为未来的引领者，与您共同开创职业新纪元！
 
 ## 联系我们
 
@@ -131,4 +131,4 @@ import Image from "@theme/IdealImage";
 - [💬 有问题? 联系我们或查看 FAQ](./6-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
 
-感谢您选择 GPT AI Flow ！
+感谢您选择 GPT AI Flow, 成为未来的超级个体 ！

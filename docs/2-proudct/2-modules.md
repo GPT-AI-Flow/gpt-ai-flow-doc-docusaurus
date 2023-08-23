@@ -59,4 +59,4 @@ title: 高效产品模块
 - [💬 有问题? 联系我们或查看 FAQ](./6-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
 
-感谢您选择 GPT AI Flow ！
+感谢您选择 GPT AI Flow, 成为未来的超级个体 ！
