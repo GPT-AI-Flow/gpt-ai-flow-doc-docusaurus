@@ -108,6 +108,8 @@ import Image from "@theme/IdealImage";
 
 ![](./img/5-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
 
+![](./img/5-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
+
 :::tip 试用期体验
 想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>半个月的试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
 :::
