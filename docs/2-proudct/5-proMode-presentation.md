@@ -49,15 +49,17 @@ import Image from "@theme/IdealImage";
 
 ### 沟通模式展示
 
-与年龄比自己大，拥有成功经验的上司沟通。
+与年龄比自己大，拥有成功经验的上司沟通
 
 ![](./img/5-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
 
 ### 小红书模式展示
 
-尝试发一篇旅游的小红书帖子。
+尝试发一篇旅游的小红书帖子
 
 ![](./img/5-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
+
+最终效果
 
 ![](./img/5-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
 
@@ -72,10 +74,13 @@ import Image from "@theme/IdealImage";
 :::
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
-<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-<Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <div style={{marginLeft: "1rem", marginTop: "1rem"}}>
+    得到其他小红书博主的推荐
+        <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
+    </div>
 </div>
 
 ## 如何获得和启用专业模式
