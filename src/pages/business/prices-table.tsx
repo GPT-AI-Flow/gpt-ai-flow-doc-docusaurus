@@ -122,7 +122,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 沟通专家模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max">沟通专家模块</span>
+                      </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
@@ -136,7 +138,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 文案专家模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max"> 文案专家模块 </span>
+                      </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
                       &times;
@@ -150,7 +154,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 小红书达人模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max"> 小红书达人模块 </span>
+                      </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
@@ -164,7 +170,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> SEO 专家模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max"> SEO 专家模块 </span>
+                      </a>
                     </td>
                     {/* <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-gray-600 dark:text-gray-300">
                       <span className="m-auto block w-max"> Limited to 5 </span>
@@ -181,7 +189,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 评论达人模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max"> 评论达人模块 </span>
+                      </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
@@ -195,7 +205,9 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 职场达人模块 </span>
+                      <a href="/docs/proudct/modules" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                        <span className="block w-max"> 职场达人模块 </span>
+                      </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
