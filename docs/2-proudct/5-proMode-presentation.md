@@ -106,9 +106,7 @@ import Image from "@theme/IdealImage";
 
 - 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
 
-![](./img/5-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
-
-![](./img/5-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
+![](./img/3-registration-process/2023-08-25-img-4-freeAI-version-of-gpt-ai-flow.png)
 
 - 步骤五: 如果想使用全部的专家模块需要订阅我们的软件，来到设置界面的‘专业模式’，点击成为早期会员链接。
 
@@ -120,9 +118,15 @@ import Image from "@theme/IdealImage";
 
 ![](./img/3-registration-process/2023-08-25-img-3-payment-confirmation-page.png)
 
-- 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用，如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您。
+- 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
+
+![](./img/5-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
+
+![](./img/5-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
 
 :::tip 试用期体验
+如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。
+
 想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>半个月的试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
 :::
 
