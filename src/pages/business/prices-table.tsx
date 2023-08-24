@@ -5,7 +5,7 @@ import Layout from '@theme/Layout';
 const PricesTable = () => {
   return (
     <Layout
-      title={`自媒体AI助手: 高效创作, 卓越成果!`}
+      title={`自媒体AI助手: 价格`}
       description="面对自媒体内容创作的挑战, GPT AI Flow 是您的最佳助手。适合新手到专业博主，我们帮您生成高质量文案、优化互动并确保内容被搜索引擎发现。加入我们，共创成功故事！"
     >
       <div className="xl:container m-auto px-6 py-20 md:px-12 lg:px-20 xl:px-0">
