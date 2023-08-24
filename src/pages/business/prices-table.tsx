@@ -221,7 +221,7 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 模型切换能力(需使用自己的 API key) </span>
+                      <span className="block w-max"> 模型切换能力</span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
