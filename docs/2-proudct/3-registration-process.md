@@ -75,7 +75,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![product macOS installation 1](./img/3-registration-process/2023-08-06-img-11-installation-for-macOs-1.png)
 
-打开工具过程中 `MacOs` 系统会提醒你有安全风险，点击取消后。
+<!-- 打开工具过程中 `MacOs` 系统会提醒你有安全风险，点击取消后。
 
 ![product macOS installation 2](./img/3-registration-process/2023-08-06-img-12-installation-for-macOs-2.png)
 
@@ -85,7 +85,9 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 再次打开 GPT AI Flow 软件。
 
-![product macOS installation 4](./img/3-registration-process/2023-08-06-img-14-installation-for-macOs-4.png)
+![product macOS installation 4](./img/3-registration-process/2023-08-06-img-14-installation-for-macOs-4.png) -->
+
+![](./img/3-registration-process/2023-08-24-img-6-first-time-open-software.png)
 
 ## 打开 GPT AI Flow 软件，打开设置界面，填入刚刚申请的 `API key` 密匙
 
