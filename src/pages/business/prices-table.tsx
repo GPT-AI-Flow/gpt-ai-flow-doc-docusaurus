@@ -8,7 +8,135 @@ const PricesTable = () => {
       title={`自媒体AI助手: 价格`}
       description="面对自媒体内容创作的挑战, GPT AI Flow 是您的最佳助手。适合新手到专业博主，我们帮您生成高质量文案、优化互动并确保内容被搜索引擎发现。加入我们，共创成功故事！"
     >
-      <div className="xl:container m-auto px-6 py-20 md:px-12 lg:px-20 xl:px-0">
+      {/* For Mobile */}
+
+      <div className="md:block lg:hidden xl:container m-auto px-6 py-20 md:px-12 lg:px-20">
+        <div className="m-auto text-center lg:w-7/12">
+          <h2 className="text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">升级为会员 解锁所有功能</h2>
+        </div>
+        <div className="mt-12 grid items-center gap-6 md:grid-cols-2 lg:flex lg:space-x-8">
+          <div className="group relative md:col-span-1 lg:w-[32%]">
+            <div
+              aria-hidden="true"
+              className="absolute top-0 h-full w-full rounded-3xl border border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-2xl shadow-gray-600/10 dark:shadow-none transition duration-500 group-hover:scale-105 lg:group-hover:scale-110"
+            ></div>
+            <div className="relative space-y-8 p-8">
+              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">月度</h3>
+              <div className="relative flex justify-around">
+                <div className="flex">
+                  <span className="-ml-6 mt-2 text-3xl font-bold text-primary">$</span>
+                  <span className="leading-0 text-7xl font-bold text-gray-800 dark:text-white">4.99</span>
+                </div>
+                <span className="absolute right-9 bottom-2 text-xl font-bold text-primary">/ 月</span>
+              </div>
+              <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>First premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Second premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Third advantage</span>
+                </li>
+              </ul>
+              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
+                <span className="relative text-base font-semibold text-white dark:text-dark">Start plan</span>
+              </button>
+            </div>
+          </div>
+
+          <div className="group relative row-start-1 md:col-span-2 lg:w-[36%]">
+            <div
+              aria-hidden="true"
+              className="absolute top-0 h-full w-full rounded-3xl border border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-2xl shadow-gray-600/10 dark:shadow-none transition duration-500 group-hover:scale-105 lg:group-hover:scale-110"
+            ></div>
+            <div className="relative space-y-8 p-8">
+              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">年度</h3>
+              <div className="overflow-hidden">
+                <div className="-mr-20 flex items-end justify-center">
+                  <div className="flex">
+                    <span className="-ml-6 mt-2 text-3xl font-bold text-primary">$</span>
+                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">4</span>
+                  </div>
+                  <div className="mb-2">
+                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.15</span>
+                    <span className="block text-xl font-bold text-primary">/ 月</span>
+                  </div>
+                </div>
+                <div className="text-center text-2xl font-medium">
+                  <span className="text-gray-400 line-through">$59.90</span>
+                  <span className="font-semibold text-gray-700 dark:text-white">$49.90</span>
+                </div>
+                <span className="block text-center text-xs uppercase text-primary">按年计费</span>
+                <span className="m-auto mt-4 block w-max rounded-full bg-gradient-to-r from-yellow-300 to-pink-300 px-4 py-1 text-sm font-medium text-yellow-900">
+                  使用折扣后
+                </span>
+              </div>
+              <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>First premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Second premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Third advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Fourth organizations advantage</span>
+                </li>
+              </ul>
+              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
+                <span className="relative text-base font-semibold text-white dark:text-dark">Start plan</span>
+              </button>
+            </div>
+          </div>
+
+          <div className="group relative md:col-span-1 lg:w-[32%]">
+            <div
+              aria-hidden="true"
+              className="absolute top-0 h-full w-full rounded-3xl border border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-2xl shadow-gray-600/10 dark:shadow-none transition duration-500 group-hover:scale-105 lg:group-hover:scale-110"
+            ></div>
+            <div className="relative space-y-8 p-8">
+              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">免费版</h3>
+              <div className="relative flex justify-around">
+                <div className="flex">
+                  <span className="-ml-2 mt-2 text-3xl font-bold text-primary">$</span>
+                  <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">0</span>
+                </div>
+              </div>
+              <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>First premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Second premium advantage</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-primary">✓</span>
+                  <span>Third advantage</span>
+                </li>
+              </ul>
+              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-sky-50 border border-sky-500 dark:border-gray-600 dark:bg-gray-700 transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
+                <span className="relative text-base font-semibold text-sky-600 dark:text-white">Get Started</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* For PC */}
+      <div className="md:hidden lg:block xl:container m-auto px-6 py-20 md:px-12 lg:px-20 xl:px-0">
         <div className="m-auto text-center">
           <h2 className="text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">升级为会员 解锁所有功能</h2>
         </div>
@@ -98,7 +226,7 @@ const PricesTable = () => {
                         <span className="text-lg text-gray-500">$</span>379{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary dark:before:bg-white before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
+                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
                         <span className="relative text-base font-semibold text-white dark:text-dark">Buy Now</span>
                       </button>
                     </td> */}
