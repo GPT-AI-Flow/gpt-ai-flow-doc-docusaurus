@@ -23,29 +23,57 @@ const PricesTable = () => {
             <div className="relative space-y-8 p-8">
               <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">月度</h3>
               <div className="relative flex justify-around">
-                <div className="flex">
-                  <span className="-ml-6 mt-2 text-3xl font-bold text-primary">$</span>
-                  <span className="leading-0 text-7xl font-bold text-gray-800 dark:text-white">4.99</span>
+                <div className="-mr-20 flex items-end justify-center">
+                  <div className="flex">
+                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
+                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">4</span>
+                  </div>
+                  <div className="mb-2">
+                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.99</span>
+                    <span className="block text-xl font-bold text-gray-500">/ 月</span>
+                  </div>
                 </div>
-                <span className="absolute right-9 bottom-2 text-xl font-bold text-primary">/ 月</span>
               </div>
               <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>First premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>Chat 悬浮窗功能</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Second premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>沟通专家模块</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Third advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>文案专家模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>小红书达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>SEO专家模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>评论达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>职场达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>模型切换能力</span>
                 </li>
               </ul>
-              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                <span className="relative text-base font-semibold text-white dark:text-dark">Start plan</span>
-              </button>
+              <a
+                href="/download"
+                className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-info transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+              >
+                <span className="relative text-base font-semibold text-white dark:text-dark">成为会员</span>
+              </a>
             </div>
           </div>
 
@@ -59,44 +87,63 @@ const PricesTable = () => {
               <div className="overflow-hidden">
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
-                    <span className="-ml-6 mt-2 text-3xl font-bold text-primary">$</span>
+                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
                     <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">4</span>
                   </div>
                   <div className="mb-2">
                     <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.15</span>
-                    <span className="block text-xl font-bold text-primary">/ 月</span>
+                    <span className="block text-xl font-bold text-gray-500">/ 月</span>
                   </div>
                 </div>
                 <div className="text-center text-2xl font-medium">
                   <span className="text-gray-400 line-through">$59.90</span>
                   <span className="font-semibold text-gray-700 dark:text-white">$49.90</span>
                 </div>
-                <span className="block text-center text-xs uppercase text-primary">按年计费</span>
+                <span className="block text-center text-xs uppercase text-gray-500">按年计费</span>
                 <span className="m-auto mt-4 block w-max rounded-full bg-gradient-to-r from-yellow-300 to-pink-300 px-4 py-1 text-sm font-medium text-yellow-900">
                   使用折扣后
                 </span>
               </div>
               <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>First premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>Chat 悬浮窗功能</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Second premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>沟通专家模块</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Third advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>文案专家模块</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Fourth organizations advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>小红书达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>SEO专家模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>评论达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>职场达人模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>模型切换能力</span>
                 </li>
               </ul>
-              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                <span className="relative text-base font-semibold text-white dark:text-dark">Start plan</span>
-              </button>
+              <a
+                href="/download"
+                className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-info transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+              >
+                <span className="relative text-base font-semibold text-white dark:text-dark">成为会员(应用内购买)</span>
+              </a>
             </div>
           </div>
 
@@ -109,27 +156,30 @@ const PricesTable = () => {
               <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">免费版</h3>
               <div className="relative flex justify-around">
                 <div className="flex">
-                  <span className="-ml-2 mt-2 text-3xl font-bold text-primary">$</span>
+                  <span className="-ml-2 mt-2 text-3xl font-bold text-gray-500">$</span>
                   <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">0</span>
                 </div>
               </div>
               <ul role="list" className="m-auto w-max space-y-4 pb-6 text-gray-600 dark:text-gray-300">
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>First premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>Chat 悬浮窗功能</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Second premium advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>沟通专家模块</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-primary">✓</span>
-                  <span>Third advantage</span>
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>模型切换能力</span>
                 </li>
               </ul>
-              <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-sky-50 border border-sky-500 dark:border-gray-600 dark:bg-gray-700 transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                <span className="relative text-base font-semibold text-sky-600 dark:text-white">Get Started</span>
-              </button>
+              <a
+                href="/download"
+                className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer !no-underline bg-sky-50 border border-sky-500 dark:border-gray-600 dark:bg-gray-700 transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+              >
+                <span className="relative text-base font-semibold text-sky-600 dark:text-white">开始使用</span>
+              </a>
             </div>
           </div>
         </div>
@@ -171,7 +221,7 @@ const PricesTable = () => {
                         href="/download"
                         style={{ textDecoration: 'none' }}
                       >
-                        <span className="relative text-base font-semibold  text-sky-600 dark:text-white">开始使用</span>
+                        <span className="relative text-base font-semibold text-sky-600 dark:text-white">开始使用</span>
                       </a>
                     </td>
                     <td className="p-8 space-y-8">
@@ -193,7 +243,7 @@ const PricesTable = () => {
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
                       <a
-                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full border-0 cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
                         href="/download"
                       >
                         <span className="relative text-base font-semibold align-middle text-white dark:text-black">
