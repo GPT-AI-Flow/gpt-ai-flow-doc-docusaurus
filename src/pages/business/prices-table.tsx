@@ -186,7 +186,7 @@ const PricesTable = () => {
       </div>
 
       {/* For PC */}
-      <div className="md:hidden lg:block xl:container m-auto px-6 py-20 md:px-12 lg:px-20 xl:px-0">
+      <div className="sm:hidden md:hidden lg:block xl:container m-auto px-6 py-20 md:px-12 lg:px-20 xl:px-0">
         <div className="m-auto text-center">
           <h2 className="text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">升级为会员 解锁所有功能</h2>
         </div>
