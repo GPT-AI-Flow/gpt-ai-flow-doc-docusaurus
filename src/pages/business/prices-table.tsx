@@ -72,6 +72,13 @@ const PricesTable = () => {
                           成为会员 (应用内购买)
                         </span>
                       </a>
+
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-sm align-middle text-gray-400 mt-1 !no-underline dark:text-white hover:text-gray-600"
+                      >
+                        了解专业模式
+                      </a>
                     </td>
                     {/* <td className="hidden p-8 space-y-8">
                       <img
