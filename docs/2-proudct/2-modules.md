@@ -18,7 +18,7 @@ title: 高效产品模块
 - **评论**文案生成与优化
 - 职场沟通模块
 
-[查阅成功案例](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)
+[小红书: 巴黎去哪玩](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)
 
 ## 办公室白领
 
