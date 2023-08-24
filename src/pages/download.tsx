@@ -20,7 +20,7 @@ const DownloadPage = (): JSX.Element => {
             <div className="items-center justify-center gap-16 text-center md:flex md:text-left">
               <div className="order-last mb-6 space-y-6 md:mb-0 md:w-7/12 lg:w-6/12">
                 <h1 className="text-4xl font-bold text-green-900 md:text-5xl dark:text-white">
-                  Mac & Windows 版本 AI 工具
+                  自媒体内容生产创作 AI 助手
                 </h1>
                 <p className="text-lg text-gray-600 dark:text-gray-300">
                   成为全球数百万用户的一员，体验我们的自媒体AI工具，为你的内容创作加速。
@@ -66,6 +66,9 @@ const DownloadPage = (): JSX.Element => {
                     下载 Windows 版本
                   </a>
                 </div>
+                <span className="text-sm text-gray-600 dark:text-gray-300">
+                  目前仅支持 PC 端, Mac 和 Windows 版本均可下载，未来将开放网页端。
+                </span>
                 <div className="hidden flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <p className="mt-2 text-gray-500">
                     <a
