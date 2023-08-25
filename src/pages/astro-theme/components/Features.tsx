@@ -48,7 +48,7 @@ const Features = () => {
                 <p className="text-gray-600 dark:text-gray-300">✉️ 专门针对职场文档的翻译优化</p>
               </div>
               <a
-                href="/docs/proudct/modules" // 产品模块介绍
+                href="/docs/proudct/proMode-presentation" // 产品模块介绍
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -93,7 +93,7 @@ const Features = () => {
                 </p>
               </div>
               <a
-                href="/docs/proudct/modules" // 产品模块介绍
+                href="/docs/proudct/proMode-presentation" // 产品模块介绍
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -135,7 +135,7 @@ const Features = () => {
                 </p>
               </div>
               <a
-                href="/docs/proudct/modules" // 产品模块介绍
+                href="/docs/proudct/proMode-presentation" // 产品模块介绍
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -180,7 +180,7 @@ const Features = () => {
                 </p>
               </div>
               <a
-                href="/docs/proudct/modules" // 产品模块介绍
+                href="/docs/proudct/proMode-presentation" // 产品模块介绍
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
