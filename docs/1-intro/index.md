@@ -14,11 +14,11 @@ title: 介绍
 
 ![](./img/2023-08-17-gpt-ai-flow-presentation-demo-gif-1.gif)
 
-**专业模式**: 为资深创作者设计，提供高效的内容创作工作流，更多详情请见[专业模式](../2-proudct/5-proMode-presentation.md)。
+**专业模式**: 为资深创作者设计，提供高效的内容创作工作流，更多详情请见[专业模式](../2-proudct/4-proMode-presentation.md)。
 
 ![](./img/2023-08-23-gif-2-gpt-ai-flow-proMode-demo.gif)
 
-**丰富的模块扩展**: 拓展功能，满足各种创作需求，点击查看[模块功能](../2-proudct/2-modules.md)。
+**丰富的模块扩展**: 拓展功能，满足各种创作需求，点击查看[模块功能](../2-proudct/4-proMode-presentation.md#专业界面模块)。
 
 ![](./img/2023-08-23-img-3-gpt-ai-flow-proMode-demo.png)
 
@@ -65,7 +65,7 @@ title: 介绍
 
 - 立即体验**半个月的免费试用期**: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
-- [💬 有问题? 联系我们或查看 FAQ](../2-proudct/7-faq.md)
+- [💬 有问题? 联系我们或查看 FAQ](../2-proudct/6-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
 
 感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！
