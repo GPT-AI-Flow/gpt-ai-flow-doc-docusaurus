@@ -13,6 +13,15 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2-basic-presentation/2023-08-25-img-8-gif-hello-test-for-baisc-presentation.gif)
 
+### 场景与指令
+
+<div style={{display:"flex", flexWrap: "wrap"}}>
+    <Image img={require("./img/2-basic-presentation/2023-08-25-img-15-floating-window-commands.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/2-basic-presentation/2023-08-25-img-16-floating-window-commands-2.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/2-basic-presentation/2023-08-25-img-17-floating-window-commands-3.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+</div>
+### 窗口大小设置
+
 支持用户自定义个人使用时所需的悬浮窗口和对话窗口的大小。
 
 ![](./img/2-basic-presentation/2023-08-25-img-9-settings-of-windows-size.png)
