@@ -69,13 +69,7 @@ import Image from "@theme/IdealImage";
 
 ## 客户反馈和评价
 
-“巴黎去哪玩”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
-
-:::info 用户反馈
-
-> "使用这套工具后，我的工作效率提高了 50%！" ——满意的用户张先生
-
-:::
+“[巴黎去哪玩](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
     <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
@@ -86,6 +80,12 @@ import Image from "@theme/IdealImage";
         <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
     </div>
 </div>
+
+:::info 用户反馈
+
+> "使用这套工具后，我的工作效率提高了 50%！" ——满意的用户张先生
+
+:::
 
 ## 如何获得和启用专业模式
 

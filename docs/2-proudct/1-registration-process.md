@@ -105,7 +105,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
 
-重启一次软件，开始使用
+重启一次软件，开始使用。
 
 ![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
 
