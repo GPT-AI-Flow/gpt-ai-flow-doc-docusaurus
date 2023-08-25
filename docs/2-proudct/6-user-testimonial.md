@@ -2,27 +2,7 @@ import Image from "@theme/IdealImage";
 
 # 用户案例展示
 
-## 交流沟通
-
-### 沟通模式展示
-
-与年龄比自己大，拥有成功经验的上司沟通
-
-![](./img/4-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
-
 ## 巴黎去哪玩
-
-### 小红书模式展示
-
-尝试发一篇旅游的小红书帖子
-
-![](./img/4-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
-
-最终效果
-
-![](./img/4-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
-
-## 客户反馈和评价
 
 ### 小红书达人
 
