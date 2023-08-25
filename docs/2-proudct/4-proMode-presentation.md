@@ -69,6 +69,8 @@ import Image from "@theme/IdealImage";
 
 ## 客户反馈和评价
 
+### 小红书达人
+
 “[巴黎去哪玩](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
@@ -80,6 +82,24 @@ import Image from "@theme/IdealImage";
         <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
     </div>
 </div>
+
+### SEO 专家
+
+[Follow Paris 巴黎去哪玩](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
+
+数据：一个月网站谷歌曝光 3.75 万，自然点击 742 人。
+
+![](./img/4-proMode-presentation/2023-08-25-img-7-seo-module-effect-for-followparis.png)
+
+Google 搜索关键词：
+
+- que faire à paris cette semaine
+- que faire a paris cette semaine
+- follow paris
+- paris cette semaine
+- quoi faire à paris cette semaine
+- que faire cette semaine à paris
+- que faire cette semaine à paris
 
 :::info 用户反馈
 
