@@ -55,17 +55,17 @@ import Image from "@theme/IdealImage";
 
 与年龄比自己大，拥有成功经验的上司沟通
 
-![](./img/5-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
+![](./img/4-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
 
 ### 小红书模式展示
 
 尝试发一篇旅游的小红书帖子
 
-![](./img/5-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
+![](./img/4-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
 
 最终效果
 
-![](./img/5-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+![](./img/4-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
 
 ## 客户反馈和评价
 
@@ -78,12 +78,12 @@ import Image from "@theme/IdealImage";
 :::
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
-    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-    <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
     <div style={{marginLeft: "1rem", marginTop: "1rem"}}>
     得到其他小红书博主的推荐
-        <Image img={require("./img/5-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
+        <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
     </div>
 </div>
 
@@ -98,11 +98,11 @@ import Image from "@theme/IdealImage";
 - 步骤一: 完成[软件的注册和安装](./3-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
 
-![](./img/5-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
+![](./img/4-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
 
 - 步骤三: 软件需要注册登录才能够使用，在设置界面进行账户注册并登录。完成此步骤后，您可能需要重新启动软件以确保设置生效。
 
-![](./img/5-proMode-presentation/2023-08-23-img-4-账户注册.png)
+![](./img/4-proMode-presentation/2023-08-23-img-4-账户注册.png)
 
 - 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
 
@@ -120,9 +120,9 @@ import Image from "@theme/IdealImage";
 
 - 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
 
-![](./img/5-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
+![](./img/4-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
 
-![](./img/5-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
+![](./img/4-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
 
 :::tip 试用期体验
 如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。
