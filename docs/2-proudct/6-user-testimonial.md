@@ -42,7 +42,7 @@ import Image from "@theme/IdealImage";
 
 [Follow Paris 巴黎去哪玩](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
 
-数据：一个月网站谷歌曝光 3.75 万，自然点击 742 人。
+数据：过去 28 天谷歌搜索流量 3.75 万，自然点击 742 人。
 
 ![](./img/4-proMode-presentation/2023-08-25-img-7-seo-module-effect-for-followparis.png)
 
