@@ -10,17 +10,17 @@
 
 `Shift + up` 上方向键 和 `Shift + down` 下方向键,更换中间 `指令` 选项;
 
-![product-shorcut-switch-instruction](./img/3-usage-and-shortcut/2023-08-06-img-3-switch-instruction.gif)
+![product-shorcut-switch-instruction](./img/3-usage-and-shortcut/2023-08-25-img-7-switch-instruction.gif)
 
 `Alt + up` 上方向键 和 `Alt + down` 下方向键，更换 🫱 右侧选框的输出选项；
 
-![product-shorcut-switch-output-indicator](./img/3-usage-and-shortcut/2023-08-06-img-4-switch-output-indicator.gif)
+![product-shorcut-switch-output-indicator](./img/3-usage-and-shortcut/2023-08-25-img-8-switch-output-indicator.gif)
 
 ### 复制文本
 
 选择文本，按 `Ctrl + C` 复制，按 `Alt + /`，将已经复制文本粘贴到 GPT AI Flow 的输入框;
 
-![product-shorcut-fill-out-input](./img/3-usage-and-shortcut/2023-08-06-img-1-copy-text-then-fill-out-textarea.gif)
+![product-shorcut-fill-out-input](./img/3-usage-and-shortcut/2023-08-25-img-9-copy-text-then-fill-out-textarea.gif)
 
 ### 输入文本
 
@@ -33,9 +33,11 @@
 未选中软件时按 `Alt + 回车`，选中软件时按 `回车` 开启搜索提问；  
 搜索过程中按`Alt + 回车` 或 选中软件按 `回车` 暂停搜索。
 
-![product-shorcut-start-search](./img/3-usage-and-shortcut/2023-08-06-img-5-switch-start-and-stop-search.gif)
+![product-shorcut-start-search](./img/3-usage-and-shortcut/2023-08-25-img-10-switch-start-and-stop-search.gif)
 
 ## 快捷键设置
+
+配合 [自定义指令集](./2-basic-presentation.md#指令集) 使用，效率倍增！
 
 ![](./img/2-basic-presentation/2023-08-25-img-14-shorcut-settings-interface.png)
 
