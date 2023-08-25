@@ -152,7 +152,7 @@ const config = {
         items: [
           {
             to: '/docs/intro/',
-            label: 'AI 助手',
+            label: '产品',
             position: 'left',
           },
           {
