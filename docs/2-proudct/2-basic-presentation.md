@@ -1,6 +1,6 @@
 import Image from "@theme/IdealImage";
 
-# 基本使用界面
+# 基本界面
 
 ## 基本界面
 

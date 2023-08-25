@@ -49,63 +49,67 @@ import Image from "@theme/IdealImage";
 - **我们**: 我们的工具不仅仅是理论上的应用，我们已经实际为客户提供了小红书的运营服务，并**已经取得了显著的成果**，充分证实了我们工具的实际效能。
 - **竞品**: 很多只**停留在工具的提供阶段**，而缺乏实际应用场景的验证和反馈。
 
-## 应用案例
+## 专业界面模块
 
-### 沟通模式展示
+![](./img/4-proMode-presentation/2023-08-25-img-8-proMode-interface.png)
 
-与年龄比自己大，拥有成功经验的上司沟通
+### 多语翻译员（🎉 免费提供 🎉）
 
-![](./img/4-proMode-presentation/2023-08-23-img-1-GPT%20AI%20Flow%20工具介绍与使用-应用.png)
+- 功能简介：为您提供即时、准确的多语种文本翻译功能，助您跨越语言障碍。
+- 核心特点：
+  - 支持常用多种语言
+  - 高准确度与自然的语义表达
+  - 用户友好的界面设计，一键翻译
 
-### 小红书模式展示
+[立即体验](/download)
 
-尝试发一篇旅游的小红书帖子
+### 沟通专家
 
-![](./img/4-proMode-presentation/2023-08-23-img-2-2-gif-专业模式使用.gif)
+- 功能简介：优化您的交际表达，使您在工作或生活中的沟通更为流畅。
+- 核心特点：
+  - 自动化修正语法和用词错误
+  - 提供各种场景下的沟通模板与建议
+  - 增强话语的说服力与吸引力
 
-最终效果
+### 文案专家
 
-![](./img/4-proMode-presentation/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+- 功能简介：专业的文案生成与修饰，让您的内容更具吸引力。
+- 核心特点：
+  - 根据目标受众生成吸引力的文案
+  - 提供各类型文案模板
+  - 自动化检查与优化文案内容
 
-## 客户反馈和评价
+<!-- [查看详细教程](#) -->
 
 ### 小红书达人
 
-“[巴黎去哪玩](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
+- 功能简介：专为小红书平台设计的内容生成工具。
+- 核心特点：
+  - 自动生成适合小红书风格的文字内容
+  - 提供流行话题和标签建议
+  - 贴近小红书用户群体的语言风格与内容结构
 
-<div style={{display:"flex", flexWrap: "wrap"}}>
-    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-2-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-    <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-3-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
-    <div style={{marginLeft: "1rem", marginTop: "1rem"}}>
-    得到其他小红书博主的推荐
-        <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-5-xiaohognshu-followparis-be-recommanded.png")} style={{ width: 300 }} />
-    </div>
-</div>
+[小红书实战案例: 巴黎去哪玩](./6-user-testimonial.md#客户反馈和评价)
 
 ### SEO 专家
 
-[Follow Paris 巴黎去哪玩](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
+- 功能简介：助力您的内容在搜索引擎中获得更高的排名。
+- 核心特点：
+  - 自动生成适合 SEO 的标题、描述、标签、关键词等
+  - 关键词分析与建议
+  - 提供内容优化策略和建议
 
-数据：一个月网站谷歌曝光 3.75 万，自然点击 742 人。
+[小红书实战案例: follow Paris 每周活动推荐](./6-user-testimonial.md#客户反馈和评价)
 
-![](./img/4-proMode-presentation/2023-08-25-img-7-seo-module-effect-for-followparis.png)
+### 职场达人
 
-Google 搜索关键词：
+- 功能简介：为您提供职场相关的建议、模板与技巧。
+- 核心特点：
+  - 自动生成简历、求职信等职场文档
+  - 提供职场沟通与谈判技巧
+  - 为您解答职业发展疑问
 
-- que faire à paris cette semaine
-- que faire a paris cette semaine
-- follow paris
-- paris cette semaine
-- quoi faire à paris cette semaine
-- que faire cette semaine à paris
-- que faire cette semaine à paris
-
-:::info 用户反馈
-
-> "使用这套工具后，我的工作效率提高了 50%！" ——满意的用户张先生
-
-:::
+<!-- [开始使用](#) -->
 
 ## 如何获得和启用专业模式
 
