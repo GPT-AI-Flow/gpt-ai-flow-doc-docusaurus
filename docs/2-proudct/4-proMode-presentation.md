@@ -22,7 +22,7 @@ import Image from "@theme/IdealImage";
 
 介绍: [点击这里](../1-intro/index.md)
 
-高效产品模块: [点击这里](./2-modules.md)
+高效产品模块: [点击这里](./5-modules.md)
 
 ## 专业模式的核心优势
 

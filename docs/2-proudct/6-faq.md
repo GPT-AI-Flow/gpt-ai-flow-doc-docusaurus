@@ -6,7 +6,7 @@
 
 ## 使用 GPT AI Flow 时，需要用户提供什么信息吗 ？
 
-所有的用户 (国内用户需要自行使用梯子工具) 都需要提供 OpenAI 的 API 密匙。[点击这里](./3-registration-process.md) 了解如何申请。
+所有的用户 (国内用户需要自行使用梯子工具) 都需要提供 OpenAI 的 API 密匙。[点击这里](./1-registration-process.md) 了解如何申请。
 
 :::info 注意
 这个密匙请保存保管好，不要发给任何人。
