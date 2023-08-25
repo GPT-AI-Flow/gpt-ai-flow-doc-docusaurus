@@ -17,6 +17,12 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2-basic-presentation/2023-08-25-img-9-settings-of-windows-size.png)
 
+## 快捷键
+
+使用与快捷键: [点击这里](./3-usage-and-shortcut.md)
+
+![](./img/2-basic-presentation/2023-08-25-img-14-shorcut-settings-interface.png)
+
 ## 指令集
 
 在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](./2-basic-presentation.md#基本界面) 与 [专业模式](./4-proMode-presentation.md#应用案例) 中使用。
