@@ -54,11 +54,11 @@ OpenAI 官方后台: [点击这里](https://platform.openai.com/)
 
 ## 下载 GPT AI Flow 软件，安装
 
+打开下载链接，根据自己的系统版本下载对应链接。
+
 下载链接: [点击这里](/download)
 
-点击下载链接，根据自己的系统版本下载对应链接, `*.dmg`文件是运行在 Apple 苹果电脑的 MacOS 系统上，`*.exe`文件是运行在 Windows 系统上。
-
-![](./img/1-registration-process/2023-08-06-img-8-gpt-ai-flow-releases.png)
+[![](./img/1-registration-process/2023-08-25-img-5-download-page.png)](/download)
 
 下载完成后，双击程序安装即可。
 
@@ -101,7 +101,11 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png)
 
-## 开始使用
+## 注册登录用户后重启软件，开始使用
+
+![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
+
+重启一次软件，开始使用
 
 ![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
 
