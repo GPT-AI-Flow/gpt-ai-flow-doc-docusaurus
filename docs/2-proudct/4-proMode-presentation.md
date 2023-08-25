@@ -22,7 +22,7 @@ import Image from "@theme/IdealImage";
 
 介绍: [点击这里](../1-intro/index.md)
 
-高效产品模块: [点击这里](./5-modules.md)
+高效产品模块: [点击这里](./4-proMode-presentation.md#专业界面模块)
 
 ## 专业模式的核心优势
 
@@ -92,7 +92,7 @@ import Image from "@theme/IdealImage";
   - 自动生成适合小红书风格的文字内容
   - 提供流行话题和标签建议
   - 贴近小红书用户群体的语言风格与内容结构
-- 用户案例: [小红书实战案例: 巴黎去哪玩](./6-user-testimonial.md#客户反馈和评价)
+- 用户案例: [小红书实战案例: 巴黎去哪玩](./5-user-testimonial.md#小红书达人)
 
 尝试发一篇旅游的小红书帖子
 
@@ -109,7 +109,7 @@ import Image from "@theme/IdealImage";
   - 自动生成适合 SEO 的标题、描述、标签、关键词等
   - 关键词分析与建议
   - 提供内容优化策略和建议
-- 用户案例: [小红书实战案例: follow Paris 每周活动推荐](./6-user-testimonial.md#客户反馈和评价)
+- 用户案例: [小红书实战案例: follow Paris 每周活动推荐](./5-user-testimonial.md#seo-专家)
 
 ### 职场达人
 
