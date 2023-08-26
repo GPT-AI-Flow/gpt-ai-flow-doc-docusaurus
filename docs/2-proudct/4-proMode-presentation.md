@@ -51,7 +51,7 @@ import Image from "@theme/IdealImage";
 
 ## 专业界面模块
 
-![](./img/4-proMode-presentation/2023-08-25-img-8-proMode-interface.png)
+![](./img/4-proMode-presentation/2023-08-26-img-8-proMode-interface.png)
 
 ### 多语翻译员（🎉 免费提供 🎉）
 
