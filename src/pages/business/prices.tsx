@@ -18,7 +18,7 @@ function PricingPage() {
     <div className="business_prices_page_contianer">
       {/* @ts-ignore */}
       <stripe-pricing-table
-        pricing-table-id="prctbl_1NhbvGDfpKDtUNgncj7TTmDN"
+        pricing-table-id="prctbl_1NjP6PDfpKDtUNgnsHRJF2SH"
         publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
       />
     </div>
