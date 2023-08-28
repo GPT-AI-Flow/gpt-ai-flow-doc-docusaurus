@@ -177,6 +177,11 @@ const config = {
             position: 'right',
           },
           {
+            to: '/communication-group',
+            label: '交流群',
+            position: 'right',
+          },
+          {
             to: 'https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/issues',
             label: 'GitHub',
             position: 'right',
