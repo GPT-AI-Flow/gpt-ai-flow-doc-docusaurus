@@ -33,7 +33,7 @@ const DownloadPage = (): JSX.Element => {
                     className="download-link-button"
                   >
                     <img
-                      src="/img/downloadPage/2023-08-18-img-2-logo-apple.png"
+                      src="/img/pages/downloadPage/2023-08-18-img-2-logo-apple.png"
                       alt="icon-windows"
                       style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
                     />
@@ -46,7 +46,7 @@ const DownloadPage = (): JSX.Element => {
                     className="download-link-button"
                   >
                     <img
-                      src="/img/downloadPage/2023-08-18-img-2-logo-apple.png"
+                      src="/img/pages/downloadPage/2023-08-18-img-2-logo-apple.png"
                       alt="icon-windows"
                       style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
                     />
@@ -59,7 +59,7 @@ const DownloadPage = (): JSX.Element => {
                     className="download-link-button"
                   >
                     <img
-                      src="/img/downloadPage/2023-08-18-img-1-logo-windows.png"
+                      src="/img/pages/downloadPage/2023-08-18-img-1-logo-windows.png"
                       alt="icon-windows"
                       style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
                     />
@@ -94,7 +94,7 @@ const DownloadPage = (): JSX.Element => {
                 </div>
               </div>
               <img
-                src="/img/downloadPage/2023-08-06-img-17-gpt-ai-flow-show.gif"
+                src="/img/pages/downloadPage/2023-08-06-img-17-gpt-ai-flow-show.gif"
                 // width="832"
                 // height="608"
                 className="m-auto md:w-5/12"

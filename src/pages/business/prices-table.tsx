@@ -224,7 +224,7 @@ const PricesTable = () => {
                     <td className="p-4 sm:sticky"></td>
                     <td className="p-8 space-y-8">
                       <img
-                        src="/img/pricesPage/2023-08-23-free.png"
+                        src="/img/pages/pricesPage/2023-08-23-free.png"
                         className="h-12 w-auto"
                         alt="organization icon"
                         width=""
@@ -250,7 +250,7 @@ const PricesTable = () => {
                     </td>
                     <td className="p-8 space-y-8">
                       <img
-                        src="/img/pricesPage/2023-08-23-team.webp"
+                        src="/img/pages/pricesPage/2023-08-23-team.webp"
                         className="h-12 w-auto"
                         alt="team icon"
                         width=""
@@ -284,7 +284,7 @@ const PricesTable = () => {
                     </td>
                     {/* <td className="hidden p-8 space-y-8">
                       <img
-                        src="/img/pricesPage/2023-08-23-organization.webp"
+                        src="/img/pages/pricesPage/2023-08-23-organization.webp"
                         className="h-12 w-auto"
                         alt="organization icon"
                         width=""
