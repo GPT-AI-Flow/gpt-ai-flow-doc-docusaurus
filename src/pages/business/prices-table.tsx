@@ -26,7 +26,7 @@ const PricesTable = () => {
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
                     <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
-                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">4</span>
+                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">1</span>
                   </div>
                   <div className="mb-2">
                     <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.99</span>
@@ -100,16 +100,16 @@ const PricesTable = () => {
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
                     <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
-                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">4</span>
+                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">1</span>
                   </div>
                   <div className="mb-2">
-                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.15</span>
+                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.65</span>
                     <span className="block text-xl font-bold text-gray-500">/ 月</span>
                   </div>
                 </div>
                 <div className="text-center text-2xl font-medium">
-                  <span className="text-gray-400 line-through">$59.90</span>
-                  <span className="font-semibold text-gray-700 dark:text-white">$49.90</span>
+                  <span className="text-gray-400 line-through">$49.90</span>
+                  <span className="font-semibold text-gray-700 dark:text-white">$19.90</span>
                 </div>
                 <span className="block text-center text-xs uppercase text-gray-500">按年计费</span>
                 <span className="m-auto mt-4 block w-max rounded-full bg-gradient-to-r from-yellow-300 to-pink-300 px-4 py-1 text-sm font-medium text-yellow-900">
@@ -263,7 +263,7 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>4.99{' '}
+                        <span className="text-lg text-gray-500">$</span>1.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
                       <a
