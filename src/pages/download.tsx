@@ -70,7 +70,7 @@ const DownloadPage = (): JSX.Element => {
                 <span className="text-sm text-gray-600 dark:text-gray-300">
                   <h3>
                     <a href="https://www.app.gptaiflow.com" target="_blank" style={{ textDecoration: 'none' }}>
-                      👩‍💻 网页版
+                      👩‍💻 网页版: 无需下载，直接使用
                     </a>
                   </h3>
                 </span>
