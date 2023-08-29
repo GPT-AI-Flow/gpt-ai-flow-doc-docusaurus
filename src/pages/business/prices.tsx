@@ -16,11 +16,25 @@ function PricingPage() {
 
   return (
     <div className="business_prices_page_contianer">
-      {/* @ts-ignore: Live */}
-      <stripe-pricing-table
-        pricing-table-id="prctbl_1NhbvGDfpKDtUNgncj7TTmDN"
-        publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
-      />
+      <div>
+        <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区</h2>
+        {/* @ts-ignore: Live-EUR */}
+        <stripe-pricing-table
+          pricing-table-id="prctbl_1NhbvGDfpKDtUNgncj7TTmDN"
+          publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
+        />
+      </div>
+
+      <div>
+        <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>人民币区</h2>
+
+        {/* @ts-ignore: Live-CNY */}
+        <stripe-pricing-table
+          pricing-table-id="prctbl_1NjP6PDfpKDtUNgnsHRJF2SH"
+          publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
+        />
+      </div>
+
       {/* @ts-ignore: Test */}
       {/* <stripe-pricing-table
         pricing-table-id="prctbl_1NhXXMDfpKDtUNgnT5a7WDKY"
