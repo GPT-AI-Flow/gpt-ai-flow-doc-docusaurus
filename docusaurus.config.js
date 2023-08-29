@@ -172,7 +172,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://www.app.gptaiflow.com/',
+            to: 'https://www.app.gptaiflow.com',
             label: '网页版',
             position: 'right',
           },

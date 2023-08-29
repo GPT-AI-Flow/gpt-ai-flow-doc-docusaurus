@@ -66,8 +66,13 @@ const DownloadPage = (): JSX.Element => {
                     下载 Windows 版本
                   </a>
                 </div>
+                <br />
                 <span className="text-sm text-gray-600 dark:text-gray-300">
-                  目前仅支持 PC 端, Mac 和 Windows 版本均可下载，未来将开放网页端。
+                  <h3>
+                    <a href="https://www.app.gptaiflow.com" target="_blank" style={{ textDecoration: 'none' }}>
+                      👩‍💻 网页版
+                    </a>
+                  </h3>
                 </span>
                 <div className="hidden flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <p className="mt-2 text-gray-500">
