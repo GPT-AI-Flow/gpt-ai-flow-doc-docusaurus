@@ -128,13 +128,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      // announcementBar: {
-      //   id: 'alert',
-      //   content: '为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 v0.1.23',
-      //   backgroundColor: '#38A3A5',
-      //   textColor: 'white',
-      //   isCloseable: false,
-      // },
+      announcementBar: {
+        id: 'alert',
+        content: '为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 v0.1.23',
+        backgroundColor: 'black',
+        textColor: 'white',
+        isCloseable: false,
+      },
       image: 'img/2023-08-17-gpt-ai-flow-social-card.png',
       docs: {
         sidebar: {
