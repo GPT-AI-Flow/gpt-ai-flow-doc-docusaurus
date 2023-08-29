@@ -196,7 +196,7 @@ import Image from "@theme/IdealImage";
 
 ![](./img/1-registration-process/2023-08-25-img-1-to-be-a-member.png)
 
-在弹出的窗口中选择 StartAI 入门版，填入支付方式(请确保填写的邮箱与当前账户一致)后，重启启动软件查看专业界面即可访问全部的模块。
+在弹出的窗口中选择 StartAI 入门工具版，填入支付方式(请确保填写的邮箱与当前账户一致)后，重启启动软件查看专业界面即可访问全部的模块。
 
 ![](./img/1-registration-process/2023-08-25-img-2-business-payment-page.png)
 

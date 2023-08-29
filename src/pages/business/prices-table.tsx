@@ -257,7 +257,7 @@ const PricesTable = () => {
                         height=""
                       />
                       <div className="space-y-4">
-                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">StartAI 入门版</h4>
+                        <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">StartAI 入门工具版</h4>
                         <p className="text-sm text-gray-600 dark:text-gray-400">
                           专为创业者和中小企业设计，提供多种专业模式以满足不同的业务需求。
                         </p>
