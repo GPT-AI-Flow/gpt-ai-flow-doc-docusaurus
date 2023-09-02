@@ -249,6 +249,16 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      zoom: {
+        selector: '.markdown :not(em) > img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)',
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        },
+      },
       clarity: {
         ID: 'h9kqzldifi',
       },
@@ -287,6 +297,7 @@ const config = {
         disableInDev: false,
       },
     ],
+    require.resolve('docusaurus-plugin-image-zoom'),
     'docusaurus-plugin-clarity',
     'docusaurus-plugin-sass',
     async function myPlugin(context, options) {
