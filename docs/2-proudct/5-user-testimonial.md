@@ -6,7 +6,7 @@ import Image from "@theme/IdealImage";
 
 ### 小红书达人
 
-“[巴黎去哪玩](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
+“[巴黎去哪玩(2023.08.25)](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf)”在小红书平台的关注数，仅在一个月内便增长了 40%。您也有机会创造如此佳绩！
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
     <Image img={require("./img/4-proMode-presentation/followparis/2023-08-23-img-1-xiaohognshu-followparis-7-days-data.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
