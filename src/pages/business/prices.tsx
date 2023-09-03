@@ -16,30 +16,47 @@ function PricingPage() {
 
   return (
     <div className="business_prices_page_contianer">
+      {/* Live */}
       <div>
-        <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区</h2>
-        {/* @ts-ignore: Live-EUR */}
-        <stripe-pricing-table
-          pricing-table-id="prctbl_1NhbvGDfpKDtUNgncj7TTmDN"
-          publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
-        />
+        <div>
+          <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区</h2>
+          {/* @ts-ignore: Live-EUR */}
+          <stripe-pricing-table
+            pricing-table-id="prctbl_1NhbvGDfpKDtUNgncj7TTmDN"
+            publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
+          />
+        </div>
+
+        <div>
+          <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>人民币区</h2>
+
+          {/* @ts-ignore: Live-CNY */}
+          <stripe-pricing-table
+            pricing-table-id="prctbl_1NjP6PDfpKDtUNgnsHRJF2SH"
+            publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
+          />
+        </div>
       </div>
 
+      {/* Test */}
       <div>
-        <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>人民币区</h2>
-
-        {/* @ts-ignore: Live-CNY */}
-        <stripe-pricing-table
-          pricing-table-id="prctbl_1NjP6PDfpKDtUNgnsHRJF2SH"
-          publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
-        />
+        <div>
+          <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区(测试)</h2>
+          {/* @ts-ignore: Test-EUR */}
+          {/* <stripe-pricing-table
+            pricing-table-id="prctbl_1NhXXMDfpKDtUNgnT5a7WDKY"
+            publishable-key="pk_test_51HqdzoDfpKDtUNgns7gfUm2rLbJAqgKVTiJVBpkX2ViLKkmLiV11eXasYcJjUsj6ARpDhju4yAFMiWAEl3ynE2T100S1mBLctz"
+          /> */}
+        </div>
+        <div>
+          <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>人民币区(测试)</h2>
+          {/* @ts-ignore: Test-CNY */}
+          {/* <stripe-pricing-table
+            pricing-table-id="prctbl_1NmL5mDfpKDtUNgnWvIvzUUW"
+            publishable-key="pk_test_51HqdzoDfpKDtUNgns7gfUm2rLbJAqgKVTiJVBpkX2ViLKkmLiV11eXasYcJjUsj6ARpDhju4yAFMiWAEl3ynE2T100S1mBLctz"
+          /> */}
+        </div>
       </div>
-
-      {/* @ts-ignore: Test */}
-      {/* <stripe-pricing-table
-        pricing-table-id="prctbl_1NhXXMDfpKDtUNgnT5a7WDKY"
-        publishable-key="pk_test_51HqdzoDfpKDtUNgns7gfUm2rLbJAqgKVTiJVBpkX2ViLKkmLiV11eXasYcJjUsj6ARpDhju4yAFMiWAEl3ynE2T100S1mBLctz"
-      /> */}
     </div>
   );
 }
