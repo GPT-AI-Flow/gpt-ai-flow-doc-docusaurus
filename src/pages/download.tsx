@@ -53,7 +53,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本 (M1)
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.25/GPT.AI.Flow.Setup.0.1.25.exe"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.26/GPT.AI.Flow.Setup.0.1.26.exe"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
