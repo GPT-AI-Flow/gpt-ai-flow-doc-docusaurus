@@ -249,7 +249,7 @@ const PricesTable = () => {
                     </td>
                     <td className="p-8 space-y-8">
                       <img
-                        src="/img/pages/pricesPage/2023-08-23-team.webp"
+                        src="/img/pages/pricesPage/2023-08-23-pro.webp"
                         className="h-12 w-auto"
                         alt="team icon"
                         width=""
@@ -265,25 +265,28 @@ const PricesTable = () => {
                         <span className="text-lg text-gray-500">$</span>1.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <a
-                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
-                        href="/download"
-                      >
-                        <span className="relative text-base font-semibold align-middle text-white dark:text-black">
-                          成为会员 (应用内购买)
-                        </span>
-                      </a>
 
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-sm align-middle text-gray-400 mt-1 !no-underline dark:text-white hover:text-gray-600"
-                      >
-                        了解专业模式
-                      </a>
+                      <div>
+                        <a
+                          href="/docs/proudct/proMode-presentation"
+                          className="text-sm align-middle text-gray-400 mt-1 !no-underline dark:text-white hover:text-gray-600"
+                        >
+                          了解专业模式
+                        </a>
+                        <a
+                          className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+                          href="/download"
+                        >
+                          <span className="relative text-base font-semibold align-middle text-white dark:text-black">
+                            成为会员 (应用内购买)
+                          </span>
+                        </a>
+                      </div>
                     </td>
                     <td className="p-8 space-y-8">
                       <img
-                        src="/img/pages/pricesPage/2023-08-23-organization.webp"
+                        // src="/img/pages/pricesPage/2023-08-23-organization.webp"
+                        src="/img/pages/pricesPage/2023-08-23-team.webp"
                         className="h-12 w-auto"
                         alt="organization icon"
                         width=""
@@ -298,12 +301,19 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>379{' '}
+                        <span className="text-lg text-gray-500">$</span>6.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
-                      <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95">
-                        <span className="relative text-base font-semibold text-white dark:text-dark">Buy Now</span>
-                      </button>
+                      <a
+                        className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full cursor-pointer bg-info dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"
+                        href="/download"
+                      >
+                        {/* <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"> */}
+                        <span className="relative text-base font-semibold text-white dark:text-dark">
+                          成为会员 (应用内购买)
+                        </span>
+                        {/* </button> */}
+                      </a>
                     </td>
                   </tr>
                 </thead>
@@ -312,6 +322,48 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max"> Chat 悬浮窗功能 </span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max"> 无限制请求次数 </span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max"> 自定义指令集管理 </span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max"> 自定义指令集导入导出 </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
                       ✓
@@ -472,13 +524,13 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 模型切换能力</span>
+                      <span className="block w-max"> 官方模型支持 </span>
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
-                      ✓
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
                     </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
-                      ✓
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
                       ✓
