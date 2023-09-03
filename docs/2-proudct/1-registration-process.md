@@ -69,6 +69,12 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 ![product windows installation 1](./img/1-registration-process/2023-08-06-img-9-installation-for-windows-1.png)
 ![product windows installation 2](./img/1-registration-process/2023-08-06-img-10-installation-for-windows-2.png)
 
+在桌面看到应用后，双击打开。
+
+:::info
+某些特殊的功能需要在首次运行时，点击鼠标右键，选择以 `管理员` 的身份运行应用。
+:::
+
 ### MacOS 系统环境
 
 根据 MacOs 电脑配置下载对应的 `*.dmg` 文件, 下载完成后打开 `*.dmg` 文件将 GPT AI Flow 工具拖进 `Application` 文件夹中。
