@@ -39,7 +39,7 @@ function PricingPage() {
       </div>
 
       {/* Test */}
-      <div>
+      <div style={{ display: 'none' }}>
         <div>
           <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区(测试)</h2>
           {/* @ts-ignore: Test-EUR */}
