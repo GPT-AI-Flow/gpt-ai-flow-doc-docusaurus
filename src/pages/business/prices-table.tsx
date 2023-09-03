@@ -20,7 +20,7 @@ const PricesTable = () => {
               className="absolute top-0 h-full w-full rounded-3xl border border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-2xl shadow-gray-600/10 dark:shadow-none transition duration-500 group-hover:scale-105 lg:group-hover:scale-110"
             ></div>
             <div className="relative space-y-8 p-8">
-              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">月度</h3>
+              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">StartAI 入门工具版</h3>
               <div className="relative flex justify-around">
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
@@ -40,6 +40,10 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
+                  <span>自定义指令集</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
                   <span>沟通专家模块</span>
                 </li>
                 <li className="space-x-2">
@@ -75,8 +79,8 @@ const PricesTable = () => {
                   <span>营销专家模块</span>
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>模型切换能力</span>
+                  <span className="font-semibold text-red-500">&times;</span>
+                  <span>官方模型支持</span>
                 </li>
               </ul>
               <a
@@ -94,21 +98,21 @@ const PricesTable = () => {
               className="absolute top-0 h-full w-full rounded-3xl border border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-2xl shadow-gray-600/10 dark:shadow-none transition duration-500 group-hover:scale-105 lg:group-hover:scale-110"
             ></div>
             <div className="relative space-y-8 p-8">
-              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">年度</h3>
+              <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">StartAI 入门模型版</h3>
               <div className="overflow-hidden">
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
                     <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
-                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">1</span>
+                    <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">5</span>
                   </div>
                   <div className="mb-2">
-                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.65</span>
+                    <span className="block text-xl font-bold text-gray-500 dark:text-gray-400">.82</span>
                     <span className="block text-xl font-bold text-gray-500">/ 月</span>
                   </div>
                 </div>
                 <div className="text-center text-2xl font-medium">
-                  <span className="text-gray-400 line-through">$49.90</span>
-                  <span className="font-semibold text-gray-700 dark:text-white">$19.90</span>
+                  <span className="text-gray-400 line-through">$83.88</span>
+                  <span className="font-semibold text-gray-700 dark:text-white">$69.90</span>
                 </div>
                 <span className="block text-center text-xs uppercase text-gray-500">按年计费</span>
                 <span className="m-auto mt-4 block w-max rounded-full bg-gradient-to-r from-yellow-300 to-pink-300 px-4 py-1 text-sm font-medium text-yellow-900">
@@ -119,6 +123,10 @@ const PricesTable = () => {
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
                   <span>Chat 悬浮窗功能</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>自定义指令集</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -158,7 +166,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>模型切换能力</span>
+                  <span>官方模型支持</span>
                 </li>
               </ul>
               <a
@@ -190,11 +198,19 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>沟通专家模块</span>
+                  <span>自定义指令集</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>模型切换能力</span>
+                  <span>沟通专家模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-red-500">&times;</span>
+                  <span>专业界面模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-red-500">&times;</span>
+                  <span>官方模型支持</span>
                 </li>
               </ul>
               <a
