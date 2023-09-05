@@ -69,11 +69,10 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 ![product windows installation 1](./img/1-registration-process/2023-08-06-img-9-installation-for-windows-1.png)
 ![product windows installation 2](./img/1-registration-process/2023-08-06-img-10-installation-for-windows-2.png)
 
-在桌面看到应用后，双击打开。
-
-:::info
+在桌面看到应用后，双击打开。  
 某些特殊的功能需要在首次运行时，点击鼠标右键，选择以 `管理员` 的身份运行应用。
-:::
+
+![](./img/1-registration-process/2023-09-05-img-5-gpt-ai-flow-accessibility-permissions-in-windows.jpeg)
 
 ### MacOS 系统环境
 
