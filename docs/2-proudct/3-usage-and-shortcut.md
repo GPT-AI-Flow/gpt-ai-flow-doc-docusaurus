@@ -61,9 +61,13 @@
 
 ### 显示/隐藏主界面
 
+按下 `Shift + Alt + Space` 键可以方便地显示/隐藏主窗口，并且光标会自动聚焦到主窗口并可编辑。
+
 ![](./img/3-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
 
 ### 显示/隐藏对话框
+
+按下 `Alt + Space` 键可以方便地显示/隐藏对话窗口。
 
 ![](./img/3-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
 
