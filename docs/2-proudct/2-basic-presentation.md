@@ -49,6 +49,18 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2-basic-presentation/2023-08-25-img-11-commands-management-add-new-command.png)
 
+### 修改指令
+
+![](./img/2-basic-presentation/2023-09-05-img-1-basic-ussage-edit-command.png)
+
+### 导入导出自定义指令集
+
+![](./img/2-basic-presentation/2023-09-05-img-2-basic-ussage-import-and-export-commands.png)
+
+:::note
+我们可以操作的是由用户创建的自定义指令。
+:::
+
 ## 重置内容
 
 为保障用户的个人信息安全，我们将大部分设置内容存储在用户的本地电脑上。因此用户可以自主决定自己的数据处理方式。
