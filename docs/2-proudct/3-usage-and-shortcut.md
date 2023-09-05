@@ -1,6 +1,6 @@
 # 快捷键
 
-## 快捷键
+## 基本使用
 
 ### 选择指令
 
@@ -35,11 +35,29 @@
 
 ![product-shorcut-start-search](./img/3-usage-and-shortcut/2023-08-25-img-10-switch-start-and-stop-search.gif)
 
-## 快捷键设置
+## 高效使用
+
+### 选中文本，直接按快捷键
+
+自 v0.1.25 版本之后，我们不需要进行复制操作，选中文本，直接按 对应快捷键，便能够快速查找、翻译内容。
+
+![](./img/3-usage-and-shortcut/2023-09-02-img-1-v0.1.25-new-feature-1.gif)
+
+### 自定义快捷键设置
 
 配合 [自定义指令集](./2-basic-presentation.md#指令集) 使用，效率倍增！
 
 ![](./img/2-basic-presentation/2023-08-25-img-14-shorcut-settings-interface.png)
+
+## 显示隐藏
+
+### 显示/隐藏主界面
+
+![](./img/3-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
+
+### 显示/隐藏对话框
+
+![](./img/3-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
 
 ## 联系我们
 
