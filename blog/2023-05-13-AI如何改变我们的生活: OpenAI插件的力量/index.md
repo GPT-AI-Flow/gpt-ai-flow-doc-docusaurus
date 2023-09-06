@@ -2,16 +2,7 @@
 slug: ai-changing-our-lives-openai-plugins
 description: 探索OpenAI插件如何改变我们的生活。了解Coupert、Giftwrap、Redfin等AI插件的功能和用途，以及AI在我们日常生活中的应用和未来展望。
 authors: [xiaoka]
-tags:
-  [
-    "OpenAI",
-    "AI插件",
-    "Coupert",
-    "Giftwrap",
-    "Redfin",
-    "AI在生活中的应用",
-    "AI的未来",
-  ]
+tags: ['OpenAI', 'AI插件', 'Coupert', 'Giftwrap', 'Redfin', 'AI在生活中的应用', 'AI的未来']
 # image: image
 # hide_table_of_contents: false
 ---
@@ -28,7 +19,7 @@ import Image from "@theme/IdealImage";
 
 OpenAI 的插件就是这个变革的一个例子，它们正在以我们无法想象的方式改变我们的生活。
 
-![AI 如何改变我们的生活：OpenAI 插件的力量 | AI 在生活中的应用和未来展望-前言-OpenAI Plugin](./img/前言-OpenAI%20Plugin.jpg)
+![AI 如何改变我们的生活：OpenAI 插件的力量 | AI 在生活中的应用和未来展望-前言-OpenAI Plugin](./img/2023-05-13-intro-OpenAI-Plugin.jpg)
 
 <!--truncate-->
 

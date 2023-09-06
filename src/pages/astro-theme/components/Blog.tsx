@@ -1,5 +1,10 @@
 import React from 'react';
 
+// @ts-ignore
+import firstArticleImg from '../../../../blog/2023-05-13-AI如何改变我们的生活: OpenAI插件的力量/img/2023-05-13-intro-OpenAI-Plugin.jpg';
+// @ts-ignore
+import secondArticleImg from '../../../../blog/2023-08-11-塑造超级个体/img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg';
+
 import Container from './Container';
 
 const Blog = () => {
@@ -17,7 +22,38 @@ const Blog = () => {
           <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
             <div className="relative overflow-hidden rounded-xl">
               <img
-                src="/img/blog/articles/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg"
+                src={firstArticleImg.src}
+                alt="art cover"
+                loading="lazy"
+                width="1000"
+                height="667"
+                className="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105"
+              />
+            </div>
+            <div className="mt-6 relative">
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                AI 如何改变我们的生活：OpenAI 插件的力量 | AI 在生活中的应用和未来展望
+              </h3>
+              <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
+                探索OpenAI插件如何改变我们的生活。了解Coupert、Giftwrap、Redfin等AI插件的功能和用途，以及AI在我们日常生活中的应用和未来展望。
+              </p>
+              <a
+                className="inline-block"
+                href="/blog/ai-changing-our-lives-openai-plugins"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-info dark:text-blue-300">阅读全文</span>
+              </a>
+            </div>
+          </div>
+
+          {/* Article 1 - end */}
+
+          {/* Article 2 - start */}
+          <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+            <div className="relative overflow-hidden rounded-xl">
+              <img
+                src={secondArticleImg.src}
                 alt="art cover"
                 loading="lazy"
                 width="1000"
@@ -41,30 +77,6 @@ const Blog = () => {
               </a>
             </div>
           </div>
-          {/* Article 1 - end */}
-
-          {/* Article 2 - start */}
-          {/* <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
-            <div className="relative overflow-hidden rounded-xl">
-              <img
-                src="https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
-                alt="art cover"
-                loading="lazy"
-                width="1000"
-                height="667"
-                className="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105"
-              />
-            </div>
-            <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">提高内容互动：数据驱动的策略</h3>
-              <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                数据如何指引自媒体创作者精准地定位受众，优化内容互动与用户体验？
-              </p>
-              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
-                <span className="text-info dark:text-blue-300">阅读全文</span>
-              </a>
-            </div>
-          </div> */}
           {/* Article 2 - end */}
 
           {/* Article 3 - start */}
