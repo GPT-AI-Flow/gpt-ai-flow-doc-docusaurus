@@ -4,6 +4,8 @@ import React from 'react';
 import firstArticleImg from '../../../../blog/2023-05-13-AI如何改变我们的生活: OpenAI插件的力量/img/2023-05-13-intro-OpenAI-Plugin.jpg';
 // @ts-ignore
 import secondArticleImg from '../../../../blog/2023-08-11-塑造超级个体/img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg';
+// @ts-ignore
+import thirdArticleImg from '../../../../blog/2023-09-06-让自媒体博主梦想成真的神奇工具/img/2023-09-06-img-1-intro.png';
 
 import Container from './Container';
 
@@ -80,10 +82,10 @@ const Blog = () => {
           {/* Article 2 - end */}
 
           {/* Article 3 - start */}
-          {/* <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+          <div className="group p-6 sm:p-8 rounded-3xl bg-white border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
             <div className="relative overflow-hidden rounded-xl">
               <img
-                src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80"
+                src={thirdArticleImg.src}
                 alt="art cover"
                 loading="lazy"
                 width="1000"
@@ -94,13 +96,18 @@ const Blog = () => {
             <div className="mt-6 relative">
               <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">AI在内容推荐中的深度整合</h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                详细分析AI如何在自媒体平台中进行内容推荐，以及对用户行为的深度洞察。
+                专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 – 大模型 AI
+                Flow。它能帮助您快速生成和优化文案，为您的自媒体与宣传事业提供强大支持。
               </p>
-              <a className="inline-block" href="#" style={{ textDecoration: 'none' }}>
+              <a
+                className="inline-block"
+                href="/blog/AI-Flow-magic-tool-for-bloggers-and-creators"
+                style={{ textDecoration: 'none' }}
+              >
                 <span className="text-info dark:text-blue-300">阅读全文</span>
               </a>
             </div>
-          </div> */}
+          </div>
           {/* Article 3 - end */}
         </div>
       </Container>
