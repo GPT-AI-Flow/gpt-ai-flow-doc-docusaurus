@@ -249,6 +249,10 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 4,
+      },
       zoom: {
         selector: '.markdown :not(em) > img',
         background: {
