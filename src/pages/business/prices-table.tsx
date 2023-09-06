@@ -325,7 +325,7 @@ const PricesTable = () => {
                         href="/download"
                       >
                         {/* <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"> */}
-                        <span className="relative text-base font-semibold text-white dark:text-dark">
+                        <span className="relative text-base font-semibold align-middle text-white dark:text-black">
                           成为会员 (应用内购买)
                         </span>
                         {/* </button> */}
@@ -393,7 +393,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max">沟通专家模块</span>
                       </a>
                     </td>
@@ -409,7 +413,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 文案专家模块 </span>
                       </a>
                     </td>
@@ -425,7 +433,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 小红书达人模块 </span>
                       </a>
                     </td>
@@ -441,7 +453,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> SEO 专家模块 </span>
                       </a>
                     </td>
@@ -460,7 +476,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 评论达人模块 </span>
                       </a>
                     </td>
@@ -476,7 +496,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 职场达人模块 </span>
                       </a>
                     </td>
@@ -492,7 +516,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> up 主模块 </span>
                       </a>
                     </td>
@@ -508,7 +536,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 产品经理模块 </span>
                       </a>
                     </td>
@@ -524,7 +556,11 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a href="/docs/proudct/proMode-presentation" style={{ color: '#0c4a6e', textDecoration: 'none' }}>
+                      <a
+                        href="/docs/proudct/proMode-presentation"
+                        className="text-[#0c4a6e] dark:text-gray-200"
+                        style={{ textDecoration: 'none' }}
+                      >
                         <span className="block w-max"> 营销专家模块 </span>
                       </a>
                     </td>
