@@ -94,10 +94,12 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">AI在内容推荐中的深度整合</h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                GPT AI Flow: 博主及内容创作者的神奇工具
+              </h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 – 大模型 AI
-                Flow。它能帮助您快速生成和优化文案，为您的自媒体与宣传事业提供强大支持。
+                专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 - GPT AI
+                Flow。它能帮助您快速生成和优化文案, 为您的自媒体与宣传事业提供强大支持。
               </p>
               <a
                 className="inline-block"
