@@ -17,7 +17,7 @@ function PricingPage() {
   return (
     <div className="business_prices_page_contianer">
       {/* Live */}
-      <div>
+      <div style={{ backgroundColor: '#3f51b5' }}>
         <div>
           <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区</h2>
           {/* @ts-ignore: Live-EUR */}
@@ -39,7 +39,7 @@ function PricingPage() {
       </div>
 
       {/* Test */}
-      <div style={{ display: 'none' }}>
+      <div style={{ display: 'none', backgroundColor: '#3f51b5' }}>
         <div>
           <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区(测试)</h2>
           {/* @ts-ignore: Test-EUR */}
