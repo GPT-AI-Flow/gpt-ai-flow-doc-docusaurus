@@ -8,6 +8,8 @@ title: 介绍
 
 在内容泛滥的时代，如何让你的声音被更多人听到，又不失个性？GPT AI Flow 是答案！专为自媒体领域设计，这款人工智能工具为一人自媒体博主和自媒体新手量身打造。它能帮助您快速生成和优化文案，为您的自媒体事业提供强大动力。
 
+<iframe src="//player.bilibili.com/player.html?aid=490716983&bvid=BV1sN411i7Uh&cid=1259490531&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen="true"> </iframe>
+
 ## 产品特色
 
 **悬浮交互窗口**: 即刻启动 AI 对话，简洁、直观，无需等待。
