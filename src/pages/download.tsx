@@ -66,6 +66,17 @@ const DownloadPage = (): JSX.Element => {
                     下载 Windows 版本
                   </a>
                 </div>
+                <div className="!mt-0">
+                  <span className="text-md font-bold text-gray-600 dark:text-gray-300">
+                    <a
+                      href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
+                      target="_blank"
+                      style={{ textDecoration: 'none' }}
+                    >
+                      其他下载线路
+                    </a>
+                  </span>
+                </div>
                 <br />
                 <span className="text-sm text-gray-600 dark:text-gray-300">
                   <h3>
