@@ -73,7 +73,7 @@ const DownloadPage = (): JSX.Element => {
                       target="_blank"
                       style={{ textDecoration: 'none' }}
                     >
-                      其他下载线路
+                      其他下载线路(v0.1.28)
                     </a>
                   </span>
                 </div>
