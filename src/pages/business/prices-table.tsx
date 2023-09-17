@@ -80,7 +80,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
-                  <span>官方模型支持</span>
+                  <span>无限次数官方模型支持</span>
                 </li>
               </ul>
               <a
@@ -166,7 +166,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>官方模型支持</span>
+                  <span>无限次数官方模型支持</span>
                 </li>
               </ul>
               <a
@@ -210,7 +210,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
-                  <span>官方模型支持</span>
+                  <span>无限次数官方模型支持</span>
                 </li>
               </ul>
               <a
@@ -313,7 +313,7 @@ const PricesTable = () => {
                         <p className="text-sm text-gray-600 dark:text-gray-400">
                           专为创业者和中小企业设计，提供多种专业模式以满足不同的业务需求。
                           <br />
-                          <b>提供官方模型支持</b> 。
+                          <b>提供无限次数官方模型支持</b> 。
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
@@ -576,7 +576,7 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 官方模型支持 </span>
+                      <span className="block w-max"> 无限次数官方模型支持 </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
                       &times;
