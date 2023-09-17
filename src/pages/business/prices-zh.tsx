@@ -16,6 +16,14 @@ function PricingZHPage() {
 
   return (
     <div className="business_prices_page_contianer">
+      <div className="row" style={{ backgroundColor: '#3f51b5' }}>
+        <a href="/business/prices" style={{ margin: 'auto' }}>
+          <h2 style={{ color: '#fff', textAlign: 'center', marginTop: '2rem' }}>
+            欧元区，请点击这里(请先注册后再购买)
+          </h2>
+        </a>
+      </div>
+
       {/* Live */}
       <div style={{ backgroundColor: '#3f51b5' }}>
         <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>人民币区</h2>
@@ -31,12 +39,6 @@ function PricingZHPage() {
           pricing-table-id="prctbl_1NqfozDfpKDtUNgnz729Wrp4"
           publishable-key="pk_live_51HqdzoDfpKDtUNgnMQxyO3NPLAxBb1IS53DE9YXgmV9w5rEwsAOBaohqyL7bNTVjZQ8N4Ry0R9XXDIW9q0aMZFk100OtkFDHRx"
         />
-      </div>
-
-      <div className="row" style={{ backgroundColor: '#3f51b5' }}>
-        <a href="/business/prices" style={{ margin: 'auto' }}>
-          <h2 style={{ color: '#fff', textAlign: 'center', marginTop: '2rem' }}>欧元区，请点击这里</h2>
-        </a>
       </div>
 
       {/* Test */}
