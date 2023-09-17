@@ -26,6 +26,12 @@ function PricingPage() {
         />
       </div>
 
+      <div className="row" style={{ backgroundColor: '#3f51b5' }}>
+        <a href="/business/prices-zh" style={{ margin: 'auto' }}>
+          <h2 style={{ color: '#fff', textAlign: 'center', marginTop: '2rem' }}>人民币区，请点击这里</h2>
+        </a>
+      </div>
+
       {/* Test */}
       <div style={{ display: 'none', backgroundColor: '#3f51b5' }}>
         <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区(测试)</h2>
