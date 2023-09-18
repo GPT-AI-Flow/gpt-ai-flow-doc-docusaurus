@@ -60,7 +60,7 @@ const HeroSection = () => {
               </div>
             </div>
           </div>
-          <div className="mt-12 grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6">
+          <div className="hidden mt-12 grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6">
             <div className="p-4 grayscale transition duration-200 hover:grayscale-0">
               <img
                 src="/img/astro-theme/clients/microsoft.svg"
