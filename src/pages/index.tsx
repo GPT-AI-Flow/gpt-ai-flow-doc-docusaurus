@@ -22,9 +22,10 @@ export default function Home(): JSX.Element {
     >
       <main className="space-y-40 mb-40">
         <HeroSection />
+        <Testimonials />
         <Features />
         {/* <Stats /> */}
-        <Testimonials />
+        {/* <Testimonials /> */}
         <CallToAction />
         <Blog />
       </main>
