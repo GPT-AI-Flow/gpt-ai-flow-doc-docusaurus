@@ -19,7 +19,7 @@ const CallToAction = () => {
               loading="lazy"
               width="400"
               height="400"
-              src="/img/astro-theme/avatars/avatar.webp"
+              src="/img/avatars/2023-09-18-img-7-avatar-a76c7df6d208b595b7d357a5dddf6df6e3ee30f5.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
               alt="member photo"
               className="h-8 w-8 rounded-full object-cover"
             />
@@ -27,7 +27,7 @@ const CallToAction = () => {
               loading="lazy"
               width="200"
               height="200"
-              src="/img/astro-theme/avatars/avatar-2.webp"
+              src="/img/avatars/2023-09-18-img-10-avatar-357259270d8e9c76789836c3a5e2041ca1e40cd3.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
               alt="member photo"
               className="h-12 w-12 rounded-full object-cover"
             />
@@ -35,7 +35,7 @@ const CallToAction = () => {
               loading="lazy"
               width="200"
               height="200"
-              src="/img/astro-theme/avatars/avatar-3.webp"
+              src="/img/avatars/2023-09-18-img-8-avatar-76c4534d6b7c7cc1d3c0c467d8f2eaa11c11bb9d.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
               alt="member photo"
               className="z-10 h-16 w-16 rounded-full object-cover"
             />
@@ -43,7 +43,7 @@ const CallToAction = () => {
               loading="lazy"
               width="200"
               height="200"
-              src="/img/astro-theme/avatars/avatar-4.webp"
+              src="/img/avatars/2023-09-18-img-11-avatar-aa6096828a41f7504cdf398a49867ece2014e6e4.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
               alt="member photo"
               className="relative h-12 w-12 rounded-full object-cover"
             />
@@ -51,7 +51,7 @@ const CallToAction = () => {
               loading="lazy"
               width="200"
               height="200"
-              src="/img/astro-theme/avatars/avatar-1.webp"
+              src="/img/avatars/2023-09-18-img-9-avatar-2a5258cf89f3e6b885691ca92d773d6483bb5084.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
               alt="member photo"
               className="h-8 w-8 rounded-full object-cover"
             />
