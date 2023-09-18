@@ -211,7 +211,7 @@ import Image from "@theme/IdealImage";
 :::tip 试用期体验
 如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。
 
-想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>半个月的试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
+想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>7 天免费试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
 :::
 
 ## 结论
@@ -226,13 +226,13 @@ import Image from "@theme/IdealImage";
 
 **为何要选择我们？**因为您值得拥有这样一款工具，它能够真正助您一臂之力，无论是简化工作流程，提高工作效率，还是保障内容质量，GPT AI Flow 都能够做到。
 
-最后，我们真诚地**邀请您尝试我们的产品**。您可以通过 [官方购买页面](/business/prices-table) 了解价格详情，或是**先尝试半个月的免费试用期，感受它为您带来的变化**。相信您会发现，与 GPT AI Flow 一同工作，每一天都将变得更加轻松、高效。
+最后，我们真诚地**邀请您尝试我们的产品**。您可以通过 [官方购买页面](/business/prices-table) 了解价格详情，或是**先尝试 7 天免费试用期，感受它为您带来的变化**。相信您会发现，与 GPT AI Flow 一同工作，每一天都将变得更加轻松、高效。
 
 期待您的加入，成为未来的引领者，与您共同开创职业新纪元！
 
 ## 联系我们
 
-- 立即体验**半个月的免费试用期**: [点击这里](/download)
+- 立即体验**7 天免费试用期**: [点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](./6-faq.md)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
