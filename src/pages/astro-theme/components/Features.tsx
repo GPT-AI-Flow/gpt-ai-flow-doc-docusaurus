@@ -31,7 +31,7 @@ const Features = () => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="https://cdn-icons-png.flaticon.com/512/4341/4341139.png"
+                src="/img/icons/2023-09-18-img-7-icon-praise.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -40,12 +40,17 @@ const Features = () => {
 
               <div className="space-y-2">
                 <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  多语翻译员
+                  夸夸小助手
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  🌍 <b>免费</b>的多语言翻译支持
+                  🌟 一键生成<b>让人心情愉悦</b>的夸赞语句
                 </p>
-                <p className="text-gray-600 dark:text-gray-300">✉️ 专门针对职场文档的翻译优化</p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💬 快速生成<b>各种场合</b>下的夸奖话语
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎁 适用于亲友、同事等，让他们感受到您的<b>认可和鼓励</b>
+                </p>
               </div>
               <a
                 href="/docs/proudct/proMode-presentation" // 产品模块介绍
