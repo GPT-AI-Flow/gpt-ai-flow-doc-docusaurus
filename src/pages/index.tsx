@@ -10,6 +10,7 @@ import HeroSection from './astro-theme/components/HeroSection';
 import Features from './astro-theme/components/Features';
 import CallToAction from './astro-theme/components/CallToAction';
 import Blog from './astro-theme/components/Blog';
+// import Testimonials from './astro-theme/components/Testimonials';
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
