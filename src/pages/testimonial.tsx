@@ -12,8 +12,33 @@ const TestimonialPage = (): JSX.Element => {
           <div className="container m-auto px-6 text-gray-600 dark:text-gray-300 md:px-12 xl:px-6">
             <div className="mb-20 space-y-4 px-6 md:px-0">
               <h2 className="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
-                We have some fans.
+                他们
+                <svg
+                  className="svg-inline--fa fa-heart fa-w-16"
+                  aria-hidden="true"
+                  focusable="false"
+                  data-prefix="fas"
+                  data-icon="heart"
+                  role="img"
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 512 512"
+                  style={{ width: '2rem', color: '#f44336', margin: '0 10px' }}
+                >
+                  <path
+                    className=""
+                    fill="currentColor"
+                    d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"
+                  ></path>
+                </svg>
+                GPT AI Flow
               </h2>
+              <p className="text-center text-gray-500 dark:text-gray-400 md:text-lg">
+                我们的产品已经吸引了来自不同领域的一批粉丝，包括工程师、创业者、产品经理、在校学生、设计师、教师和翻译等等。
+                <br />
+                <span style={{ backgroundColor: '#fef3c7', color: '#4b5563' }}>
+                  他们对我们产品的真实评价是我们最有说服力的证明。
+                </span>
+              </p>
             </div>
             <div className="md:columns-2 lg:columns-3 gap-8 space-y-8">
               <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
