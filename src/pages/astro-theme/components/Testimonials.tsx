@@ -116,7 +116,7 @@ const Testimonials = () => {
             <div className="flex gap-4">
               <img
                 className="w-12 h-12 rounded-full"
-                src="/img/avatars/2023-09-18-img-5-8921c2cb20c4461b6ae6b8d18c37b48c9a99bd5f.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
+                src="/img/avatars/2023-09-18-img-3-8921c2cb20c4461b6ae6b8d18c37b48c9a99bd5f.jpg@160w_160h_1c_1s_!web-avatar-comment.avif"
                 alt="user avatar"
                 width="200"
                 height="200"
