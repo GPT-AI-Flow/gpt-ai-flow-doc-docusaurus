@@ -39,6 +39,8 @@ import Image from "@theme/IdealImage";
 
 # 让自媒体博主梦想成真的神奇工具!
 
+<iframe src="//player.bilibili.com/player.html?aid=490716983&bvid=BV1sN411i7Uh&cid=1259490531&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen="true"> </iframe>
+
 ## 引入
 
 在内容泛滥的时代，如何让你的声音被更多人听到，又不失个性？GPT AI Flow 是答案！这款人工智能工具专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家量身打造。它能帮助您快速生成和优化文案，为您的自媒体与宣传事业提供强大支持。
