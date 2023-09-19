@@ -1,11 +1,11 @@
 import React from 'react';
 
 // @ts-ignore
-import firstArticleImg from '../../../../blog/2023-05-13-AI如何改变我们的生活: OpenAI插件的力量/img/2023-05-13-intro-OpenAI-Plugin.jpg';
+import firstArticleImg from '../../../../blog/2023-09-19-18h00-职场必备：如何精准选择AI公文写作软件以提升工作效率和质量/img/2023-09-19-img-1-pexels-lisa-fotios-851213.jpg';
 // @ts-ignore
 import secondArticleImg from '../../../../blog/2023-08-11-塑造超级个体/img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg';
 // @ts-ignore
-import thirdArticleImg from '../../../../blog/2023-09-06-让自媒体博主梦想成真的神奇工具/img/2023-09-06-img-1-intro.png';
+import thirdArticleImg from '../../../../blog/2023-09-19-18h30-怎么利用AI赚钱,有哪些渠道/img/2023-09-19-img-5-pexels-geri-tech-5678243.jpg';
 
 import Container from './Container';
 
@@ -34,14 +34,14 @@ const Blog = () => {
             </div>
             <div className="mt-6 relative">
               <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
-                AI 如何改变我们的生活：OpenAI 插件的力量 | AI 在生活中的应用和未来展望
+                职场必备：如何精准选择AI公文写作软件以提升工作效率和质量？
               </h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                探索OpenAI插件如何改变我们的生活。了解Coupert、Giftwrap、Redfin等AI插件的功能和用途，以及AI在我们日常生活中的应用和未来展望。
+                了解如何精准选择AI公文写作软件以提高职场效率和写作质量。本文详解AI公文写作软件的主要优点，以及如何根据功能性与性能、用户评价和优质服务选择合适的产品。
               </p>
               <a
                 className="inline-block"
-                href="/blog/ai-changing-our-lives-openai-plugins"
+                href="/blog/how-to-choose-AI-document-writing-software-effectively"
                 style={{ textDecoration: 'none' }}
               >
                 <span className="text-info dark:text-blue-300">阅读全文</span>
@@ -94,16 +94,13 @@ const Blog = () => {
               />
             </div>
             <div className="mt-6 relative">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
-                GPT AI Flow: 博主及内容创作者的神奇工具
-              </h3>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">利用 AI 技术赚钱的机会与方法</h3>
               <p className="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 - GPT AI
-                Flow。它能帮助您快速生成和优化文案, 为您的自媒体与宣传事业提供强大支持。
+                想要利用AI技术赚钱吗？本文为您介绍如何选择合适的行业、利用自媒体和AI工具吸引流量，以及流量变现的方法。了解利用AI技术赚钱的机会与方法，实现个人收入增长的可能性！
               </p>
               <a
                 className="inline-block"
-                href="/blog/AI-Flow-magic-tool-for-bloggers-and-creators"
+                href="/blog/how-to-make-money-with-ai-opportunities-channels"
                 style={{ textDecoration: 'none' }}
               >
                 <span className="text-info dark:text-blue-300">阅读全文</span>
