@@ -2,7 +2,7 @@ import Image from "@theme/IdealImage";
 
 # 基本界面
 
-## 基本界面
+## 悬浮窗口 {#floating-window}
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
     <Image img={require("./img/2-basic-presentation/2023-08-25-img-6-floating-window.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
@@ -37,7 +37,7 @@ import Image from "@theme/IdealImage";
 
 ## 指令集
 
-在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](./2-basic-presentation.md#基本界面) 与 [专业模式](./4-proMode-presentation.md#应用案例) 中使用。
+在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](#floating-window) 与 [专业模式](./4-proMode-presentation.md) 中使用。
 
 ![](./img/2-basic-presentation/2023-08-25-img-10-commands-management.png)
 
