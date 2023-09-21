@@ -57,7 +57,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 免费模式中，我们可以自由使用软件，不过需要用户提供自己的 `OpenAI API key`。
 
 - 对话框功能
-- 免费专业模块
+- 仅支持免费专业模块
 
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 
@@ -72,16 +72,19 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
 
+点击 `开始试用` 后，会打开一个新的网页，跟着网页的提示，完成购买流程即可。
+
 #### 选择 `StartAI 入门模型版 (官方大模型支持)`
 
-- 无需 `OpenAI API key` 以及其他额外设置
+- 免费模式所有功能
 - 可使用全部 [专业模式模块](./4-proMode-presentation.md)
-- 无限次大模型请求支持
+- 无需 `OpenAI API key` 以及其他额外设置，无限次大模型请求支持
 
 #### 选择 `StartAI 入门工具版`
 
-- 需要设置 `OpenAI API key`
+- 免费模式所有功能
 - 可使用全部 [专业模式模块](./4-proMode-presentation.md)
+- 需要设置 `OpenAI API key`
 
 点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
 
