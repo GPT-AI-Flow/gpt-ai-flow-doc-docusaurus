@@ -40,9 +40,6 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 :::tip
 我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
 
-如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐信息，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
-
-点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 :::
 
 ## 注册登录用户
@@ -63,15 +60,19 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ### 选择 `StartAI 入门模型版 (官方大模型支持)`
 
+无需任何额外设置，各种专业模型试用，无限次大模型支持。
+
 ### 选择 `StartAI 入门工具版`
+
+如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐信息，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
+
+点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 
 点击打开设置界面，填入刚刚从 openAI 后台获得的 `API key`，点击保存。
 
 ![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png)
 
 ## 开始使用
-
-重启一次软件，开始使用。
 
 ![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
 
