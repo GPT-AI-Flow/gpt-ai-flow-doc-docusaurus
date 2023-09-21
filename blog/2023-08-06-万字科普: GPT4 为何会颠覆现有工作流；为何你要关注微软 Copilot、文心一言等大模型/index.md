@@ -33,6 +33,8 @@ description: '探讨为何GPT-4将改变我们的工作流，以及为何我们�
 
 来源: [渐构社群](https://www.modevol.com/)
 
+<!--truncate-->
+
 ## GPT 基础原理: 自回归文字生成模型
 
 鹦鹉学舌

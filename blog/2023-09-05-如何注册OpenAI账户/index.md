@@ -17,6 +17,8 @@ image: ./img/2023-08-06-img-3-openai-chat-interface.png
 - 一个国外的付款方式
 - 一个国外地址
 
+<!-- truncate -->
+
 我们需要做以下几个步骤:
 
 - 申请一个国外的 Google、Microsoft、Apple 账户
