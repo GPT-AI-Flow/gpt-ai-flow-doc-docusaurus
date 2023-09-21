@@ -101,6 +101,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
         blog: {
           showReadingTime: true,
@@ -110,6 +111,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
@@ -119,6 +121,9 @@ const config = {
           priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
+        },
+        pages: {
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
       }),
     ],
@@ -155,11 +160,16 @@ const config = {
             label: '产品',
             position: 'left',
           },
-          {
-            to: '/docs/prompt-engineering/How-to-ask-the-gpt',
-            label: '提示课程',
-            position: 'left',
-          },
+          // {
+          //   to: '/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF',
+          //   label: '应用场景',
+          //   position: 'left',
+          // },
+          // {
+          //   to: '/docs/category/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B',
+          //   label: '提示课程',
+          //   position: 'left',
+          // },
           { to: '/blog', label: '博客文章', position: 'left' },
           {
             to: '/business/prices-table',

@@ -1,10 +1,27 @@
 ---
-title: '万字科普: GPT4 为何会颠覆现有工作流'
+slug: why-gpt-4-will-disrupt-existing-workflows-and-importance-of-big-models-like-microsoft-copilot-wenxinyiyin
+tags: ['GPT-4', 'ChatGPT', '微软Copilot', '文心一言', 'AI', '机器学习', '渐构社群']
+keywords:
+  [
+    'GPT-4',
+    'Machine Learning',
+    'Artificial Intelligence',
+    'Microsoft Copilot',
+    '文心一言',
+    'Language Models',
+    '渐构社群',
+    'Education',
+    'AI Ethics',
+    'NLP',
+    'Natural Language Processing',
+  ]
+description: '探讨为何GPT-4将改变我们的工作流，以及为何我们需要关注采用大型语言模型的创新，如微软Copilot和文心一言。从不同视角介绍GPT-4，包括其工作原理、制造过程、潜在的能力，以及可能带来的社会影响。为各领域，如教育、科学、新闻和在线内容产生行业，提供解决未来挑战的策略。'
+# image: "picture-showing-chatbot-answering-questions-based-on-大模型4"
 ---
 
 # 万字科普: GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型
 
-<iframe src="//player.bilibili.com/player.html?aid=653520954&bvid=BV1MY4y1R7EN&cid=1054910356&page=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=653520954&bvid=BV1MY4y1R7EN&cid=1054910356&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
 
 视频是关于 GPT 的底层原理和未来影响。将抛开技术细节，少用专业名词，在整体功能上讲解 ChatGPT 的「工作原理」「制造过程」「涌现的能力」「未来的影响」以及「如何应对」：
 
