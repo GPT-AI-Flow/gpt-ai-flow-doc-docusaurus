@@ -1,6 +1,6 @@
 ---
-Title: '如何注册 OpenAI 账户并获取 OpenAI API key 密钥？'
-Slug: 'how-to-register-for-OpenAI-account-and-get-OpenAI-api-key'
+Title: 如何注册 OpenAI 账户并获得 OpenAI API key 密匙？
+Slug: how-to-register-for-OpenAI-account-and-get-OpenAI-api-key
 Tags: ['OpenAI', 'API Key', '注册', 'GPT AI Flow', 'StartAI', '外部账户']
 Keywords: 'OpenAI, OpenAI API key, StartAI, GPT AI Flow, 外部账户, 注册, 获取密钥'
 Description: '本文详细介绍如何注册 OpenAI 账户并获取 API key，以便您使用 StartAI 工具版套餐和其他相关服务。您将完整地了解整个过程，包括如何申请外部Google, Microsoft或Apple账户，如何在 OpenAI 网站上注册新账户，如何获取 API key 密钥，以及如何在 GPT AI Flow 软件中使用它。'
