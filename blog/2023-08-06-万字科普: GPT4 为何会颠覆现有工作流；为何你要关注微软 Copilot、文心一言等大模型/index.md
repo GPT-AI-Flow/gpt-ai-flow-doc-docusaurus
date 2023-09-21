@@ -1,10 +1,6 @@
----
-title: '万字科普: GPT4 为何会颠覆现有工作流'
----
-
 # 万字科普: GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型
 
-<iframe src="//player.bilibili.com/player.html?aid=653520954&bvid=BV1MY4y1R7EN&cid=1054910356&page=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=527711775&bvid=BV1sM411V7MG&cid=1104749694&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
 
 视频是关于 GPT 的底层原理和未来影响。将抛开技术细节，少用专业名词，在整体功能上讲解 ChatGPT 的「工作原理」「制造过程」「涌现的能力」「未来的影响」以及「如何应对」：
 
