@@ -52,23 +52,38 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ## 套餐选择
 
-再次来到设置界面，点击左侧的 `专业模式` 栏目。
+### 免费模式
 
-![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
+免费模式中，我们可以自由使用软件，不过需要用户提供自己的 `OpenAI API key`。
 
-了解套餐信息: [请点击这里](/business/prices-table)
-
-### 选择 `StartAI 入门模型版 (官方大模型支持)`
-
-无需任何额外设置，各种 [专业模式模块](./4-proMode-presentation.md) 使用，无限次大模型支持。
-
-### 选择 `StartAI 入门工具版`
-
-如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐信息，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
+- 对话框功能
+- 免费专业模块
 
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 
-点击打开设置界面，填入刚刚从 openAI 后台获得的 `API key`，点击保存。
+### 专业模式
+
+专业模式是针对对内容创作高度需要的用户，里面提供了全面的内容创作模式可供用 AI 去运营自媒体(小红书、知乎、短视频脚本、文案写作、SEO 等等)，帮助你加快自己的内容创作工作流，短时间内产出大量高质量的内容。
+
+#### 打开专业模式设置
+
+再次来到设置界面，点击左侧的 `专业模式` 栏目。  
+了解套餐信息: [请点击这里](/business/prices-table)
+
+![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
+
+#### 选择 `StartAI 入门模型版 (官方大模型支持)`
+
+- 无需 `OpenAI API key` 以及其他额外设置
+- 可使用全部 [专业模式模块](./4-proMode-presentation.md)
+- 无限次大模型请求支持
+
+#### 选择 `StartAI 入门工具版`
+
+- 需要设置 `OpenAI API key`
+- 可使用全部 [专业模式模块](./4-proMode-presentation.md)
+
+点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
 
 ![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png)
 
