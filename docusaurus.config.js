@@ -160,11 +160,11 @@ const config = {
             label: '产品',
             position: 'left',
           },
-          // {
-          //   to: '/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF',
-          //   label: '应用场景',
-          //   position: 'left',
-          // },
+          {
+            to: '/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF',
+            label: '应用场景',
+            position: 'left',
+          },
           // {
           //   to: '/docs/category/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B',
           //   label: '提示课程',
