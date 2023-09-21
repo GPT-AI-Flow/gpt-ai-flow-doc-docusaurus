@@ -58,6 +58,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 - 对话框功能
 - 免费专业模块
+- 不支持专业界面模块
 
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 
@@ -71,6 +72,8 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 了解套餐信息: [请点击这里](/business/prices-table)
 
 ![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
+
+点击 `开始试用` 后，会打开一个新的网页，跟着网页的提示，完成购买流程即可。
 
 #### 选择 `StartAI 入门模型版 (官方大模型支持)`
 
