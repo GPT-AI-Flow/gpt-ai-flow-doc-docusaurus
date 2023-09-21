@@ -101,6 +101,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
         blog: {
           showReadingTime: true,
@@ -110,6 +111,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
@@ -119,6 +121,9 @@ const config = {
           priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
+        },
+        pages: {
+          exclude: ['**/draft-*.{js,jsx,ts,tsx,md,mdx}', '**/*-draft-*.{js,jsx,ts,tsx,md,mdx}'],
         },
       }),
     ],
