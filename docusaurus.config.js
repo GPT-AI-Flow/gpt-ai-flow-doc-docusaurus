@@ -165,12 +165,8 @@ const config = {
             label: '应用场景',
             position: 'left',
           },
-          // {
-          //   to: '/docs/category/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B',
-          //   label: '提示课程',
-          //   position: 'left',
-          // },
           { to: '/blog', label: '提示工程文章', position: 'left' },
+          // { to: '/blog', label: '博客文章', position: 'left' },
           {
             to: '/business/prices-table',
             label: '价格',
