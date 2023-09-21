@@ -33,6 +33,7 @@ keywords:
   ]
 description: '专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 – GPT AI Flow。它能帮助您快速生成和优化文案，为您的自媒体与宣传事业提供强大支持。'
 image: ./img/2023-09-06-img-1-intro.png
+authors: [xiaoka]
 ---
 
 import Image from "@theme/IdealImage";

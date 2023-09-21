@@ -18,6 +18,7 @@ keywords:
   ]
 description: 了解如何精准选择AI公文写作软件以提高职场效率和写作质量。本文详解AI公文写作软件的主要优点，以及如何根据功能性与性能、用户评价和优质服务选择合适的产品。
 image: ./img/2023-09-19-img-1-pexels-lisa-fotios-851213.jpg
+authors: [xiaoka]
 ---
 
 # 职场必备：如何精准选择 AI 公文写作软件以提升工作效率和质量？

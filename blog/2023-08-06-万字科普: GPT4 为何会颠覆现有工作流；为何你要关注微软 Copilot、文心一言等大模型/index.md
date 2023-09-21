@@ -17,6 +17,7 @@ keywords:
   ]
 description: '探讨为何GPT-4将改变我们的工作流，以及为何我们需要关注采用大型语言模型的创新，如微软Copilot和文心一言。从不同视角介绍GPT-4，包括其工作原理、制造过程、潜在的能力，以及可能带来的社会影响。为各领域，如教育、科学、新闻和在线内容产生行业，提供解决未来挑战的策略。'
 # image: "picture-showing-chatbot-answering-questions-based-on-大模型4"
+authors: [xiaoka]
 ---
 
 # 万字科普: GPT4 为何会颠覆现有工作流；为何你要关注微软 Copilot、文心一言等大模型
