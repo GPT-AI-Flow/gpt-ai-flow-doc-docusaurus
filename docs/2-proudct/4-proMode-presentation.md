@@ -22,8 +22,6 @@ import Image from "@theme/IdealImage";
 
 介绍: [点击这里](../1-intro/index.md)
 
-高效产品模块: [点击这里](./4-proMode-presentation.md#专业界面模块)
-
 ## 专业模式的核心优势
 
 1. **创新的友好界面设计**: 我们的界面不仅具有创新性，而且注重用户体验，简洁的操作流程和可调参数为用户提供了流畅和高效的使用体验。
