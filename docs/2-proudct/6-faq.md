@@ -2,19 +2,25 @@
 
 ## GPT AI Flow 工具 可以支持在国内使用吗 ？
 
-目前我们的软件版本能够在 国内/海外 使用，唯一需要注意的是，国内用户需要配合 梯子 才可以无风险的使用此款工具。
+目前我们的软件版本能够在 国内/海外 使用，我们推荐国内用户配合“梯子魔法”来无风险的使用此款工具。
 
 ## 使用 GPT AI Flow 时，需要用户提供什么信息吗 ？
 
-所有的用户 (国内用户需要自行使用梯子工具) 都需要提供 OpenAI 的 API 密匙。[点击这里](./1-installation-and-registration-process.md) 了解如何申请。
+所有的用户都需要提供 OpenAI 的 API 密匙。
+
+- 如果用户选择 `免费版` 或 `入门工具版`，用户需要提供 OpenAI 的 API 密匙。
+- 如果用户选择 `入门模型版`，用户无需提供任何信息。
 
 :::info 注意
-这个密匙请保存保管好，不要发给任何人。
+这个密匙请保存保管好，不要发给任何人。  
+如何申请 OpenAI API 密匙: [点击这里](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 :::
 
 ## 我如何找到 GPT AI Flow 的教程 ？
 
 未来我们会整理 AI 工具的使用方式，以文章的方式放在这个网站上，请收藏我们的网站。另一方面，更多与 AI 相关的知识和视频内容正在制作中，很快将会与大家见面！请关注 [小卡大脑洞](https://space.bilibili.com/137975681) 频道，关注 AI 发展和应用，提升 10 倍个人效率，成为超级个体。
+
+<iframe src="//player.bilibili.com/player.html?aid=490716983&bvid=BV1sN411i7Uh&cid=1259490531&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen="true"> </iframe>
 
 ## 现在我可以加入自定义指令吗 ？
 
