@@ -51,7 +51,7 @@ import Image from "@theme/IdealImage";
 
 ![](./img/4-proMode-presentation/2023-08-26-img-8-proMode-interface.png)
 
-[点击这里]: /docs/category/应用场景
+<!-- [点击这里]: /docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF -->
 
 ### 多语翻译员（🎉 免费提供 🎉）
 
@@ -179,7 +179,7 @@ import Image from "@theme/IdealImage";
 
 ### 2. 启动与配置流程
 
-- 步骤一: 完成[软件的注册和安装](./1-registration-process.md#下载-gpt-ai-flow-软件安装)。
+- 步骤一: 完成[软件的注册和安装](./1-installation-and-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
 
 ![](./img/4-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
