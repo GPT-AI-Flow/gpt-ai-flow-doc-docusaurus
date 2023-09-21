@@ -19,7 +19,7 @@ function PricingPage() {
       <div className="row" style={{ backgroundColor: '#3f51b5' }}>
         <a href="/business/prices-zh" style={{ margin: 'auto' }}>
           <h2 style={{ color: '#fff', textAlign: 'center', marginTop: '2rem' }}>
-            人民币区，请点击这里(请先注册后再购买)
+            去人民币区，请点击这里(请先注册后再购买)
           </h2>
         </a>
       </div>

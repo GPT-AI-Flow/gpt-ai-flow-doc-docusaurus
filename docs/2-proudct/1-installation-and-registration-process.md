@@ -38,24 +38,38 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 ![](./img/1-registration-process/2023-09-05-img-4-gpt-ai-flow-accessibility-permissions-in-macOS.png)
 
 :::tip
-如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
+我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
 
-点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/2023/09/05/%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8COpenAI%E8%B4%A6%E6%88%B7)
+如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐信息，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
+
+点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 :::
 
-## 打开 GPT AI Flow 软件，打开设置界面，填入刚刚申请的 `API key` 密匙
+## 注册登录用户
 
-终于，我们打开了 GPT AI Flow 软件，并在屏幕中看到它。
+![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
 
-![](./img/1-registration-process/2023-08-06-img-15-gpt-ai-flow-interface.png)
+成功登录账户后，软件会提示重启软件的提示框，点击 `确认`。
 
-打开设置界面，填入刚刚从 openAI 后台获得的 `API key`，点击保存。
+![](./img/1-registration-process/2023-09-21-img-2-restart-software.png)
+
+## 套餐选择
+
+再次来到设置界面，点击左侧的 `专业模式` 栏目。
+
+![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
+
+了解套餐信息: [请点击这里](/business/prices-table)
+
+### 选择 `StartAI 入门模型版 (官方大模型支持)`
+
+### 选择 `StartAI 入门工具版`
+
+点击打开设置界面，填入刚刚从 openAI 后台获得的 `API key`，点击保存。
 
 ![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png)
 
-## 注册登录用户后重启软件，开始使用
-
-![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
+## 开始使用
 
 重启一次软件，开始使用。
 
