@@ -50,7 +50,7 @@ import Image from "@theme/IdealImage";
 
 ## 专业界面模块
 
-查看专业模块应用场景：[点击这里](/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
+查看专业模块应用场景：[点击这里](/docs/application-scenarios/introduction)
 
 ![](./img/4-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
 

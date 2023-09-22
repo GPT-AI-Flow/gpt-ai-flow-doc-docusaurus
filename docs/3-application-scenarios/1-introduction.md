@@ -2,6 +2,8 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 
 # 专业界面模块
 
+工作效率革命: GPT AI Flow 专业模式将 AI 真正地融入内容创作: [点击这里](/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation)
+
 <CardsForFeatures />
 
 :::tip
@@ -41,7 +43,7 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
   - 自动优化：自动生成针对 SEO 的标题、摘要、标签和关键词，为您的内容提供最佳的在线可见性。
   - 关键词策略：深入分析您的目标市场，提供关键词建议并提炼最有潜力的词汇。
   - 内容升级：根据当前的 SEO 趋势，提供内容结构、风格和策略的专业建议。
-- 真实应用：[小红书实战案例: follow Paris 每周活动推荐](./5-user-testimonial.md#seo-专家)
+- 真实应用：[小红书实战案例: follow Paris 每周活动推荐](/docs/application-scenarios/user-testimonial#seo-专家)
 
 ## 评论达人
 

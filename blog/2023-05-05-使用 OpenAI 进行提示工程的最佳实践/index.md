@@ -5,7 +5,7 @@ tags: [OpenAI, 提示工程, AI技术, 最佳实践, AI模型, 技术指南]
 keywords: [OpenAI, 人工智能, 提示工程, 最佳实践, AI模型交互, 优化工作效率]
 description: 这篇文章将帮助你理解如何通过 OpenAI 提示工程更高效地从AI模型中获得所需的结果。无论你是AI新手还是有着丰富经验的用户，你都有可能从中受益。本文不仅详细解释了提示工程的工作原理，还提供了实用的示例。
 # image: 这篇文章的封面图像是 OpenAI 的logo，强调了本文的主题－ OpenAI 提示工程的最佳实践。
-authors: [xiaoka]
+# authors: [xiaoka]
 ---
 
 # 使用 OpenAI 进行提示工程的最佳实践

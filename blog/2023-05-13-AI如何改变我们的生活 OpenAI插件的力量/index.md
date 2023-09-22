@@ -4,7 +4,7 @@ description: 探索OpenAI插件如何改变我们的生活。了解Coupert、Gif
 tags: ['OpenAI', 'AI插件', 'Coupert', 'Giftwrap', 'Redfin', 'AI在生活中的应用', 'AI的未来']
 image: ./img/2023-05-13-intro-OpenAI-Plugin.jpg
 # hide_table_of_contents: false
-authors: [xiaoka]
+# authors: [xiaoka]
 ---
 
 import Image from "@theme/IdealImage";
