@@ -9,11 +9,11 @@
 
 尝试发一篇旅游的小红书帖子
 
-![](./img/4-xiaoHongShu/2023-08-23-img-2-2-gif-专业模式使用.gif)
+![](./img/10-xiaoHongShu/2023-08-23-img-2-2-gif-专业模式使用.gif)
 
 最终效果
 
-![](./img/4-xiaoHongShu/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+![](./img/10-xiaoHongShu/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
 
 ## 小红书珠宝
 
