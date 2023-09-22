@@ -1,6 +1,16 @@
+---
+title: 基本界面
+slug: user-guide-floating-window-commands-management
+tags: [操作指南, 悬浮窗口, 指令集, 自定义指令集管理, 快捷键]
+keywords:
+  [悬浮窗口操作, 指令集管理, 对话展示, 窗口大小设置, 自定义指令, 导入导出指令集, 重置内容, 保护个人信息, 视频教程]
+description: 这篇文章详细解析了如何操作和管理悬浮窗口及指令集，包括自定义窗口大小，使用快捷键，添加、修改、导入、导出指令，以及如何清空对话和重置内容。同时提供实战教程视频，帮助用户灵活定制和保护个人信息。
+image: ./img/2-basic-presentation/2023-08-25-img-7-extended-floating-window.png
+---
+
 import Image from "@theme/IdealImage";
 
-# 基本界面
+# 用户详解：悬浮窗口及指令集的操作与管理
 
 ## 悬浮窗口 {#floating-window}
 

@@ -1,10 +1,15 @@
 ---
-title: 专业模式界面
+title: 专业模式
+slug: how-professional-mode-of-ai-flow-revolutionizes-content-creation
+tags: [AI SaaS, 内容创作, 工作效率, GPT AI Flow, 专业模式]
+keywords: [AI工具, 内容创作, 工作效率, SaaS产品, 专业模式, 操作简洁, 效果出色, 用户体验, 个性化创作]
+description: 本文详细介绍了GPT AI Flow的专业模式如何帮助内容创作者提高工作效率，增强创作质量和创新性。探讨从界面设计、功能特点到实际应用成效的多方面优势，并附有详细的获取和启用流程。
+# image: 这是一个描述GPT AI Flow专业模式界面和功能的图片，为内容创作者提供了一个高效、简洁和易于使用的工作环境。
 ---
 
 import Image from "@theme/IdealImage";
 
-# 专业模式工作流
+# 工作效率革命: GPT AI Flow 专业模式将 AI 真正地融入内容创作
 
 ## 引入
 
@@ -47,8 +52,6 @@ import Image from "@theme/IdealImage";
 
 查看专业模块应用场景：[点击这里](/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
 
-![](./img/4-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
-
 ## 如何获得和启用专业模式
 
 ### 1. 价格和购买方式
@@ -60,31 +63,15 @@ import Image from "@theme/IdealImage";
 - 步骤一: 完成[软件的注册和安装](./1-installation-and-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
 
-![](./img/4-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
-
 - 步骤三: 软件需要注册登录才能够使用，在设置界面进行账户注册并登录。完成此步骤后，您可能需要重新启动软件以确保设置生效。
-
-![](./img/4-proMode-presentation/2023-08-23-img-4-账户注册.png)
 
 - 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
 
-![](./img/1-registration-process/2023-08-25-img-4-freeAI-version-of-gpt-ai-flow.png)
-
 - 步骤五: 如果想使用全部的专家模块需要订阅我们的软件，来到设置界面的‘专业模式’，点击成为早期会员链接。
-
-![](./img/1-registration-process/2023-08-25-img-1-to-be-a-member.png)
 
 在弹出的窗口中选择 StartAI 入门工具版，填入支付方式(请确保填写的邮箱与当前账户一致)后，重启启动软件查看专业界面即可访问全部的模块。
 
-![](./img/1-registration-process/2023-08-29-img-2-business-payment-page.png)
-
-![](./img/1-registration-process/2023-08-25-img-3-payment-confirmation-page.png)
-
 - 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
-
-![](./img/4-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
-
-![](./img/4-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
 
 :::tip 试用期体验
 如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。

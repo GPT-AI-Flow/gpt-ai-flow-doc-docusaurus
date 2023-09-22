@@ -1,12 +1,19 @@
-# 快捷键
+---
+title: 快捷键
+slug: ai-tool-shortcut-ultimate-guide
+tags: [AI工具, 快捷键, 操作指南, 效率提升, 自定义设置]
+keywords: [AI工具快捷键, 操作指南, 效率提升, 搜索工具, 自定义快捷键, 显示隐藏]
+description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖了从基本操作到高效使用的所有快捷键技巧。每个步骤都配备了清晰易懂的示例图，让你更轻松地理解和应用每个快捷键。这是一篇一键操作提升效率的必备指南，快来看看吧！
+# image:
+---
+
+# AI 工具快捷键大全：一键操作提升效率的完整指南
 
 ## 基本使用
 
 ### 选择指令
 
 通过鼠标选择 AI 工具场景。
-
-![](./img/3-usage-and-shortcut/2023-08-06-img-2-switch-context.gif)
 
 `Shift + up` 上方向键 和 `Shift + down` 下方向键,更换中间 `指令` 选项;
 
@@ -26,8 +33,6 @@
 
 选中输入框的情况下，按 `Shift + 回车` 换行，另起一行输入。
 
-![](./img/3-usage-and-shortcut/2023-08-06-img-6-type-in-a-new-line.gif)
-
 ### 搜索 🔍
 
 未选中软件时按 `Alt + 回车`，选中软件时按 `回车` 开启搜索提问；  
@@ -40,8 +45,6 @@
 ### 选中文本，直接按快捷键
 
 自 v0.1.25 版本之后，我们不需要进行复制操作，选中文本，直接按 对应快捷键，便能够快速查找、翻译内容。
-
-![](./img/3-usage-and-shortcut/2023-09-02-img-1-v0.1.25-new-feature-1.gif)
 
 :::info
 注意，此功能需要确保应用的权限。
@@ -56,21 +59,15 @@
 
 配合 [自定义指令集](./2-basic-presentation.md#指令集) 使用，效率倍增！
 
-![](./img/2-basic-presentation/2023-08-25-img-14-shorcut-settings-interface.png)
-
 ## 显示隐藏
 
 ### 显示/隐藏主界面
 
 按下 `Shift + Alt + Space` 键可以方便地显示/隐藏主窗口，并且光标会自动聚焦到主窗口并可编辑。
 
-![](./img/3-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
-
 ### 显示/隐藏对话框
 
 按下 `Alt + Space` 键可以方便地显示/隐藏对话窗口。
-
-![](./img/3-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
 
 ## 联系我们
 
