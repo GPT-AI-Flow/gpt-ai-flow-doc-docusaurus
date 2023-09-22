@@ -8,22 +8,6 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 使用所有专业模块需要有大模型的支持。
 :::
 
-## 免费专业模块
-
-### 夸夸小助手 {#praise-assistant}
-
-### 回复领导 {#response-to-leader}
-
-### 朋友圈文案 {#peng-you-quan}
-
-### 群发消息 {#group-notice}
-
-### mbti 研究员 {#mbti-researcher}
-
-## 付费专业模块
-
-### 文案专家
-
 #### 文案策略与创意专家
 
 - 功能简介：卓越的文案设计与策略，为您的品牌和信息提供无与伦比的吸引力。

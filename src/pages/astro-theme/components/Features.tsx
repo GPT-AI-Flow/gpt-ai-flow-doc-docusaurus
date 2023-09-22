@@ -37,7 +37,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : '#praise-assistant'} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -82,7 +82,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : '#response-to-leader'} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -803,6 +803,141 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
                 <p className="text-gray-600 dark:text-gray-300">
                   🧠 确保您在知乎上<b>树立权威形象</b>并与大众有效互动
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-14-swot-analysis.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  SWOT分析
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📊 为产品或项目提供<b>全面的SWOT分析</b>工具
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 快速识别<b>优势、劣势、机会和威胁</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🚀 为决策者提供清晰的策略建议，<b>确保项目或产品的成功</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-15-okr.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  OKR方法
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎯 一键生成针对企业和团队的<b>目标和关键成果</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💪 帮助团队<b>更高效地达成目标</b>并跟踪进度
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🌱 促进组织内的<b>透明度和协同工作</b>，确保长期的成功和增长
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-16-treasure.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  未来探索
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🔮 我们正在不断地<b>研发与创新</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 期待为您带来<b>更多实用的功能</b>和工具
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🚀 请持续关注，<b>与我们一起走进未来</b>!
                 </p>
               </div>
               <a
