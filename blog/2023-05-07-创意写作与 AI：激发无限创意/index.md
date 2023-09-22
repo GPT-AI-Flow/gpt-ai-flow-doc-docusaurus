@@ -4,7 +4,7 @@ slug: AI-and-Creative-Writing-The-Next-Generation-Creative-Helper
 tags: [AI写作工具, 创新写作, 内容生成, 人工智能, 技术在创新写作中的应用]
 keywords: [AI, 人工智能, 创作工具, 创新写作, 内容生成, 文本改善, 创新技能]
 description: 在这篇文章中，我们将详细介绍如何使用 AI 提示来创作独特的小说、短篇故事、诗歌和剧本，展示如何通过 AI 技术激发写作的无限创意。
-# # authors: [xiaoka]
+# authors: [xiaoka]
 ---
 
 # 创意写作与 AI：激发无限创意
