@@ -16,3 +16,7 @@
 最终效果
 
 ![](./img/2-xiaoHongShu/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+
+## 小红书珠宝
+
+<iframe src="//player.bilibili.com/player.html?aid=915921783&bvid=BV13u4y1C7jF&cid=1265469812&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
