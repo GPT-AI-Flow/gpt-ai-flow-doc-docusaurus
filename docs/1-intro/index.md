@@ -1,8 +1,13 @@
 ---
 title: 介绍
+slug: AI-Flow-Supercharge-Your-Self-Media-Contents
+tags: [AI助手, 自媒体, 内容创作, SEO优化, GPT AI Flow]
+Keywords: [SEO, AI流程, 内容创作, AI助手, 自媒体工具, 提升互动, 增加可见度]
+description: GPT AI Flow, 一款专为Self-Media领域设计的人工智能工具, 为自媒体新手和自媒体博主提供文案生成和优化的解决方案。使用AI Flow可以提高内容产出效率60%, 且互动率提高了40%。
+# image:
 ---
 
-# 无需写手，一站式解决自媒体内容难题：你的 AI 助手到位！
+# 一键 AI 助手 GPT AI Flow，你的超级自媒体工具
 
 ## 概述
 
