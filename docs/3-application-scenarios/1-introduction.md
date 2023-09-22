@@ -2,6 +2,8 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 
 # 专业界面模块
 
+[网页版立即体验](https://www.app.gptaiflow.com/login)
+
 <CardsForFeatures />
 
 :::tip
