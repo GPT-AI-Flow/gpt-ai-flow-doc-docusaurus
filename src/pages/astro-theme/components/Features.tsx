@@ -424,7 +424,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-5-loudspeaker.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -469,7 +469,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-6-delivery-box.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -514,7 +514,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-7-fountain-pen.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -559,7 +559,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-8-lifestyle.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -604,7 +604,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-9-jewelry.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -649,7 +649,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-10-seo.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -694,7 +694,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-11-icon-bilibili.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -739,7 +739,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-12-video-play.png"
                 className="w-12"
                 // width="512"
                 // height="512"
@@ -784,7 +784,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                src="/img/icons/2023-09-22-img-13-icon-zhihu.png"
                 className="w-12"
                 // width="512"
                 // height="512"
