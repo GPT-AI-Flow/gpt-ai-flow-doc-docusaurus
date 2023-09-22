@@ -161,7 +161,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/category/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF',
+            to: '/docs/application-scenarios/introduction',
             label: '应用场景',
             position: 'left',
           },
