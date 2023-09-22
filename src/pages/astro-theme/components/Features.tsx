@@ -37,7 +37,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -82,7 +82,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -127,7 +127,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -172,7 +172,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -217,7 +217,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -262,7 +262,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -307,7 +307,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
             </p>
           </div>
           <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
             className="flex items-center justify-between group-hover:text-secondary"
             style={{ textDecoration: 'none' }}
           >
@@ -353,7 +353,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               </p>
             </div>
             <a
-              href="/docs/proudct/proMode-presentation" // 产品模块介绍
+              href="/docs/proudct/proMode-presentation"
               className="flex items-center justify-between group-hover:text-secondary"
               style={{ textDecoration: 'none' }}
             >
@@ -401,7 +401,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -446,7 +446,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -491,7 +491,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -536,7 +536,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -581,7 +581,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -626,7 +626,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -671,7 +671,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -716,7 +716,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -761,7 +761,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -806,7 +806,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -851,7 +851,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -896,7 +896,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
@@ -941,7 +941,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 </p>
               </div>
               <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
               >
