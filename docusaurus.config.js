@@ -156,7 +156,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/intro/',
+            to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
             label: '产品',
             position: 'left',
           },
@@ -202,7 +202,7 @@ const config = {
             items: [
               {
                 label: 'AI 助手',
-                to: '/docs/intro',
+                to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
               },
               {
                 label: '产品反馈',

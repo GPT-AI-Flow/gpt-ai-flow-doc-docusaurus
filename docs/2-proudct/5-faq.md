@@ -1,4 +1,13 @@
-# 常见问题
+---
+title: 常见问题
+slug: gpt-ai-flow-guide-and-faq
+tags: [GPT AI Flow, AI 工具, OpenAI API 密匙, 自定义指令, GPT-4 模型访问]
+keywords: [GPT AI Flow 使用, OpenAI API 密匙申请, 梯子魔法, 自定义指令导出, 用户问题解答]
+description: 本篇文章详解如何使用 GPT AI Flow 工具和解决常见问题，包括如何在国内使用，如何申请 OpenAI API 密匙，如何加入和导出自定义指令，以及如何获取 GPT-4 模型访问权限。
+# image: 此图片展示了 GPT AI Flow 工具的使用流程及界面，帮助用户更直观的理解如何使用这款AI工具，以及解决在使用过程中可能遇到的问题。
+---
+
+# GPT AI Flow 工具使用指南及常见问题解答
 
 ## GPT AI Flow 工具 可以支持在国内使用吗 ？
 

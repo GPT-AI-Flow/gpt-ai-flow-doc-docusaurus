@@ -30,7 +30,7 @@ const AppHeader = () => {
   }, [isToggled]);
 
   const links = [
-    { to: '/docs/intro', label: 'Link 1' },
+    { to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents', label: 'Link 1' },
     { to: '/link2', label: 'Link 2' },
     { to: '/link3', label: 'Link 3' },
   ];
