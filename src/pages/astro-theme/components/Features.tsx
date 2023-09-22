@@ -368,7 +368,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               </p>
             </div>
             <a
-              href="/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation"
+              href="/docs/application-scenarios/introduction"
               className="flex items-center justify-between group-hover:text-secondary"
               style={{ textDecoration: 'none' }}
             >
