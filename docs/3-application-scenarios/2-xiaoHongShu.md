@@ -1,7 +1,5 @@
 # 小红书达人
 
-[网页版立即体验](https://www.app.gptaiflow.com/login)
-
 - 功能简介：专为小红书用户打造的高效内容创作工具。
 - 核心特点：
   - 为您生成符合小红书独特风格的文字、图片和标题
@@ -20,3 +18,14 @@
 ## 小红书珠宝
 
 <iframe src="//player.bilibili.com/player.html?aid=915921783&bvid=BV13u4y1C7jF&cid=1265469812&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
+
+## 联系我们
+
+- 立即体验**7 天免费试用期**:
+  - [网页版立即体验](https://www.app.gptaiflow.com/login)
+  - [完整体验点击这里](/download)
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](/docs/proudct/gpt-ai-flow-guide-and-faq)
+- 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
+
+感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！
