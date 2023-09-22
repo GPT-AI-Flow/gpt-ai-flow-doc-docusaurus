@@ -36,25 +36,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               🎁 适用于亲友、同事等，让他们感受到您的<b>认可和鼓励</b>
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -81,25 +83,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               🤝 帮助你与上司<b>建立更和谐的工作关系</b>
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -126,25 +130,28 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               🎈 提供各种主题和风格的文案，<b>满足您的每一次分享</b>
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -171,25 +178,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               ✒️ 提供邮件写作建议，<b>确保您的邮件内容既专业又得体</b>
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -216,25 +225,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               🎨 多场景文案创意工具，轻松应对<b>品牌活动、日常分享或特殊节日</b>的内容需求
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -261,25 +272,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               ✍️ 为会议、项目、活动等提供<b>专业的文字总结模板</b>，助您提高工作效率
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -306,25 +319,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               🌈 为您的短视频内容提供风格和节奏建议，确保每次发布获得<b>大量点赞与分享</b>
             </p>
           </div>
-          <a
-            href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-            className="flex items-center justify-between group-hover:text-secondary"
-            style={{ textDecoration: 'none' }}
-          >
-            <span className="text-sm">了解更多</span>
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+          {isHomePage && (
+            <a
+              href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+              className="flex items-center justify-between group-hover:text-secondary"
+              style={{ textDecoration: 'none' }}
             >
-              <path
-                fillRule="evenodd"
-                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                clipRule="evenodd"
-              />
-            </svg>
-          </a>
+              <span className="text-sm">了解更多</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              >
+                <path
+                  fillRule="evenodd"
+                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                  clipRule="evenodd"
+                />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
       {isHomePage && (
@@ -353,7 +368,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               </p>
             </div>
             <a
-              href="/docs/proudct/proMode-presentation"
+              href="/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation"
               className="flex items-center justify-between group-hover:text-secondary"
               style={{ textDecoration: 'none' }}
             >
@@ -400,25 +415,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🌐 探索各个性格类型在职场、人际关系中的<b>表现和策略</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -445,25 +462,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   💌 提供各种场景下的消息模板，确保<b>内容既有趣又贴切</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -490,25 +509,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🌟 利用文案技巧，<b>引导消费者产生购买意向</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -535,25 +556,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   💡 利用创意策略，<b>增强文案的传播力</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -580,25 +603,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🌹 确保您的活动在小红书上<b>受到广大用户的关注</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -625,25 +650,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   ✨ 助力您在小红书上<b>展示和推广</b>您的珠宝产品
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : '/docs/application-scenarios/xiaoHongShu'}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -670,25 +697,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   📈 确保您的内容<b>在搜索引擎中占据有利位置</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -715,25 +744,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   👁‍🗨 帮助您在B站上<b>建立积极的社区互动</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -760,25 +791,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   📹 助您<b>吸引更多观众</b>并提高视频的分享度
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -805,25 +838,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🧠 确保您在知乎上<b>树立权威形象</b>并与大众有效互动
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -850,25 +885,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🚀 为决策者提供清晰的策略建议，<b>确保项目或产品的成功</b>
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -895,25 +932,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🌱 促进组织内的<b>透明度和协同工作</b>，确保长期的成功和增长
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
@@ -940,25 +979,27 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                   🚀 请持续关注，<b>与我们一起走进未来</b>!
                 </p>
               </div>
-              <a
-                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+              {isHomePage && (
+                <a
+                  href={'/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'}
+                  className="flex items-center justify-between group-hover:text-secondary"
+                  style={{ textDecoration: 'none' }}
                 >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
+                  <span className="text-sm">了解更多</span>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                  >
+                    <path
+                      fillRule="evenodd"
+                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                      clipRule="evenodd"
+                    />
+                  </svg>
+                </a>
+              )}
             </div>
           </div>
         </>
