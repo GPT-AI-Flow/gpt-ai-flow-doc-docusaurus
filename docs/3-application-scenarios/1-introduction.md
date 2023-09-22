@@ -1,6 +1,10 @@
+import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features";
+
 # 专业界面模块
 
 使用所有专业模块需要有大模型的支持。
+
+<CardsForFeatures />
 
 ## 免费专业模块
 
