@@ -2,8 +2,6 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 
 # 专业界面模块
 
-[网页版立即体验](https://www.app.gptaiflow.com/login)
-
 <CardsForFeatures />
 
 :::tip
@@ -86,3 +84,14 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
   - 自动生成吸引眼球的营销推广邮件、文案、合作提案和广告创意
   - 设计专业的营销活动策划、内容营销文章和社交媒体推广策略
   - 注重数据驱动，将营销策略高效转化为实际操作
+
+## 联系我们
+
+- 立即体验**7 天免费试用期**:
+  - [网页版立即体验](https://www.app.gptaiflow.com/login)
+  - [完整体验点击这里](/download)
+- 联系邮箱: hello@gptaiflow.com
+- [💬 有问题? 联系我们或查看 FAQ](/docs/proudct/gpt-ai-flow-guide-and-faq)
+- 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
+
+感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！

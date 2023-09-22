@@ -2,8 +2,6 @@ import Image from "@theme/IdealImage";
 
 # 用户案例展示
 
-[网页版立即体验](https://www.app.gptaiflow.com/login)
-
 ## 巴黎去哪玩
 
 ### 小红书达人
