@@ -168,7 +168,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
               💡 助您<b>快速回复工作邮件</b>，提高沟通效率
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              ✒️ 提供邮件写作建议，<b>确保您的邮件内容既专业又得体</b>。
+              ✒️ 提供邮件写作建议，<b>确保您的邮件内容既专业又得体</b>
             </p>
           </div>
           <a
@@ -374,7 +374,460 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           </div>
         </div>
       )}
-      {!isHomePage && <></>}
+      {!isHomePage && (
+        <>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  mbti 研究员
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📘 提供详细的<b>MBTI性格描述</b>和分析
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 为您和他人的MBTI性格类型提供<b>互动和沟通建议</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🌐 探索各个性格类型在职场、人际关系中的<b>表现和策略</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  群发消息
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📣 设计<b>高效吸引</b>的群发信息内容
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🔗 给出合适的内容建议<b>促进用户点击</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💌 提供各种场景下的消息模板，确保<b>内容既有趣又贴切</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  带货文案
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🛍 创作针对性的<b>带货文案</b>，提升商品销售
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💼 分析市场趋势，为您的产品提供<b>最佳宣传策略</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🌟 利用文案技巧，<b>引导消费者产生购买意向</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  文案宣传
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  ✒️ 生成<b>引人注目的宣传文案</b>，提升品牌影响力
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎯 定位目标受众，确保文案<b>触及正确的用户群</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 利用创意策略，<b>增强文案的传播力</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  小红书活动
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎉 设计专为<b>小红书平台</b>的活动文案
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 一键生成各类<b>活动宣传</b>与推广内容
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🌹 确保您的活动在小红书上<b>受到广大用户的关注</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  小红书复古珠宝
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📿 提供<b>复古珠宝</b>的宣传文案
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💍 快速生成与复古珠宝相关的<b>引人入胜</b>的内容
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  ✨ 助力您在小红书上<b>展示和推广</b>您的珠宝产品
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  SEO优化
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🔍 为内容<b>提供SEO优化建议</b>，提高搜索引擎排名
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 生成针对性的<b>关键词和元标签</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📈 确保您的内容<b>在搜索引擎中占据有利位置</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  B站评论
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎥 为B站视频提供<b>热门评论</b>生成与策略
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📣 快速回应<b>热门话题</b>，提高互动度
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  👁‍🗨 帮助您在B站上<b>建立积极的社区互动</b>
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  科技生活视频文案制作
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🎬 一键生成<b>引人注目的视频脚本</b>和文案
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🔥 提供创意建议，确保视频内容<b>既有趣又贴切</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📹 助您<b>吸引更多观众</b>并提高视频的分享度
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            <div className="relative space-y-8 py-12 p-8">
+              <img
+                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
+
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  知乎问答
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📘 为您提供<b>专业且有深度的答案</b>生成
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💬 快速回应各种<b>知乎热门问题</b>
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  🧠 确保您在知乎上<b>树立权威形象</b>并与大众有效互动
+                </p>
+              </div>
+              <a
+                href={isHomePage ? '/docs/proudct/proMode-presentation' : ''} // 产品模块介绍
+                className="flex items-center justify-between group-hover:text-secondary"
+                style={{ textDecoration: 'none' }}
+              >
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </>
+      )}
     </div>
   );
 };
