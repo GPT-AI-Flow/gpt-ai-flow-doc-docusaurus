@@ -297,7 +297,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
       <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
         <div className="relative space-y-8 py-12 p-8">
           <img
-            src="/img/icons/2023-09-18-img-13-icon-tiktok-short-video.png"
+            src="/img/icons/2023-09-22-img-12-video-play.png"
             className="w-12"
             // width="512"
             // height="512"
@@ -306,39 +306,39 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
 
           <div className="space-y-2">
             <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-              短视频脚本制作
+              知识分享脚本
             </h5>
             <p className="text-gray-600 dark:text-gray-300">
-              🎥 提供短视频内容<b>创意和脚本模板</b>
+              📘 一键生成<b>有深度和见解</b>的知识分享内容
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              🎬 一键生成<b>吸引眼球的</b>视频文案与剧情
+              🧠 快速梳理<b>核心观点</b>，提高分享的效果
             </p>
             <p className="text-gray-600 dark:text-gray-300">
-              🌈 为您的短视频内容提供风格和节奏建议，确保每次发布获得<b>大量点赞与分享</b>
+              📢 适用于各种平台，确保您的知识<b>广泛传播并受到认可</b>
             </p>
           </div>
-          {isHomePage && (
-            <a
-              href={'/docs/application-scenarios/introduction'}
-              className="flex items-center justify-between group-hover:text-secondary"
-              style={{ textDecoration: 'none' }}
+          <a
+            href={
+              isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/knowledgeShare'
+            }
+            className="flex items-center justify-between group-hover:text-secondary"
+            style={{ textDecoration: 'none' }}
+          >
+            <span className="text-sm">了解更多</span>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+              className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
             >
-              <span className="text-sm">了解更多</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                  clipRule="evenodd"
-                />
-              </svg>
-            </a>
-          )}
+              <path
+                fillRule="evenodd"
+                d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                clipRule="evenodd"
+              />
+            </svg>
+          </a>
         </div>
       </div>
       {isHomePage && (
@@ -772,25 +772,24 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
-                src="/img/icons/2023-09-22-img-12-video-play.png"
+                src="/img/icons/2023-09-18-img-13-icon-tiktok-short-video.png"
                 className="w-12"
                 // width="512"
                 // height="512"
                 alt="burger illustration"
               />
-
               <div className="space-y-2">
                 <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  科技生活视频文案制作
+                  短视频脚本制作
                 </h5>
                 <p className="text-gray-600 dark:text-gray-300">
-                  🎬 一键生成<b>引人注目的视频脚本</b>和文案
+                  🎥 提供短视频内容<b>创意和脚本模板</b>
                 </p>
                 <p className="text-gray-600 dark:text-gray-300">
-                  🔥 提供创意建议，确保视频内容<b>既有趣又贴切</b>
+                  🎬 一键生成<b>吸引眼球的</b>视频文案与剧情
                 </p>
                 <p className="text-gray-600 dark:text-gray-300">
-                  📹 助您<b>吸引更多观众</b>并提高视频的分享度
+                  🌈 为您的短视频内容提供风格和节奏建议，确保每次发布获得<b>大量点赞与分享</b>
                 </p>
               </div>
               {isHomePage && (
