@@ -1,5 +1,9 @@
 # 总结小助手
 
+:::tip
+帮助你总结每天的学习、工作和生活，让每一天都有所收获。
+:::
+
 ## 总结过去工作内容
 
 ![](./img/6-summaryAssitant/2023-09-23-img-1-GPT%20AI%20Flow-demo-summaryAssitant.gif)

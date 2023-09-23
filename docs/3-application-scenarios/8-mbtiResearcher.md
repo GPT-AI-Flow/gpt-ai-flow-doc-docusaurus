@@ -1,5 +1,9 @@
 # MBTI 研究员
 
+:::tip
+通过对 MBTI 性格测试结果的深入研究，让你更好地了解自己和他人。
+:::
+
 ## 针对 MBTI 的提问
 
 ![](./img/8-mbtiResearcher/2023-09-23-img-11-GPT%20AI%20Flow-demo-mbtiResearcher.gif)

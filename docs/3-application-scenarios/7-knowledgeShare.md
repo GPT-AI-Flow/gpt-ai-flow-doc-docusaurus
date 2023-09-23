@@ -1,5 +1,9 @@
 # 知识分享脚本
 
+:::tip
+此功能可以帮你高效地构建分享内容，从而更有效地进行知识分享。
+:::
+
 ## 编写知识分享逐字稿
 
 ![](./img/7-knowledgeShare/2023-09-23-img-6-GPT%20AI%20Flow-demo-knowledgeShare.gif)
