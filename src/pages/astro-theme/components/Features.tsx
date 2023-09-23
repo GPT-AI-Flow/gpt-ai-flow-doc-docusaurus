@@ -984,7 +984,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
                 href={
                   isHomePage
                     ? '/docs/application-scenarios/introduction'
-                    : '/docs/proudct/user-guide-floating-window-commands-management'
+                    : '/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation'
                 }
                 className="flex items-center justify-between group-hover:text-secondary"
                 style={{ textDecoration: 'none' }}
