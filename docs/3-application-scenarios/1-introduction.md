@@ -94,6 +94,6 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
   - [完整体验点击这里](/download)
 - 联系邮箱: hello@gptaiflow.com
 - [💬 有问题? 联系我们或查看 FAQ](/docs/proudct/gpt-ai-flow-guide-and-faq)
-- 产品反馈: [点击这里](https://wj.qq.com/s2/12214642/c9c6)
+- 产品反馈: [点击这里](https://wj.qq.com/s2/13154598/1770/)
 
 感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！

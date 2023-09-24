@@ -206,7 +206,7 @@ const config = {
               },
               {
                 label: '产品反馈',
-                href: 'https://wj.qq.com/s2/12214642/c9c6',
+                href: 'https://wj.qq.com/s2/13154598/1770/',
               },
             ],
           },
