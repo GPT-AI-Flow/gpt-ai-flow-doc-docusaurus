@@ -68,7 +68,9 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 对话框功能
 - 仅支持免费专业模块
 
+:::tip
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
+:::
 
 ### 专业模式
 
