@@ -23,8 +23,9 @@ const DownloadPage = (): JSX.Element => {
                   自媒体内容生产创作 AI 助手
                 </h1>
                 <p className="text-lg text-gray-600 dark:text-gray-300">
-                  成为全球数百万用户的一员，体验我们的自媒体AI工具，为你的内容创作加速。
+                  天啊！用AI创作内容竟然如此简单！仅需 10 分钟，轻松完成 1 篇高品质文章！
                 </p>
+
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.28/GPT.AI.Flow-0.1.28.dmg"
@@ -77,14 +78,20 @@ const DownloadPage = (): JSX.Element => {
                     </a>
                   </span>
                 </div>
-                <br />
-                <span className="text-sm text-gray-600 dark:text-gray-300">
+                <div className="text-sm text-gray-600 dark:text-gray-300">
                   <h3>
                     <a href="https://www.app.gptaiflow.com" target="_blank" style={{ textDecoration: 'none' }}>
                       👩‍💻 网页版: 无需下载，直接使用
                     </a>
                   </h3>
-                </span>
+                </div>
+                <div className="text-sm mt-2">
+                  已经有{' '}
+                  <span className="text-info dark:text-secondary">
+                    <b>50+</b>
+                  </span>{' '}
+                  用户注册使用
+                </div>
                 <div className="hidden flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <p className="mt-2 text-gray-500">
                     <a
