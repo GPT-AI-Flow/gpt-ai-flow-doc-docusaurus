@@ -23,7 +23,7 @@ const DownloadPage = (): JSX.Element => {
                   自媒体内容生产创作 AI 助手
                 </h1>
                 <p className="text-lg text-gray-600 dark:text-gray-300">
-                  天啊！用AI创作内容竟然如此简单！仅需 10 分钟，轻松完成 1 篇高品质文章！
+                  天啊！用AI创作内容竟然如此简单！仅需 10 分钟，轻松完成 3 篇高品质小红书帖子！
                 </p>
 
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
