@@ -12,4 +12,6 @@ import Image from "@theme/IdealImage";
 
 <Image img={require("../../static/img/pages/communicationGroupPage/2023-08-28-img-5-IMG_3979.jpg")} style={{ width: 400, margin: "1rem auto" }} />
 
+填写入群申请，我们会主动联系您: [点击这里](https://wj.qq.com/s2/13154598/1770/)
+
 如果您有任何疑问或需要进一步的帮助，请随时联系我们。感谢您对我们 Saas AI 工作流软件服务的支持，我们期待能够与您在交流群中相互学习、成长。
