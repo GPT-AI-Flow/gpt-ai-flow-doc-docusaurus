@@ -1,4 +1,4 @@
-# AI 助手 (即将推出)
+# AI 助手
 
 ## Midjourney 助手
 
