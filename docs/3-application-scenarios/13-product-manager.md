@@ -15,3 +15,7 @@ v0.1.29 产品版本:
 ```
 
 ![](./img/13-product-manager/2023-09-28-img-1-WX20230928-105433@2x.png)
+
+## 产品模块编辑
+
+![](./img/13-product-manager/2023-09-29-img-8-release-v0.1.29-feature-4.gif)
