@@ -135,8 +135,10 @@ const config = {
       // Replace with your project's social card
       announcementBar: {
         id: 'alert',
-        content: '为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 v0.1.29',
-        backgroundColor: 'black',
+        // content: '为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 v0.1.30',
+        // backgroundColor: 'black',
+        content: '由于部署发布 v0.1.30 最新版本的一会给你用, 服务将受到影响',
+        backgroundColor: '#F13030',
         textColor: 'white',
         isCloseable: false,
       },
