@@ -38,7 +38,7 @@ const DownloadPage = (): JSX.Element => {
                       alt="icon-windows"
                       style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
                     />
-                    下载 Mac 版本
+                    下载 Mac 版本 v0.1.29(正在升级...)
                   </a>
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.29/GPT.AI.Flow-0.1.29-arm64.dmg"
@@ -51,10 +51,10 @@ const DownloadPage = (): JSX.Element => {
                       alt="icon-windows"
                       style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
                     />
-                    下载 Mac 版本 (M1)
+                    下载 Mac 版本 (M1) v0.1.29(正在升级...)
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.29/GPT.AI.Flow.Setup.0.1.29.exe"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.30/GPT.AI.Flow.Setup.0.1.30.exe"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
@@ -74,7 +74,7 @@ const DownloadPage = (): JSX.Element => {
                       target="_blank"
                       style={{ textDecoration: 'none' }}
                     >
-                      其他下载线路(v0.1.29)
+                      其他下载线路(v0.1.30)
                     </a>
                   </span>
                 </div>
