@@ -162,6 +162,16 @@ const config = {
             to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
             label: '产品',
             position: 'left',
+            // items: [
+            //   {
+            //     to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
+            //     label: '自媒体运营工具',
+            //   },
+            //   {
+            //     to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
+            //     label: '个人文档助手',
+            //   },
+            // ],
           },
           {
             to: '/docs/application-scenarios/introduction',
