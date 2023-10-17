@@ -44,39 +44,39 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>沟通专家模块</span>
+                  <a
+                    href="/docs/application-scenarios/introduction"
+                    className="text-[#0c4a6e] dark:text-gray-200"
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <span>
+                      🔗 所有专业模块:
+                      <br />
+                      沟通专家模块
+                      <br />
+                      文案专家
+                      <br />
+                      小红书达人
+                      <br />
+                      AI 助手
+                      <br />
+                      评论达人
+                      <br />
+                      职场达人
+                      <br />
+                      UP 主
+                      <br />
+                      产品经理
+                      <br />
+                      营销专家模块
+                      <br />
+                      SEO 专家
+                    </span>
+                  </a>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>文案专家模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>小红书达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>SEO专家模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>评论达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>职场达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>up 主模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>产品经理模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>营销专家模块</span>
+                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">999 词条</span>)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
@@ -130,39 +130,39 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>沟通专家模块</span>
+                  <a
+                    href="/docs/application-scenarios/introduction"
+                    className="text-[#0c4a6e] dark:text-gray-200"
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <span>
+                      🔗 所有专业模块:
+                      <br />
+                      沟通专家模块
+                      <br />
+                      文案专家
+                      <br />
+                      小红书达人
+                      <br />
+                      AI 助手
+                      <br />
+                      评论达人
+                      <br />
+                      职场达人
+                      <br />
+                      UP 主
+                      <br />
+                      产品经理
+                      <br />
+                      营销专家模块
+                      <br />
+                      SEO 专家
+                    </span>
+                  </a>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>文案专家模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>小红书达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>SEO专家模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>评论达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>职场达人模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>up 主模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>产品经理模块</span>
-                </li>
-                <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>营销专家模块</span>
+                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">999 词条</span>)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -204,7 +204,12 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
+
                   <span>沟通专家模块</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">49 词条</span>)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
@@ -369,7 +374,12 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 自定义指令集管理(导入/导出) </span>
+                      <span className="block w-max">
+                        {' '}
+                        自定义指令集管理
+                        <br />
+                        (导入/导出){' '}
+                      </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
                       ✓
@@ -383,13 +393,7 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/application-scenarios/introduction"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max">沟通专家专业模块</span>
-                      </a>
+                      <span className="block w-max">沟通专家模块</span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
@@ -410,6 +414,8 @@ const PricesTable = () => {
                       >
                         <span className="block w-max">
                           🔗 所有专业模块:
+                          <br />
+                          沟通专家模块
                           <br />
                           文案专家
                           <br />
