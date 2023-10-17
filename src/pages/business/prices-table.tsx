@@ -232,8 +232,7 @@ const PricesTable = () => {
         <div className="m-auto mt-12">
           <div className="relative z-10">
             <div className="relative overflow-auto p-6 flex justify-center">
-              {/* <table className="w-full border-t border-gray-100 dark:border-gray-700"> */}
-              <table className="w-2/3 border-t border-gray-100 dark:border-gray-700">
+              <table className="w-full border-t border-gray-100 dark:border-gray-700">
                 <thead className="bg-white dark:bg-[--ifm-table-cell-color]">
                   <tr>
                     <td className="p-4 sm:sticky"></td>
@@ -284,7 +283,7 @@ const PricesTable = () => {
 
                       <div>
                         <a
-                          href="/docs/proudct/proMode-presentation"
+                          href="/docs/application-scenarios/introduction"
                           className="text-sm align-middle text-gray-400 mt-1 !no-underline dark:text-white hover:text-gray-600"
                         >
                           了解专业模式
@@ -365,21 +364,7 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 自定义指令集管理 </span>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 自定义指令集导入导出 </span>
+                      <span className="block w-max"> 自定义指令集管理(导入/导出) </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
                       ✓
@@ -394,11 +379,11 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <a
-                        href="/docs/proudct/proMode-presentation"
+                        href="/docs/application-scenarios/introduction"
                         className="text-[#0c4a6e] dark:text-gray-200"
                         style={{ textDecoration: 'none' }}
                       >
-                        <span className="block w-max">沟通专家模块</span>
+                        <span className="block w-max">沟通专家专业模块</span>
                       </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
@@ -414,160 +399,17 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <a
-                        href="/docs/proudct/proMode-presentation"
+                        href="/docs/application-scenarios/introduction"
                         className="text-[#0c4a6e] dark:text-gray-200"
                         style={{ textDecoration: 'none' }}
                       >
-                        <span className="block w-max"> 文案专家模块 </span>
+                        <span className="block w-max"> 所有专业模块 🔗</span>
                       </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
                       &times;
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> 小红书达人模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> SEO 专家模块 </span>
-                      </a>
-                    </td>
-                    {/* <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-gray-600 dark:text-gray-300">
-                      <span className="m-auto block w-max"> Limited to 5 </span>
-                    </td> */}
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> 评论达人模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> 职场达人模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> up 主模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> 产品经理模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <a
-                        href="/docs/proudct/proMode-presentation"
-                        className="text-[#0c4a6e] dark:text-gray-200"
-                        style={{ textDecoration: 'none' }}
-                      >
-                        <span className="block w-max"> 营销专家模块 </span>
-                      </a>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
