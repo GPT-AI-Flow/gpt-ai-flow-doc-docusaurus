@@ -4,11 +4,15 @@ import Layout from '@theme/Layout';
 
 const SocialMediaAssistantPage = () => {
   return (
-    <Layout
-      title={`自媒体运营助手`}
-      description="面对自媒体内容创作的挑战, GPT AI Flow 是您的最佳助手。适合新手到专业博主，我们帮您生成高质量文案、优化互动并确保内容被搜索引擎发现。加入我们，共创成功故事！"
-    >
-      <div>Social Media Assistant Page</div>
+    <Layout title={`自媒体运营助手`} description="">
+      <div className="relative">
+        <div aria-hidden="true" className="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
+          <div className="blur-[106px] h-56 bg-gradient-to-br from-primary to-purple-400 dark:from-blue-700"></div>
+          <div className="blur-[106px] h-32 bg-gradient-to-r from-cyan-400 to-sky-300 dark:to-indigo-600"></div>
+        </div>
+
+        <div>Social Media Assistant Page</div>
+      </div>
     </Layout>
   );
 };
