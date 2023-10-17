@@ -408,7 +408,27 @@ const PricesTable = () => {
                         className="text-[#0c4a6e] dark:text-gray-200"
                         style={{ textDecoration: 'none' }}
                       >
-                        <span className="block w-max"> 所有专业模块 🔗</span>
+                        <span className="block w-max">
+                          🔗 所有专业模块:
+                          <br />
+                          文案专家
+                          <br />
+                          小红书达人
+                          <br />
+                          AI 助手
+                          <br />
+                          评论达人
+                          <br />
+                          职场达人
+                          <br />
+                          UP 主
+                          <br />
+                          产品经理
+                          <br />
+                          营销专家模块
+                          <br />
+                          SEO 专家
+                        </span>
                       </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
