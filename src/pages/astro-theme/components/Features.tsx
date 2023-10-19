@@ -144,6 +144,169 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
       openLink: isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/summaryAssitant',
     },
     {
+      icon: '/img/icons/2023-09-22-img-5-loudspeaker.png',
+      proModeModuleName: '群发通知',
+      featureText_1: (
+        <>
+          📢 一键生成<b>得体且清晰</b>的群发通知内容
+        </>
+      ),
+      featureText_2: (
+        <>
+          🔔 快速传达<b>重要信息</b>给大群体
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌐 适用于学校、公司或任何需要<b>大规模通知</b>的场合，确保信息<b>准确无误地传达</b>给每一个接收者
+        </>
+      ),
+      openLink: '/docs/application-scenarios/groupNotice',
+    },
+  ];
+
+  const proModePageFeatures: IOneFeature[] = [
+    {
+      icon: '/img/icons/2023-09-22-img-4-personality-disorder.png',
+      proModeModuleName: 'MBTI 研究员',
+      featureText_1: (
+        <>
+          📘 提供详细的<b>MBTI性格描述</b>和分析
+        </>
+      ),
+      featureText_2: (
+        <>
+          💡 为您和他人的MBTI性格类型提供<b>互动和沟通建议</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌐 探索各个性格类型在职场、人际关系中的<b>表现和策略</b>
+        </>
+      ),
+      openLink: '/docs/application-scenarios/mbtiResearcher',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-6-delivery-box.png',
+      proModeModuleName: '带货文案',
+      featureText_1: (
+        <>
+          🛍 创作针对性的<b>带货文案</b>，提升商品销售
+        </>
+      ),
+      featureText_2: (
+        <>
+          💼 分析市场趋势，为您的产品提供<b>最佳宣传策略</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌟 利用文案技巧，<b>引导消费者产生购买意向</b>
+        </>
+      ),
+      openLink: '#',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-7-fountain-pen.png',
+      proModeModuleName: '文案宣传',
+      featureText_1: (
+        <>
+          ✒️ 生成<b>引人注目的宣传文案</b>，提升品牌影响力
+        </>
+      ),
+      featureText_2: (
+        <>
+          🎯 定位目标受众，确保文案<b>触及正确的用户群</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          💡 利用创意策略，<b>增强文案的传播力</b>
+        </>
+      ),
+      openLink: '#',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-8-lifestyle.png',
+      proModeModuleName: '小红书活动',
+      featureText_1: (
+        <>
+          🎉 设计专为<b>小红书平台</b>的活动文案
+        </>
+      ),
+      featureText_2: (
+        <>
+          💡 一键生成各类<b>活动宣传</b>与推广内容
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌹 确保您的活动在小红书上<b>受到广大用户的关注</b>
+        </>
+      ),
+      openLink: '/docs/application-scenarios/xiaoHongShu',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-9-jewelry.png',
+      proModeModuleName: '小红书复古珠宝',
+      featureText_1: (
+        <>
+          📿 提供<b>复古珠宝</b>的宣传文案
+        </>
+      ),
+      featureText_2: (
+        <>
+          💍 快速生成与复古珠宝相关的<b>引人入胜</b>的内容
+        </>
+      ),
+      featureText_3: (
+        <>
+          ✨ 助力您在小红书上<b>展示和推广</b>您的珠宝产品
+        </>
+      ),
+      openLink: '/docs/application-scenarios/xiaoHongShu',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-10-seo.png',
+      proModeModuleName: 'SEO优化',
+      featureText_1: (
+        <>
+          🔍 为内容<b>提供SEO优化建议</b>，提高搜索引擎排名
+        </>
+      ),
+      featureText_2: (
+        <>
+          💡 生成针对性的<b>关键词和元标签</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          📈 确保您的内容<b>在搜索引擎中占据有利位置</b>
+        </>
+      ),
+      openLink: '/docs/application-scenarios/user-testimonial',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-11-icon-bilibili.png',
+      proModeModuleName: 'B站评论',
+      featureText_1: (
+        <>
+          🎥 为B站视频提供<b>热门评论</b>生成与策略
+        </>
+      ),
+      featureText_2: (
+        <>
+          📣 快速回应<b>热门话题</b>，提高互动度
+        </>
+      ),
+      featureText_3: (
+        <>
+          👁‍🗨 帮助您在B站上<b>建立积极的社区互动</b>
+        </>
+      ),
+      openLink: '#',
+    },
+    {
       icon: '/img/icons/2023-09-22-img-12-video-play.png',
       proModeModuleName: '知识分享脚本',
       featureText_1: (
@@ -163,23 +326,96 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
       ),
       openLink: isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/knowledgeShare',
     },
+    {
+      icon: '/img/icons/2023-09-18-img-13-icon-tiktok-short-video.png',
+      proModeModuleName: '短视频脚本制作',
+      featureText_1: (
+        <>
+          🎥 提供短视频内容<b>创意和脚本模板</b>
+        </>
+      ),
+      featureText_2: (
+        <>
+          🎬 一键生成<b>吸引眼球的</b>视频文案与剧情
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌈 为您的短视频内容提供风格和节奏建议，确保每次发布获得<b>大量点赞与分享</b>
+        </>
+      ),
+      openLink: '#',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-13-icon-zhihu.png',
+      proModeModuleName: '知乎问答',
+      featureText_1: (
+        <>
+          📘 为您提供<b>专业且有深度的答案</b>生成
+        </>
+      ),
+      featureText_2: (
+        <>
+          💬 快速回应各种<b>知乎热门问题</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          🧠 确保您在知乎上<b>树立权威形象</b>并与大众有效互动
+        </>
+      ),
+      openLink: '/docs/application-scenarios/zhiHu',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-14-swot-analysis.png',
+      proModeModuleName: 'SWOT分析',
+      featureText_1: (
+        <>
+          📊 为产品或项目提供<b>全面的SWOT分析</b>工具
+        </>
+      ),
+      featureText_2: (
+        <>
+          💡 快速识别<b>优势、劣势、机会和威胁</b>
+        </>
+      ),
+      featureText_3: (
+        <>
+          🚀 为决策者提供清晰的策略建议，<b>确保项目或产品的成功</b>
+        </>
+      ),
+      openLink: '#',
+    },
+    {
+      icon: '/img/icons/2023-09-22-img-15-okr.png',
+      proModeModuleName: 'OKR方法',
+      featureText_1: (
+        <>
+          🎯 一键生成针对企业和团队的<b>目标和关键成果</b>
+        </>
+      ),
+      featureText_2: (
+        <>
+          💪 帮助团队<b>更高效地达成目标</b>并跟踪进度
+        </>
+      ),
+      featureText_3: (
+        <>
+          🌱 促进组织内的<b>透明度和协同工作</b>，确保长期的成功和增长
+        </>
+      ),
+      openLink: '#',
+    },
   ];
 
   return (
     <div className="mt-16 grid divide-x divide-y divide-gray-100 dark:divide-gray-700 overflow-hidden rounded-3xl border border-gray-100 text-gray-600 dark:border-gray-700 sm:grid-cols-2 lg:grid-cols-4 lg:divide-y-0 xl:grid-cols-4">
       {homePageFeatures.map((item) => {
-        const {
-          icon,
-          proModeModuleName: moduleName,
-          featureText_1,
-          featureText_2,
-          featureText_3,
-          openLink: learnMoreLink,
-        } = item;
+        const { icon, proModeModuleName: moduleName, featureText_1, featureText_2, featureText_3, openLink } = item;
 
         return (
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <a className="!no-underline" href={learnMoreLink}>
+            <a className="!no-underline" href={openLink}>
               <div className="relative space-y-8 py-12 p-8">
                 <img
                   src={icon}
@@ -264,572 +500,58 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           </a>
         </div>
       )}
+
+      {!isHomePage &&
+        proModePageFeatures.map((item) => {
+          const { icon, proModeModuleName, featureText_1, featureText_2, featureText_3, openLink } = item;
+
+          return (
+            <a className="!no-underline" href={openLink}>
+              <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+                <div className="relative space-y-8 py-12 p-8">
+                  <img
+                    src={icon}
+                    className="w-12"
+                    // width="512"
+                    // height="512"
+                    alt="burger illustration"
+                  />
+
+                  <div className="space-y-2">
+                    <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                      {proModeModuleName}
+                    </h5>
+                    <p className="text-gray-600 dark:text-gray-300">{featureText_1}</p>
+                    <p className="text-gray-600 dark:text-gray-300">{featureText_2}</p>
+                    <p className="text-gray-600 dark:text-gray-300">{featureText_3}</p>
+                  </div>
+                  <a
+                    href={openLink}
+                    className="flex items-center justify-between group-hover:text-secondary"
+                    style={{ textDecoration: 'none' }}
+                  >
+                    <span className="text-sm">了解更多</span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                      className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                    >
+                      <path
+                        fillRule="evenodd"
+                        d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                        clipRule="evenodd"
+                      />
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+
       {!isHomePage && (
         <>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-4-personality-disorder.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  mbti 研究员
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📘 提供详细的<b>MBTI性格描述</b>和分析
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💡 为您和他人的MBTI性格类型提供<b>互动和沟通建议</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌐 探索各个性格类型在职场、人际关系中的<b>表现和策略</b>
-                </p>
-              </div>
-              <a
-                href={
-                  isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/mbtiResearcher'
-                }
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-5-loudspeaker.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  群发通知
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📢 一键生成<b>得体且清晰</b>的群发通知内容
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🔔 快速传达<b>重要信息</b>给大群体
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌐 适用于学校、公司或任何需要<b>大规模通知</b>的场合，确保信息<b>准确无误地传达</b>给每一个接收者
-                </p>
-              </div>
-              <a
-                href={
-                  isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/groupNotice'
-                }
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-6-delivery-box.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  带货文案
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🛍 创作针对性的<b>带货文案</b>，提升商品销售
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💼 分析市场趋势，为您的产品提供<b>最佳宣传策略</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌟 利用文案技巧，<b>引导消费者产生购买意向</b>
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-7-fountain-pen.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  文案宣传
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  ✒️ 生成<b>引人注目的宣传文案</b>，提升品牌影响力
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎯 定位目标受众，确保文案<b>触及正确的用户群</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💡 利用创意策略，<b>增强文案的传播力</b>
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-8-lifestyle.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  小红书活动
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎉 设计专为<b>小红书平台</b>的活动文案
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💡 一键生成各类<b>活动宣传</b>与推广内容
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌹 确保您的活动在小红书上<b>受到广大用户的关注</b>
-                </p>
-              </div>
-              <a
-                href={
-                  isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/xiaoHongShu'
-                }
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-9-jewelry.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  小红书复古珠宝
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📿 提供<b>复古珠宝</b>的宣传文案
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💍 快速生成与复古珠宝相关的<b>引人入胜</b>的内容
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  ✨ 助力您在小红书上<b>展示和推广</b>您的珠宝产品
-                </p>
-              </div>
-              <a
-                href={
-                  isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/xiaoHongShu'
-                }
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-10-seo.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  SEO优化
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🔍 为内容<b>提供SEO优化建议</b>，提高搜索引擎排名
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💡 生成针对性的<b>关键词和元标签</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📈 确保您的内容<b>在搜索引擎中占据有利位置</b>
-                </p>
-              </div>
-
-              <a
-                href={
-                  isHomePage
-                    ? '/docs/application-scenarios/introduction'
-                    : '/docs/application-scenarios/user-testimonial'
-                }
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-11-icon-bilibili.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  B站评论
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎥 为B站视频提供<b>热门评论</b>生成与策略
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📣 快速回应<b>热门话题</b>，提高互动度
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  👁‍🗨 帮助您在B站上<b>建立积极的社区互动</b>
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-18-img-13-icon-tiktok-short-video.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  短视频脚本制作
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎥 提供短视频内容<b>创意和脚本模板</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎬 一键生成<b>吸引眼球的</b>视频文案与剧情
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌈 为您的短视频内容提供风格和节奏建议，确保每次发布获得<b>大量点赞与分享</b>
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-13-icon-zhihu.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  知乎问答
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📘 为您提供<b>专业且有深度的答案</b>生成
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💬 快速回应各种<b>知乎热门问题</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🧠 确保您在知乎上<b>树立权威形象</b>并与大众有效互动
-                </p>
-              </div>
-              <a
-                href={isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/zhiHu'}
-                className="flex items-center justify-between group-hover:text-secondary"
-                style={{ textDecoration: 'none' }}
-              >
-                <span className="text-sm">了解更多</span>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                >
-                  <path
-                    fillRule="evenodd"
-                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                    clipRule="evenodd"
-                  />
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-14-swot-analysis.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  SWOT分析
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  📊 为产品或项目提供<b>全面的SWOT分析</b>工具
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💡 快速识别<b>优势、劣势、机会和威胁</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🚀 为决策者提供清晰的策略建议，<b>确保项目或产品的成功</b>
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
-          <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-            <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="/img/icons/2023-09-22-img-15-okr.png"
-                className="w-12"
-                // width="512"
-                // height="512"
-                alt="burger illustration"
-              />
-
-              <div className="space-y-2">
-                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                  OKR方法
-                </h5>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🎯 一键生成针对企业和团队的<b>目标和关键成果</b>
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  💪 帮助团队<b>更高效地达成目标</b>并跟踪进度
-                </p>
-                <p className="text-gray-600 dark:text-gray-300">
-                  🌱 促进组织内的<b>透明度和协同工作</b>，确保长期的成功和增长
-                </p>
-              </div>
-              {isHomePage && (
-                <a
-                  href={'/docs/application-scenarios/introduction'}
-                  className="flex items-center justify-between group-hover:text-secondary"
-                  style={{ textDecoration: 'none' }}
-                >
-                  <span className="text-sm">了解更多</span>
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="currentColor"
-                    className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                </a>
-              )}
-            </div>
-          </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
               <img
