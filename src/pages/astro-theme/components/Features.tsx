@@ -221,49 +221,47 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
 
       {isHomePage && (
         <div className="group relative bg-gray-50 dark:bg-gray-900 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
-          <div className="relative space-y-8 py-12 p-8 transition duration-300 group-hover:bg-white dark:group-hover:bg-gray-800">
-            <img
-              src="/img/icons/2023-09-18-img-14-icon-more-features-easy-use.png"
-              className="w-12"
-              // width="512"
-              // height="512"
-              alt="burger illustration"
-            />
+          <a className="!no-underline" href="/docs/application-scenarios/introduction">
+            <div className="relative space-y-8 py-12 p-8 transition duration-300 group-hover:bg-white dark:group-hover:bg-gray-800">
+              <img
+                src="/img/icons/2023-09-18-img-14-icon-more-features-easy-use.png"
+                className="w-12"
+                // width="512"
+                // height="512"
+                alt="burger illustration"
+              />
 
-            <div className="space-y-2">
-              <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
-                更多功能
-              </h5>
-              <p className="text-gray-600 dark:text-gray-300">
-                ✍️ 利用<b>SEO内容优化</b>和专业文案，提升品牌可见度并助力销售增长。
-              </p>
-              <p className="text-gray-600 dark:text-gray-300">
-                📊 结合<b>SWOT分析</b>和<b>OKR方法</b>，确保产品优势与团队目标与组织战略一致。
-              </p>
-              <p className="text-gray-600 dark:text-gray-300">
-                💡 不断优化产品功能，确保<b>满足用户需求</b>
-              </p>
+              <div className="space-y-2">
+                <h5 className="text-xl font-semibold text-gray-700 dark:text-white transition group-hover:text-secondary">
+                  更多功能
+                </h5>
+                <p className="text-gray-600 dark:text-gray-300">
+                  ✍️ 利用<b>SEO内容优化</b>和专业文案，提升品牌可见度并助力销售增长。
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  📊 结合<b>SWOT分析</b>和<b>OKR方法</b>，确保产品优势与团队目标与组织战略一致。
+                </p>
+                <p className="text-gray-600 dark:text-gray-300">
+                  💡 不断优化产品功能，确保<b>满足用户需求</b>
+                </p>
+              </div>
+              <div className="flex items-center justify-between group-hover:text-secondary">
+                <span className="text-sm">了解更多</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                  className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+              </div>
             </div>
-            <a
-              href="/docs/application-scenarios/introduction"
-              className="flex items-center justify-between group-hover:text-secondary"
-              style={{ textDecoration: 'none' }}
-            >
-              <span className="text-sm">了解更多</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                className="w-5 h-5 -translate-x-4 text-2xl opacity-0 transition duration-300 group-hover:translate-x-0 group-hover:opacity-100"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z"
-                  clipRule="evenodd"
-                />
-              </svg>
-            </a>
-          </div>
+          </a>
         </div>
       )}
       {!isHomePage && (
