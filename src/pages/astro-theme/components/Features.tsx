@@ -488,8 +488,6 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
   return (
     <div className="mt-16 grid divide-x divide-y divide-gray-100 dark:divide-gray-700 overflow-hidden rounded-3xl border border-gray-100 text-gray-600 dark:border-gray-700 sm:grid-cols-2 lg:grid-cols-4 lg:divide-y-0 xl:grid-cols-4">
       {homePageFeatures.map((item) => {
-        const { icon, proModeModuleName: moduleName, featureText_1, featureText_2, featureText_3, openLink } = item;
-
         return <Card_with_click item={item} />;
       })}
 
@@ -545,11 +543,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
 
           if (!openLink || (openLink && openLink === '#')) return <Card_without_click item={item} />;
 
-          return (
-            <a className="!no-underline" href={openLink}>
-              <Card_with_click item={item} />
-            </a>
-          );
+          return <Card_with_click item={item} />;
         })}
 
       {!isHomePage && (
