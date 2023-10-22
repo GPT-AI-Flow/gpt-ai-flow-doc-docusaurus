@@ -63,7 +63,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 对话框功能
 - 自定义指令管理
 - 仅支持沟通专家模块
-- 支持创建 `49` 条个人文档词条构建个人文档助手
+- 支持创建 `49` 个词条构建个人文档助手
 
 :::tip
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
@@ -90,7 +90,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 免费模式所有功能
 - 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
 - 无需 `OpenAI API key` 以及其他额外设置，无限次大模型请求支持
-- 支持创建 `999` 条个人文档词条构建个人文档助手
+- 支持创建 `999` 个词条构建个人文档助手
 
 :::tip
 我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
@@ -101,7 +101,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 免费模式所有功能
 - 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
 - 需要设置 `OpenAI API key`
-- 支持创建 `999` 条个人文档词条构建个人文档助手
+- 支持创建 `999` 个词条构建个人文档助手
 
 点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
 
