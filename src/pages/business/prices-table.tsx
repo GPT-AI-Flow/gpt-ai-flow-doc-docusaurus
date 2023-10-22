@@ -52,7 +52,7 @@ const PricesTable = () => {
                     <span>
                       🔗 所有专业模块:
                       <br />
-                      沟通专家模块
+                      沟通专家
                       <br />
                       文案专家
                       <br />
@@ -138,7 +138,7 @@ const PricesTable = () => {
                     <span>
                       🔗 所有专业模块:
                       <br />
-                      沟通专家模块
+                      沟通专家
                       <br />
                       文案专家
                       <br />
@@ -415,7 +415,7 @@ const PricesTable = () => {
                         <span className="block w-max">
                           🔗 所有专业模块:
                           <br />
-                          沟通专家模块
+                          沟通专家
                           <br />
                           文案专家
                           <br />
