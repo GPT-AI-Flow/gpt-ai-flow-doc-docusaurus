@@ -66,6 +66,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 免费模式中，我们可以自由使用软件，不过需要用户提供自己的 `OpenAI API key`。
 
 - 对话框功能
+- 自定义指令管理
 - 仅支持沟通专家模块
 - 能够创建 49 条个人文档词条
 
@@ -79,8 +80,11 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 #### 打开专业模式设置
 
-再次来到设置界面，点击左侧的 `专业模式` 栏目。  
-了解套餐信息: [请点击这里](/business/prices-table)
+再次来到设置界面，点击左侧的 `专业模式` 栏目。
+
+:::info
+套餐信息: [请点击这里](/business/prices-table)
+:::
 
 ![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
 
@@ -89,14 +93,16 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 #### 选择 `StartAI 入门模型版 (官方大模型支持)`
 
 - 免费模式所有功能
-- 可使用全部 [专业模式模块](./4-proMode-presentation.md)
+- 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
 - 无需 `OpenAI API key` 以及其他额外设置，无限次大模型请求支持
+- 支持创建 999 条个人文档词条构建个人文档助手
 
 #### 选择 `StartAI 入门工具版`
 
 - 免费模式所有功能
-- 可使用全部 [专业模式模块](./4-proMode-presentation.md)
+- 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
 - 需要设置 `OpenAI API key`
+- 支持创建 999 条个人文档词条构建个人文档助手
 
 点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
 
