@@ -63,7 +63,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 对话框功能
 - 自定义指令管理
 - 仅支持沟通专家模块
-- 能够创建 `49` 条个人文档词条构建个人文档助手
+- 支持创建 `49` 条个人文档词条构建个人文档助手
 
 :::tip
 点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
