@@ -46,11 +46,6 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-09-05-img-4-gpt-ai-flow-accessibility-permissions-in-macOS.png)
 
-:::tip
-我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
-
-:::
-
 ## 注册登录用户
 
 ![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
@@ -96,6 +91,10 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
 - 无需 `OpenAI API key` 以及其他额外设置，无限次大模型请求支持
 - 支持创建 999 条个人文档词条构建个人文档助手
+
+:::tip
+我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
+:::
 
 #### 选择 `StartAI 入门工具版`
 
