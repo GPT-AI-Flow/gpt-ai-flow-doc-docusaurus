@@ -60,6 +60,8 @@
 6. **画图小助手(AI 助手)模块**: 这是我们全新推出的功能，可以帮助您更好地完成画图任务。
 7. **产品水印**: 我们在免费版用户的产品中增加了水印，保证了产品的专业性和权威性。
 
+<iframe src="//player.bilibili.com/player.html?aid=491554698&bvid=BV15N411E7uU&cid=1284474746&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
+
 这个版本的发布旨在提升用户体验，确保我们的产品能够更好地满足用户的需求。我们将持续倾听用户的反馈，不断优化和改进产品，为用户提供更好的使用体验。[如有任何问题或建议，请随时与我们联系](https://wj.qq.com/s2/13154598/1770/)。
 
 ### 快速搜索快捷键
