@@ -7,7 +7,7 @@
   - 紧贴小红书核心用户群的喜好，为您量身打造内容结构和语言风格
 - 成功案例：[小红书实战案例: 巴黎去哪玩](/docs/application-scenarios/user-testimonial#小红书达人)
 
-尝试发一篇旅游的小红书帖子
+## 旅游活动帖子
 
 ![](./img/10-xiaoHongShu/2023-08-23-img-2-2-gif-专业模式使用.gif)
 
