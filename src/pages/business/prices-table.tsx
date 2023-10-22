@@ -68,7 +68,7 @@ const PricesTable = () => {
                       <br />
                       产品经理
                       <br />
-                      营销专家模块
+                      营销专家
                       <br />
                       SEO 专家
                     </span>
@@ -154,7 +154,7 @@ const PricesTable = () => {
                       <br />
                       产品经理
                       <br />
-                      营销专家模块
+                      营销专家
                       <br />
                       SEO 专家
                     </span>
@@ -431,7 +431,7 @@ const PricesTable = () => {
                           <br />
                           产品经理
                           <br />
-                          营销专家模块
+                          营销专家
                           <br />
                           SEO 专家
                         </span>
