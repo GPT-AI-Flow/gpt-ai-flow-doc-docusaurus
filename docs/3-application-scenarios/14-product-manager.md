@@ -14,8 +14,8 @@ v0.1.29 产品版本:
 - 为免费版用户增加产品水印
 ```
 
-![](./img/13-product-manager/2023-09-28-img-1-WX20230928-105433@2x.png)
+![](./img/14-product-manager/2023-09-28-img-1-WX20230928-105433@2x.png)
 
 ## 产品模块编辑
 
-![](./img/13-product-manager/2023-09-29-img-8-release-v0.1.29-feature-4.gif)
+![](./img/14-product-manager/2023-09-29-img-8-release-v0.1.29-feature-4.gif)

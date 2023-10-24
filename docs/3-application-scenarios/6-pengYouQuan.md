@@ -1,14 +1,18 @@
-# AI 助手
+# 朋友圈文案
 
-## Midjourney 助手
+:::tip
+自动生成朋友圈文案，让你的朋友圈总是充满新鲜元素。
+:::
 
-![](./img/12-aiAssistant/2023-09-27-img-1-WX20230927-223938@2x.png)
+## 描述回忆
 
-```text
-Generate an image of a tiger and a butterfly, as they encounter each other in a mysterious forest, showcasing their contrasting powers and beauty.（生成老虎和蝴蝶在神秘森林中相遇的图像，展示它们截然不同的力量和美感。）
-```
+![](./img/6-pengYouQuan/2023-09-22-img-23-demo-pengYouQuan.gif)
 
-![](./img/12-aiAssistant/2023-09-27-img-2-00015-1702000416.png)
+## 描述故事
+
+![](./img/6-pengYouQuan/2023-09-22-img-24-demo-pengYouQuan.png)
+
+![](./img/6-pengYouQuan/2023-09-22-img-25-demo-pengYouQuan.gif)
 
 ## 联系我们
 

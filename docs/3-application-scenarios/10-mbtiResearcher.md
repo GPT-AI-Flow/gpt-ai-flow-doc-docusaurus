@@ -6,35 +6,35 @@
 
 ## 针对 MBTI 的提问
 
-![](./img/8-mbtiResearcher/2023-09-23-img-11-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-11-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
-![](./img/8-mbtiResearcher/2023-09-23-img-12-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-12-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
-![](./img/8-mbtiResearcher/2023-09-23-img-13-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-13-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ## 预测 MBTI 的反应
 
-![](./img/8-mbtiResearcher/2023-09-23-img-14-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-14-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
-![](./img/8-mbtiResearcher/2023-09-23-img-15-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-15-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
-![](./img/8-mbtiResearcher/2023-09-23-img-16-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-16-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ## 根据行为推导 MBTI 类型
 
-![](./img/8-mbtiResearcher/2023-09-23-img-17-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-17-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ## 面对情境下的性格特点
 
-![](./img/8-mbtiResearcher/2023-09-23-img-18-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-18-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
-![](./img/8-mbtiResearcher/2023-09-23-img-19-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-19-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ## 面对情境下的建议
 
 ### 社交场合
 
-![](./img/8-mbtiResearcher/2023-09-23-img-20-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-20-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ```text
 对于一个MBTI的INTJ类型来说，社交场景可能并不是他们最擅长的领域。INTJ倾向于更喜欢独立思考和深入探究问题，而不是与他人进行琐碎的闲聊。然而，在某些情况下，社交互动是必要的，例如工作上的会议、团队活动或社交聚会。
@@ -56,7 +56,7 @@
 
 ### 公开演讲
 
-![](./img/8-mbtiResearcher/2023-09-23-img-21-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-21-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ```text
 基于人格类型信息，INTJ（内外直觉思维者）通常是理性、深思熟虑和有条理的人。当面对公开演讲这种情境时，以下是几条与他们性格相匹配的建议：
@@ -76,7 +76,7 @@
 
 ## 提升 MBTI 团队效率
 
-![](./img/8-mbtiResearcher/2023-09-23-img-22-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
+![](./img/10-mbtiResearcher/2023-09-23-img-22-GPT%20AI%20Flow-demo-mbtiResearcher.gif)
 
 ```text
 为了提高团队合作效率，我们可以利用MBTI类型的信息和关系来指导我们的工作。在这个案例中，团队成员的MBTI类型分别为INTJ，ISTJ和ENFJ。
