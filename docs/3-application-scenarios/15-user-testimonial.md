@@ -1,6 +1,6 @@
 import Image from "@theme/IdealImage";
 
-# 用户案例展示
+# 用户案例
 
 ## 巴黎去哪玩
 
