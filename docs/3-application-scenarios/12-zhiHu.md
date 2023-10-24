@@ -6,7 +6,7 @@
 
 ## 写知乎问答
 
-![](./img/11-zhiHu/2023-09-23-img-28-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-28-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 回答：
@@ -28,7 +28,7 @@
 
 ## 寻找观点和角度
 
-![](./img/11-zhiHu/2023-09-23-img-29-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-29-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 观点1: 自媒体不赚钱是因为缺乏专业知识和技能。很多自媒体从业者并没有接受过相关的培训或教育，导致他们在内容创作和推广方面缺乏所需的技巧。即使他们有好的创意和想法，但缺乏专业知识可能使他们难以吸引到足够的读者或观众，进而无法实现盈利。
@@ -38,7 +38,7 @@
 观点3: 自媒体不赚钱是因为缺乏有效的变现途径。虽然自媒体平台提供了广告收入、粉丝经济等变现方式，但对于很多自媒体从业者来说，这些方式往往需要一定的推广渠道和资源，不是每个人都能成功实现变现。此外，一些自媒体从业者也可能遭遇到了平台政策的限制和变化，导致他们的变现渠道受阻。因此，缺乏有效的变现途径也成为了自媒体不赚钱的原因之一。
 ```
 
-![](./img/11-zhiHu/2023-09-23-img-30-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-30-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 1. 不赚钱的原因可能是内容质量不高。自媒体需要吸引读者和观众，只有在内容具有吸引力和独特性时才能实现。如果自媒体没有提供有价值的、独特的和引人入胜的内容，那么它就很难吸引到足够的受众，从而无法获得广告收入或其他变现途径的机会。
@@ -52,9 +52,9 @@
 
 ## 寻找回答依据
 
-![](./img/11-zhiHu/2023-09-23-img-31-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-31-GPT%20AI%20Flow-demo-groupNotice.gif)
 
-![](./img/11-zhiHu/2023-09-23-img-32-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-32-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 为了找到相关的可靠资源和观点，我将进行以下步骤：
@@ -77,7 +77,7 @@
 
 ## 根据用户反馈优化原答案
 
-![](./img/11-zhiHu/2023-09-23-img-33-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-33-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 为什么自媒体难以赚钱？为什么很多人认为自媒体不赚钱？
@@ -106,7 +106,7 @@
 
 ## 调整问答语言风格
 
-![](./img/11-zhiHu/2023-09-23-img-34-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-34-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 自媒体难以赚钱和为什么很多人认为自媒体不赚钱的原因，有以下几点：
@@ -134,7 +134,7 @@
 
 ## 简化回答
 
-![](./img/11-zhiHu/2023-09-23-img-35-GPT%20AI%20Flow-demo-groupNotice.gif)
+![](./img/12-zhiHu/2023-09-23-img-35-GPT%20AI%20Flow-demo-groupNotice.gif)
 
 ```text
 为什么自媒体难以赚钱，以及为什么人们普遍认为自媒体不赚钱？以下是几个原因：

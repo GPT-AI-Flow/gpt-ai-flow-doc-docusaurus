@@ -9,11 +9,11 @@
 
 ## 旅游活动帖子
 
-![](./img/10-xiaoHongShu/2023-08-23-img-2-2-gif-专业模式使用.gif)
+![](./img/2-xiaoHongShu/2023-08-23-img-2-2-gif-专业模式使用.gif)
 
 最终效果
 
-![](./img/10-xiaoHongShu/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
+![](./img/2-xiaoHongShu/2023-08-23-img-2-proMode-demo-xiaohognshu.png)
 
 ## 小红书珠宝
 

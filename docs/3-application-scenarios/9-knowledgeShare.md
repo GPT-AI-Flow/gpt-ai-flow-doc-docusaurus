@@ -6,7 +6,7 @@
 
 ## 编写知识分享逐字稿
 
-![](./img/7-knowledgeShare/2023-09-23-img-6-GPT%20AI%20Flow-demo-knowledgeShare.gif)
+![](./img/9-knowledgeShare/2023-09-23-img-6-GPT%20AI%20Flow-demo-knowledgeShare.gif)
 
 ```text
 大家好，欢迎来到我的频道！我是你们的Up主，今天我要与大家分享关于三国历史的知识。作为中国历史上最为著名和有影响力的时期之一，三国时期堪称是权谋与英雄的舞台。让我们一起来了解一下吧！
@@ -24,7 +24,7 @@
 
 ## 编写脚本段落
 
-![](./img/7-knowledgeShare/2023-09-23-img-7-GPT%20AI%20Flow-demo-knowledgeShare.gif)
+![](./img/9-knowledgeShare/2023-09-23-img-7-GPT%20AI%20Flow-demo-knowledgeShare.gif)
 
 ```text
 大家好，我是你们的Up主。今天，我们来聊聊三国鼎立这一段令人激动的历史时期。
@@ -42,7 +42,7 @@
 
 ## 优化脚本内容
 
-![](./img/7-knowledgeShare/2023-09-23-img-8-GPT%20AI%20Flow-demo-knowledgeShare.gif)
+![](./img/9-knowledgeShare/2023-09-23-img-8-GPT%20AI%20Flow-demo-knowledgeShare.gif)
 
 ```text
 大家好，我是你们的Up主。今天，我们要来聊一个超级刺激的时期，那就是三国鼎立！
@@ -62,7 +62,7 @@
 
 ### 三国历史
 
-![](./img/7-knowledgeShare/2023-09-23-img-9-GPT%20AI%20Flow-demo-knowledgeShare.gif)
+![](./img/9-knowledgeShare/2023-09-23-img-9-GPT%20AI%20Flow-demo-knowledgeShare.gif)
 
 ```text
 大家好，我是你们的Up主。今天，我们要讲述的是中国历史上最为精彩的时期——三国鼎立时期。
@@ -80,7 +80,7 @@
 
 ### 卡戴珊家族
 
-![](./img/7-knowledgeShare/2023-09-23-img-10-GPT%20AI%20Flow-demo-knowledgeShare.gif)
+![](./img/9-knowledgeShare/2023-09-23-img-10-GPT%20AI%20Flow-demo-knowledgeShare.gif)
 
 ```text
 标题：卡戴珊家族揭秘：科技、社交媒体与名利场的四重奏
