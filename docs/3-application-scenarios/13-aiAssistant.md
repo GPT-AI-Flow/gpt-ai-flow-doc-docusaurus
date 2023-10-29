@@ -1,4 +1,4 @@
-# AI 助手
+# AI 助理
 
 ## Midjourney 助手
 

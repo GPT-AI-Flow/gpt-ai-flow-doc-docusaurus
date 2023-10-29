@@ -60,25 +60,25 @@ const PricesTable = () => {
                     <span>
                       🔗 所有专业模块:
                       <br />
-                      沟通专家
+                      沟通助理
                       <br />
-                      文案专家
+                      博客文案
                       <br />
                       小红书达人
                       <br />
-                      AI 助手
+                      AI助理
                       <br />
-                      评论达人
+                      评论管理
                       <br />
-                      职场达人
+                      职业助理
                       <br />
-                      UP 主
+                      up主
                       <br />
                       产品经理
                       <br />
-                      营销专家
+                      营销助理
                       <br />
-                      SEO 专家
+                      SEO助理
                     </span>
                   </a>
                 </li>
@@ -154,25 +154,25 @@ const PricesTable = () => {
                     <span>
                       🔗 所有专业模块:
                       <br />
-                      沟通专家
+                      沟通助理
                       <br />
-                      文案专家
+                      博客文案
                       <br />
                       小红书达人
                       <br />
-                      AI 助手
+                      AI助理
                       <br />
-                      评论达人
+                      评论管理
                       <br />
-                      职场达人
+                      职业助理
                       <br />
-                      UP 主
+                      up主
                       <br />
                       产品经理
                       <br />
-                      营销专家
+                      营销助理
                       <br />
-                      SEO 专家
+                      SEO助理
                     </span>
                   </a>
                 </li>
@@ -225,7 +225,7 @@ const PricesTable = () => {
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
 
-                  <span>沟通专家模块</span>
+                  <span>沟通助理模块</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -449,7 +449,7 @@ const PricesTable = () => {
                   </tr>
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max">沟通专家模块</span>
+                      <span className="block w-max">沟通助理模块</span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-green-500">
                       ✓
@@ -471,25 +471,25 @@ const PricesTable = () => {
                         <span className="block w-max">
                           🔗 所有专业模块:
                           <br />
-                          沟通专家
+                          沟通助理
                           <br />
-                          文案专家
+                          博客文案
                           <br />
                           小红书达人
                           <br />
-                          AI 助手
+                          AI助理
                           <br />
-                          评论达人
+                          评论管理
                           <br />
-                          职场达人
+                          职业助理
                           <br />
-                          UP 主
+                          up主
                           <br />
                           产品经理
                           <br />
-                          营销专家
+                          营销助理
                           <br />
-                          SEO 专家
+                          SEO助理
                         </span>
                       </a>
                     </td>

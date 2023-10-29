@@ -7,7 +7,7 @@ description: GPT AI Flow, 一款专为Self-Media领域设计的人工智能工�
 # image:
 ---
 
-# 一键 AI 助手 GPT AI Flow，你的超级自媒体工具
+# 一键 AI 助理 GPT AI Flow，你的超级自媒体工具
 
 ## 概述
 

@@ -18,7 +18,7 @@ import Image from "@theme/IdealImage";
     </div>
 </div>
 
-### SEO 专家
+### SEO 助理
 
 [Follow Paris 巴黎去哪玩(2023.08.25)](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
 
