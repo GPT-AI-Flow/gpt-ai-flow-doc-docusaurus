@@ -40,7 +40,15 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>自定义指令集</span>
+                  <span>无限制请求次数</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>模型可切换 (默认 GPT 3.5)</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>自定义指令集 (导入/导出)</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -126,7 +134,15 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>自定义指令集</span>
+                  <span>无限制请求次数</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>无限次数官方模型支持</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>自定义指令集 (导入/导出)</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -165,8 +181,8 @@ const PricesTable = () => {
                   <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">999 词条</span>)
                 </li>
                 <li className="space-x-2">
-                  <span className="font-semibold text-green-500">✓</span>
-                  <span>无限次数官方模型支持</span>
+                  <span className="font-semibold text-red-500">&times;</span>
+                  <span>模型可切换</span>
                 </li>
               </ul>
               <a
@@ -200,7 +216,11 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>自定义指令集</span>
+                  <span>无限制请求次数</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-green-500">✓</span>
+                  <span>自定义指令集 (导入/导出)</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -213,11 +233,15 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
-                  <span>专业界面模块</span>
+                  <span>模型可切换</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
                   <span>无限次数官方模型支持</span>
+                </li>
+                <li className="space-x-2">
+                  <span className="font-semibold text-red-500">&times;</span>
+                  <span>专业界面模块</span>
                 </li>
               </ul>
               <a
@@ -375,6 +399,38 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max">
+                        模型可切换
+                        <br />
+                        (默认 GPT 3.5)
+                      </span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max"> 无限次数官方模型支持 </span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                  </tr>
+                  <tr>
+                    <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max">
                         {' '}
                         自定义指令集管理
                         <br />
@@ -466,20 +522,6 @@ const PricesTable = () => {
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-base text-gray-700 dark:text-white">
                       999条
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 无限次数官方模型支持 </span>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
                     </td>
                   </tr>
                 </tbody>
