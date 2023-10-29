@@ -88,7 +88,7 @@ const DownloadPage = (): JSX.Element => {
                 <div className="text-sm mt-2">
                   已经有{' '}
                   <span className="text-info dark:text-secondary">
-                    <b>50+</b>
+                    <b>100+</b>
                   </span>{' '}
                   用户注册使用
                 </div>

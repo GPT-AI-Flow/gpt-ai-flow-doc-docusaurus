@@ -197,7 +197,7 @@ const config = {
           },
           {
             to: '/communication-group',
-            label: '联系方式',
+            label: '联系我们',
             position: 'right',
           },
           // {
@@ -223,7 +223,7 @@ const config = {
               },
               {
                 to: '/communication-group',
-                label: '联系方式',
+                label: '联系我们',
               },
             ],
           },
