@@ -20,7 +20,7 @@ const DownloadPage = (): JSX.Element => {
             <div className="items-center justify-center gap-16 text-center md:flex md:text-left">
               <div className="order-last mb-6 space-y-6 md:mb-0 md:w-7/12 lg:w-6/12">
                 <h1 className="text-4xl font-bold text-green-900 md:text-5xl dark:text-white">
-                  自媒体内容生产创作 AI 助手
+                  自媒体内容生产创作 AI助理
                 </h1>
                 <p className="text-lg text-gray-600 dark:text-gray-300">
                   天啊！用AI创作内容竟然如此简单！仅需 10 分钟，轻松完成 3 篇高品质小红书分享帖！

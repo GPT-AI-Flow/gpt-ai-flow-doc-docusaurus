@@ -1,6 +1,6 @@
 # 发现自媒体创作的新天地 - AI 自媒体运营助手，助力内容创作！
 
-视频介绍:[【超级干货】UP 主最爱的 AI 工具基本使用手册，轻松创造有趣又有价值的视频内容！】](https://www.bilibili.com/video/BV1sN411i7Uh/?share_source=copy_web&vd_source=0ca81e735ba0b9ead65a22a060c06040)
+视频介绍:[【超级干货】up 主最爱的 AI 工具基本使用手册，轻松创造有趣又有价值的视频内容！】](https://www.bilibili.com/video/BV1sN411i7Uh/?share_source=copy_web&vd_source=0ca81e735ba0b9ead65a22a060c06040)
 
 电鸭社区的朋友们，大家好！
 

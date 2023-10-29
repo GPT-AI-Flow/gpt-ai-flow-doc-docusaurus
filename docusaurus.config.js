@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GPT AI Flow',
-  tagline: '自媒体运营神器，你的 AI 助手！',
+  tagline: '自媒体运营神器，你的 AI 助理！',
   favicon: 'img/favicon.ico',
 
   headTags: [
@@ -214,7 +214,7 @@ const config = {
             title: '文档',
             items: [
               {
-                label: 'AI 助手',
+                label: 'AI助理',
                 to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
               },
               {

@@ -12,9 +12,9 @@ tags:
     '文案生成',
     'SEO 优化',
     '创业者',
-    '职场达人',
+    '职业助理',
     '产品经理',
-    '营销专家',
+    '营销助理',
   ]
 keywords:
   [
@@ -27,9 +27,9 @@ keywords:
     '创业者',
     '自媒体新手',
     '营销优化',
-    '职场达人',
+    '职业助理',
     '产品经理',
-    '营销专家',
+    '营销助理',
   ]
 description: '专为一人自媒体博主和自媒体新手，甚至想做内容创作的企业家们量身打造的神奇人工智能工具 – GPT AI Flow。它能帮助您快速生成和优化文案，为您的自媒体与宣传事业提供强大支持。'
 image: ./img/2023-09-06-img-1-intro.png
@@ -71,13 +71,13 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2023-09-06-img-3-proMode-interface.png)
 
-在我们的专业界面中，你可以发现沟通专家、文案专家、小红书达人、SEO 专家、评论达人、职场达人、up 主、产品经理和营销专家等众多模块，每个模块下也会有不同的场景细分，并且我们还在不断努力拓展，未来它们将变得越来越丰富。
+在我们的专业界面中，你可以发现沟通助理、博客文案、小红书达人、SEO 助理、评论管理、职业助理、up 主、产品经理和营销助理等众多模块，每个模块下也会有不同的场景细分，并且我们还在不断努力拓展，未来它们将变得越来越丰富。
 
-#### 沟通专家
+#### 沟通助理
 
 ![](./img/2023-09-06-img-4-proMode-tab-1-communication.png)
 
-#### 文案专家
+#### 博客文案
 
 ![](./img/2023-09-06-img-5-proMode-tab-2-copywriting.png)
 
@@ -85,15 +85,15 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2023-09-06-img-6-proMode-tab-3-xiaohongshu.png)
 
-#### SEO 专家
+#### SEO 助理
 
 ![](./img/2023-09-06-img-7-proMode-tab-4-seo.png)
 
-#### 评论达人
+#### 评论管理
 
 ![](./img/2023-09-06-img-8-proMode-tab-5-comment.png)
 
-#### 职场达人
+#### 职业助理
 
 ![](./img/2023-09-06-img-9-proMode-tab-6-career.png)
 
@@ -105,7 +105,7 @@ import Image from "@theme/IdealImage";
 
 ![](./img/2023-09-06-img-11-proMode-tab-8-produt-manager.png)
 
-#### 营销专家
+#### 营销助理
 
 ![](./img/2023-09-06-img-12-proMode-tab-9-marketing-expert.png)
 
