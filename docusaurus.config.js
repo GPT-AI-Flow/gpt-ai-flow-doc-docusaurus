@@ -221,6 +221,10 @@ const config = {
                 label: '产品反馈',
                 href: 'https://wj.qq.com/s2/13154598/1770/',
               },
+              {
+                to: '/communication-group',
+                label: '联系方式',
+              },
             ],
           },
 
