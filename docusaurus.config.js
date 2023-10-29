@@ -197,7 +197,7 @@ const config = {
           },
           {
             to: '/communication-group',
-            label: '交流群',
+            label: '联系方式',
             position: 'right',
           },
           // {
