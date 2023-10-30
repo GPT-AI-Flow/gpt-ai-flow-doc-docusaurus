@@ -15,34 +15,34 @@ description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖�
 
 通过鼠标选择 AI 工具场景。
 
-![](./img/4-usage-and-shortcut/2023-08-06-img-2-switch-context.gif)
+![](./img/5-usage-and-shortcut/2023-08-06-img-2-switch-context.gif)
 
 `Shift + up` 上方向键 和 `Shift + down` 下方向键,更换中间 `指令` 选项;
 
-![product-shorcut-switch-instruction](./img/4-usage-and-shortcut/2023-08-25-img-7-switch-instruction.gif)
+![product-shorcut-switch-instruction](./img/5-usage-and-shortcut/2023-08-25-img-7-switch-instruction.gif)
 
 `Alt + up` 上方向键 和 `Alt + down` 下方向键，更换 🫱 右侧选框的输出选项；
 
-![product-shorcut-switch-output-indicator](./img/4-usage-and-shortcut/2023-08-25-img-8-switch-output-indicator.gif)
+![product-shorcut-switch-output-indicator](./img/5-usage-and-shortcut/2023-08-25-img-8-switch-output-indicator.gif)
 
 ### 复制文本
 
 选择文本，按 `Ctrl + C` 复制，按 `Alt + /`，将已经复制文本粘贴到 GPT AI Flow 的输入框;
 
-![product-shorcut-fill-out-input](./img/4-usage-and-shortcut/2023-08-25-img-9-copy-text-then-fill-out-textarea.gif)
+![product-shorcut-fill-out-input](./img/5-usage-and-shortcut/2023-08-25-img-9-copy-text-then-fill-out-textarea.gif)
 
 ### 输入文本
 
 选中输入框的情况下，按 `Shift + 回车` 换行，另起一行输入。
 
-![](./img/4-usage-and-shortcut/2023-08-06-img-6-type-in-a-new-line.gif)
+![](./img/5-usage-and-shortcut/2023-08-06-img-6-type-in-a-new-line.gif)
 
 ### 搜索 🔍
 
 未选中软件时按 `Alt + 回车`，选中软件时按 `回车` 开启搜索提问；  
 搜索过程中按`Alt + 回车` 或 选中软件按 `回车` 暂停搜索。
 
-![product-shorcut-start-search](./img/4-usage-and-shortcut/2023-08-25-img-10-switch-start-and-stop-search.gif)
+![product-shorcut-start-search](./img/5-usage-and-shortcut/2023-08-25-img-10-switch-start-and-stop-search.gif)
 
 ## 高效使用
 
@@ -50,7 +50,7 @@ description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖�
 
 自 v0.1.25 版本之后，我们不需要进行复制操作，选中文本，直接按 对应快捷键，便能够快速查找、翻译内容。
 
-![](./img/4-usage-and-shortcut/2023-09-02-img-1-v0.1.25-new-feature-1.gif)
+![](./img/5-usage-and-shortcut/2023-09-02-img-1-v0.1.25-new-feature-1.gif)
 
 :::info
 注意，此功能需要确保应用的权限。
@@ -73,13 +73,13 @@ description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖�
 
 按下 `Shift + Alt + Space` 键可以方便地显示/隐藏主窗口，并且光标会自动聚焦到主窗口并可编辑。
 
-![](./img/4-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
+![](./img/5-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
 
 ### 显示/隐藏对话框
 
 按下 `Alt + Space` 键可以方便地显示/隐藏对话窗口。
 
-![](./img/4-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
+![](./img/5-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
 
 ## 联系我们
 

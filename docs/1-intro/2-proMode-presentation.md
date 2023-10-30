@@ -50,54 +50,15 @@ import Image from "@theme/IdealImage";
 
 ## 专业模式
 
+### 页面使用
+
+查看专业界面如何快速你的创作流程: [点击这里](#)
+
 ![](./img/2-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
 
-![](./img/2-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
+### 应用场景
 
-![](./img/2-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
-
-## 应用场景
-
-查看专业模块应用场景: [点击这里](/docs/application-scenarios/introduction)
-
-## 如何获得和启用专业模式
-
-请查看软件[安装注册流程](/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software#下载-gpt-ai-flow-软件安装)
-
-### 1. 价格和购买方式
-
-我们为您提供了具有竞争力的价格结构。具体的价格详情及购买链接，请访问我们的[官方购买页面](/business/prices-table)。
-
-### 2. 启动与配置流程
-
-- 步骤一: 完成[软件的注册和安装](/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software#下载-gpt-ai-flow-软件安装)。
-- 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
-
-![](./img/2-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
-
-- 步骤三: 软件需要注册登录才能够使用，在设置界面进行账户注册并登录。完成此步骤后，您可能需要重新启动软件以确保设置生效。
-
-![](./img/2-proMode-presentation/2023-08-23-img-4-账户注册.png)
-
-- 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
-
-![](../2-proudct/img/1-registration-process/2023-08-25-img-4-freeAI-version-of-gpt-ai-flow.png)
-
-- 步骤五: 如果想使用全部的专家模块需要订阅我们的软件，来到设置界面的‘专业模式’，点击成为早期会员链接。
-
-:::tip
-在专业模式设置界面中同样支持国内(微信/支付宝)支付。
-:::
-
-![](../2-proudct/img/1-registration-process/2023-08-25-img-1-to-be-a-member.png)
-
-在弹出的窗口中选择 StartAI 入门工具版，填入支付方式(请确保填写的邮箱与当前账户一致)后，重启启动软件查看专业界面即可访问全部的模块。
-
-![](../2-proudct/img/1-registration-process/2023-08-29-img-2-business-payment-page.png)
-
-![](../2-proudct/img/1-registration-process/2023-08-25-img-3-payment-confirmation-page.png)
-
-- 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
+十几种专业模块应用场景: [点击这里](/docs/application-scenarios/introduction)
 
 ## 结论
 
