@@ -67,13 +67,13 @@ const Testimonials = () => {
     //     '自从我开始使用 GPT AI Flow, 我的报告和论文初稿写作速度提高了很多。虽然最后还需要我进行修改和优化, 但它给我的学习过程带来了很大的便利。真心推荐给其他同学!',
     // },
     {
-      authorName: '耳東陳的夏天',
+      authorName: '和所有的快乐嗦嗨嗨',
       authorImg:
-        '/img/avatars/2023-10-30-img-1-0d46b2a016d5f0d440d291b6b48ae1789a293b9f.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif',
-      authorJob: '自由撰稿人',
-      authorSourceUrl: 'https://space.bilibili.com/29169142',
+        '/img/avatars/2023-10-30-img-3-1aea15d8c86723bbc336fd0bc4238dc6faab6b8e.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
+      authorJob: '市场营销经理',
+      authorSourceUrl: 'https://space.bilibili.com/172828110',
       content:
-        'GPT AI Flow 彻底改变了我的写作流程。现在, 我可以快速地构思并拓展我的文章框架, 它的内容建议对我锤炼文笔有着莫大的帮助。客户对我的稿件质量更是满意, 这全得归功于这款工具的辅助。',
+        '我们团队对 GPT AI Flow 赞不绝口。它为我们提供了一种全新的内容创作方式，使我们的社交媒体策略更上一层楼。特别是它的用户友好界面和准确的内容建议，使我们的营销活动更加高效和精准。',
     },
     {
       authorName: '西伯利亚土豆子',
@@ -84,16 +84,6 @@ const Testimonials = () => {
       content:
         '我经常需要为客户创作各种内容, GPT AI Flow 就像我的私人助手。每次用它, 都能帮我迅速构建一个框架, 为我的创作提供方向。与其他工具相比, 它确实在理解上有所突破。',
     },
-
-    {
-      authorName: '和所有的快乐嗦嗨嗨',
-      authorImg:
-        '/img/avatars/2023-10-30-img-3-1aea15d8c86723bbc336fd0bc4238dc6faab6b8e.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
-      authorJob: '市场营销经理',
-      authorSourceUrl: 'https://space.bilibili.com/172828110',
-      content:
-        '我们团队对 GPT AI Flow 赞不绝口。它为我们提供了一种全新的内容创作方式，使我们的社交媒体策略更上一层楼。特别是它的用户友好界面和准确的内容建议，使我们的营销活动更加高效和精准。',
-    },
     {
       authorName: '吉克斯实验室',
       authorImg:
@@ -101,7 +91,7 @@ const Testimonials = () => {
       authorJob: '技术博主',
       authorSourceUrl: 'https://space.bilibili.com/125430684',
       content:
-        'GPT AI Flow 是技术博文创作的游戏改变者。它不仅理解复杂的技术术语，还能用易于理解的语言传达给读者。每次发布，都能感受到读者的积极反馈，我对这款工具的信任度日益增加。',
+        '虽然 GPT AI Flow 以前可能存在一些小问题，比如理解某些特定的技术术语时稍显生疏，但它的整体性能足以成为技术博文创作的一款神器。想象一下，你无需再费尽脑力去翻译晦涩的技术术语，GPT AI Flow 能够以平易近人的方式呈现出来，给你的读者留下深刻印象。',
     },
     {
       authorName: '清风明月最好',
@@ -110,7 +100,16 @@ const Testimonials = () => {
       authorJob: '创业者',
       authorSourceUrl: 'https://space.bilibili.com/386908519',
       content:
-        '自从用上GPT AI Flow，我们团队的营销文案变得更有创意了。我们发现，不只是效率提高，它还帮助我们在众多品牌中脱颖而出。这款工具是创业者不可或缺的数字助手。',
+        'GPT AI Flow 刚开始使用的时候其实我是有些怀疑的，毕竟是AI，会不会失去人的创意独特性呢？但实际体验后，我被彻底打服了。产品效率极高，营销文案更具创新和吸引力，让我们在竞争激烈的市场中独树一帜。',
+    },
+    {
+      authorName: '耳東陳的夏天',
+      authorImg:
+        '/img/avatars/2023-10-30-img-1-0d46b2a016d5f0d440d291b6b48ae1789a293b9f.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif',
+      authorJob: '自由撰稿人',
+      authorSourceUrl: 'https://space.bilibili.com/29169142',
+      content:
+        'GPT AI Flow 彻底改变了我的写作流程。现在, 我可以快速地构思并拓展我的文章框架, 它的内容建议对我锤炼文笔有着莫大的帮助。客户对我的稿件质量更是满意, 这全得归功于这款工具的辅助。',
     },
   ];
 
