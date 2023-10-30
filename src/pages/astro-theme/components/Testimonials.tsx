@@ -86,6 +86,16 @@ const Testimonials = () => {
       content:
         '我经常需要为客户创作各种内容, GPT AI Flow 就像我的私人助手。每次用它, 都能帮我迅速构建一个框架, 为我的创作提供方向。与其他工具相比, 它确实在理解上有所突破。',
     },
+
+    {
+      authorName: '和所有的快乐嗦嗨嗨',
+      authorImg:
+        '/img/avatars/2023-10-30-img-3-1aea15d8c86723bbc336fd0bc4238dc6faab6b8e.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
+      authorJob: '市场营销经理',
+      authorSourceUrl: 'https://space.bilibili.com/172828110',
+      content:
+        '我们团队对 GPT AI Flow 赞不绝口。它为我们提供了一种全新的内容创作方式，使我们的社交媒体策略更上一层楼。特别是它的用户友好界面和准确的内容建议，使我们的营销活动更加高效和精准。',
+    },
   ];
 
   return (
