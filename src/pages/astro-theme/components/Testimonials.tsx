@@ -12,8 +12,8 @@ interface IComment {
   content: string;
 }
 
-const comments: IComment[] = _.sampleSize(
-  [
+const Testimonials = () => {
+  const comments: IComment[] = [
     {
       authorName: '穆扎穆扎',
       authorImg:
@@ -41,15 +41,15 @@ const comments: IComment[] = _.sampleSize(
       content:
         '我做内容运营那么久, 使用过各种辅助工具。但 GPT AI Flow 的专业模式真的让我省心了很多。与OpenAI相比, 它的模块使用更流畅, 而且无需“魔法”便能轻松上手。',
     },
-    {
-      authorName: 'NandyHuang',
-      authorImg:
-        '/img/avatars/2023-09-18-img-5-avatar-6bf33692392f6a281c256cbfe658ea0636d830f1.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
-      authorJob: '文案编辑',
-      authorSourceUrl: 'https://space.bilibili.com/44136249',
-      content:
-        '自从使用了文案宣传模块, 我觉得品牌传播从未如此轻松。不仅提升了公司在社交媒体上的曝光率, 而且质量一直很稳定！',
-    },
+    // {
+    //   authorName: 'NandyHuang',
+    //   authorImg:
+    //     '/img/avatars/2023-09-18-img-5-avatar-6bf33692392f6a281c256cbfe658ea0636d830f1.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
+    //   authorJob: '文案编辑',
+    //   authorSourceUrl: 'https://space.bilibili.com/44136249',
+    //   content:
+    //     '自从使用了文案宣传模块, 我觉得品牌传播从未如此轻松。不仅提升了公司在社交媒体上的曝光率, 而且质量一直很稳定！',
+    // },
     {
       authorName: '下不下雨-',
       authorImg:
@@ -59,15 +59,15 @@ const comments: IComment[] = _.sampleSize(
       content:
         '使用 GPT AI Flow 来帮助我撰写产品发布文案真的省时省力。它适用于大部分简单的场景, 但对于复杂内容, 我还是更偏向于自己动手。',
     },
-    {
-      authorName: 's20011120',
-      authorImg:
-        '/img/avatars/2023-09-18-img-6-avatar-38f6605f1594facd8febe0873295220fa0b77f7e.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
-      authorJob: '学生党',
-      authorSourceUrl: 'https://space.bilibili.com/1113066162',
-      content:
-        '自从我开始使用 GPT AI Flow, 我的报告和论文初稿写作速度提高了很多。虽然最后还需要我进行修改和优化, 但它给我的学习过程带来了很大的便利。真心推荐给其他同学!',
-    },
+    // {
+    //   authorName: 's20011120',
+    //   authorImg:
+    //     '/img/avatars/2023-09-18-img-6-avatar-38f6605f1594facd8febe0873295220fa0b77f7e.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
+    //   authorJob: '学生党',
+    //   authorSourceUrl: 'https://space.bilibili.com/1113066162',
+    //   content:
+    //     '自从我开始使用 GPT AI Flow, 我的报告和论文初稿写作速度提高了很多。虽然最后还需要我进行修改和优化, 但它给我的学习过程带来了很大的便利。真心推荐给其他同学!',
+    // },
     {
       authorName: '耳東陳的夏天',
       authorImg:
@@ -114,11 +114,8 @@ const comments: IComment[] = _.sampleSize(
       content:
         '自从用上GPT AI Flow，我们团队的营销文案变得更有创意了。我们发现，不只是效率提高，它还帮助我们在众多品牌中脱颖而出。这款工具是创业者不可或缺的数字助手。',
     },
-  ],
-  6
-);
+  ];
 
-const Testimonials = () => {
   return (
     <div className="!mt-5 text-gray-600 dark:text-gray-300" id="reviews">
       <Container>
