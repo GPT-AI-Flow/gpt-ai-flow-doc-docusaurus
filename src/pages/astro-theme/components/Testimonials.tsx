@@ -158,7 +158,7 @@ const Testimonials = () => {
                 <div className="flex gap-4">
                   <img
                     className="w-12 h-12 rounded-full"
-                    src={`${authorAvatar}?v=${keyVersion}`}
+                    src={'https://www.gptaiflow.com' + `${authorAvatar}?v=${keyVersion}`}
                     alt="user avatar"
                     width="400"
                     height="400"
