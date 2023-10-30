@@ -1,5 +1,5 @@
 ---
-title: 专业界面模式
+title: 专业模式
 slug: how-professional-mode-of-ai-flow-revolutionizes-content-creation
 tags: [AI SaaS, 内容创作, 工作效率, GPT AI Flow, 专业模式]
 keywords: [AI工具, 内容创作, 工作效率, SaaS产品, 专业模式, 操作简洁, 效果出色, 用户体验, 个性化创作]
@@ -48,7 +48,7 @@ import Image from "@theme/IdealImage";
 - **我们**: 我们的工具不仅仅是理论上的应用，我们已经实际为客户提供了小红书的运营服务，并**已经取得了显著的成果**，充分证实了我们工具的实际效能。
 - **竞品**: 很多只**停留在工具的提供阶段**，而缺乏实际应用场景的验证和反馈。
 
-## 专业界面模块
+## 专业模式
 
 查看专业模块应用场景：[点击这里](/docs/application-scenarios/introduction)
 

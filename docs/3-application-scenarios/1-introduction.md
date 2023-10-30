@@ -1,6 +1,6 @@
 import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features";
 
-# 专业界面模块
+# 专业模块界面
 
 ## 丰富模块
 
