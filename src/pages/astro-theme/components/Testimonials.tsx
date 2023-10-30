@@ -96,6 +96,15 @@ const Testimonials = () => {
       content:
         '我们团队对 GPT AI Flow 赞不绝口。它为我们提供了一种全新的内容创作方式，使我们的社交媒体策略更上一层楼。特别是它的用户友好界面和准确的内容建议，使我们的营销活动更加高效和精准。',
     },
+    {
+      authorName: '吉克斯实验室',
+      authorImg:
+        '/img/avatars/2023-10-30-img-4-154beb6eb015503b1714efbb70c7a2c79081c8c0.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif',
+      authorJob: '技术博主',
+      authorSourceUrl: 'https://space.bilibili.com/125430684',
+      content:
+        'GPT AI Flow 是技术博文创作的游戏改变者。它不仅理解复杂的技术术语，还能用易于理解的语言传达给读者。每次发布，都能感受到读者的积极反馈，我对这款工具的信任度日益增加。',
+    },
   ];
 
   return (
