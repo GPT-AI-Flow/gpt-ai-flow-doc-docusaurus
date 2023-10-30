@@ -52,13 +52,13 @@ import Image from "@theme/IdealImage";
 
 ### 页面使用
 
-查看专业界面如何快速你的创作流程: [点击这里](#)
+深入了解如何轻松掌控创作工具的全方位功能，解锁您的创作潜力: [点击这里](#)
 
 ![](./img/2-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
 
 ### 应用场景
 
-十几种专业模块应用场景: [点击这里](/docs/application-scenarios/introduction)
+探索这里，发现 GPT AI Flow 如何在各行各业的丰富场景中发挥强大的作用，激发您的创作灵感: [点击这里](/docs/application-scenarios/introduction)
 
 ## 结论
 
