@@ -88,7 +88,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
-                  <span>无限次数官方模型支持</span>
+                  <span>官方提供 OpenAI key</span>
                 </li>
               </ul>
               <a
@@ -138,7 +138,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>无限次数官方模型支持</span>
+                  <span>官方提供 OpenAI key</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -237,7 +237,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
-                  <span>无限次数官方模型支持</span>
+                  <span>官方提供 OpenAI key</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
@@ -343,8 +343,6 @@ const PricesTable = () => {
                         <h4 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">StartAI 入门模型版</h4>
                         <p className="text-sm text-gray-600 dark:text-gray-400">
                           专为创业者和中小企业设计，提供多种专业模式以满足不同的业务需求。
-                          <br />
-                          <b>提供无限次数官方模型支持</b> 。
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
@@ -397,6 +395,20 @@ const PricesTable = () => {
                     </td>
                   </tr>
                   <tr>
+                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
+                      <span className="block w-max">官方提供 OpenAI key</span>
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
+                      &times;
+                    </td>
+                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
+                      ✓
+                    </td>
+                  </tr>
+                  <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max">
                         模型可切换
@@ -412,20 +424,6 @@ const PricesTable = () => {
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-red-500">
                       &times;
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
-                      <span className="block w-max"> 无限次数官方模型支持 </span>
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 text-center text-2xl text-red-500">
-                      &times;
-                    </td>
-                    <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
-                      ✓
                     </td>
                   </tr>
                   <tr>
