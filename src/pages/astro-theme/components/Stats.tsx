@@ -97,7 +97,8 @@ const Stats = () => {
                 <div className="w-5/6">
                   <h3 className="font-semibold text-lg text-gray-700 dark:text-teal-300">个性化本地文档助手</h3>
                   <p className="text-gray-500 dark:text-gray-400">
-                    借助本地文档助手, 让繁琐的文件管理变得井井有条, 释放您的思维空间, 激发无限可能！
+                    借助本地文档助手,
+                    快速定位关键信息，无需翻阅堆积如山的文件。提问即得答案，智能查询让文档检索变得简单高效。
                   </p>
                 </div>
               </div>
