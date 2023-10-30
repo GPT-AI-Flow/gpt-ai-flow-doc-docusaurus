@@ -52,7 +52,7 @@ import Image from "@theme/IdealImage";
 
 查看专业模块应用场景：[点击这里](/docs/application-scenarios/introduction)
 
-![](./img/4-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
+![](./img/2-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
 
 ## 如何获得和启用专业模式
 
@@ -65,11 +65,11 @@ import Image from "@theme/IdealImage";
 - 步骤一: 完成[软件的注册和安装](../2-proudct/1-installation-and-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
 
-![](./img/4-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
+![](./img/2-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
 
 - 步骤三: 软件需要注册登录才能够使用，在设置界面进行账户注册并登录。完成此步骤后，您可能需要重新启动软件以确保设置生效。
 
-![](./img/4-proMode-presentation/2023-08-23-img-4-账户注册.png)
+![](./img/2-proMode-presentation/2023-08-23-img-4-账户注册.png)
 
 - 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
 
@@ -91,9 +91,9 @@ import Image from "@theme/IdealImage";
 
 - 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
 
-![](./img/4-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
+![](./img/2-proMode-presentation/2023-08-23-img-5-专业模式使用.png)
 
-![](./img/4-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
+![](./img/2-proMode-presentation/2023-08-23-img-6-专业模式使用-2.png)
 
 :::tip 试用期体验
 如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。
