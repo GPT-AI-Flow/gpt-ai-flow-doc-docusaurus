@@ -21,11 +21,11 @@ description: GPT AI Flow, 一款专为Self-Media领域设计的人工智能工�
 
 ![](./img/2023-08-17-gpt-ai-flow-presentation-demo-gif-1.gif)
 
-**专业模式**: 为资深创作者设计，提供高效的内容创作工作流，更多详情请见[专业模式](../2-proudct/4-proMode-presentation.md)。
+**专业模式**: 为资深创作者设计，提供高效的内容创作工作流，更多详情请见[专业模式](../1-intro/4-proMode-presentation.md)。
 
 ![](./img/2023-08-23-gif-2-gpt-ai-flow-proMode-demo.gif)
 
-**丰富的模块扩展**: 拓展功能，满足各种创作需求，点击查看[模块功能](../2-proudct/4-proMode-presentation.md#专业界面模块)。
+**丰富的模块扩展**: 拓展功能，满足各种创作需求，点击查看[模块功能](../1-proudct/4-proMode-presentation.md#专业界面模块)。
 
 ![](./img/2023-08-23-img-3-gpt-ai-flow-proMode-demo.png)
 

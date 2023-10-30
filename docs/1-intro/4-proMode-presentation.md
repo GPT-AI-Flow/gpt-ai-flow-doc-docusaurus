@@ -62,7 +62,7 @@ import Image from "@theme/IdealImage";
 
 ### 2. 启动与配置流程
 
-- 步骤一: 完成[软件的注册和安装](./1-installation-and-registration-process.md#下载-gpt-ai-flow-软件安装)。
+- 步骤一: 完成[软件的注册和安装](../2-proudct/1-installation-and-registration-process.md#下载-gpt-ai-flow-软件安装)。
 - 步骤二: 启动软件后，首先进入设置界面输入您的 OpenAI API key。此步骤确保软件与您的 OpenAI 账户进行链接。
 
 ![](./img/4-proMode-presentation/2023-08-23-img-3-填写%20API%20key.png)
@@ -73,7 +73,7 @@ import Image from "@theme/IdealImage";
 
 - 步骤四: 软件重启后，在主界面点击悬浮窗左侧的箭头按钮，即可打开专业模式界面。
 
-![](./img/1-registration-process/2023-08-25-img-4-freeAI-version-of-gpt-ai-flow.png)
+![](../2-proudct//img/1-registration-process/2023-08-25-img-4-freeAI-version-of-gpt-ai-flow.png)
 
 - 步骤五: 如果想使用全部的专家模块需要订阅我们的软件，来到设置界面的‘专业模式’，点击成为早期会员链接。
 
@@ -81,13 +81,13 @@ import Image from "@theme/IdealImage";
 在专业模式设置界面中同样支持国内(微信/支付宝)支付。
 :::
 
-![](./img/1-registration-process/2023-08-25-img-1-to-be-a-member.png)
+![](../2-proudct/img/1-registration-process/2023-08-25-img-1-to-be-a-member.png)
 
 在弹出的窗口中选择 StartAI 入门工具版，填入支付方式(请确保填写的邮箱与当前账户一致)后，重启启动软件查看专业界面即可访问全部的模块。
 
-![](./img/1-registration-process/2023-08-29-img-2-business-payment-page.png)
+![](../2-proudct/img/1-registration-process/2023-08-29-img-2-business-payment-page.png)
 
-![](./img/1-registration-process/2023-08-25-img-3-payment-confirmation-page.png)
+![](../2-proudct/img/1-registration-process/2023-08-25-img-3-payment-confirmation-page.png)
 
 - 步骤六: 回到软件，再次进入专业界面看看是否能够使用所有模块，如果不行的话请重启软件即可使用。
 
