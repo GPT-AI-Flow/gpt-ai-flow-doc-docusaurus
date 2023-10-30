@@ -83,7 +83,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
 
-点击 `开始试用` 后，会打开一个新的网页，跟着网页的提示，[完成购买流程即可](/docs/intro/how-professional-mode-of-ai-flow-revolutionizes-content-creation#如何获得和启用专业模式)。
+点击 `开始试用` 后，会打开一个新的网页，跟着网页的提示，[完成购买流程即可](/docs/proudct/start-free-trial)。
 
 #### 选择 `StartAI 入门模型版 (官方大模型支持)`
 

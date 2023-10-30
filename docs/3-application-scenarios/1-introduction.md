@@ -10,7 +10,7 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 
 :::tip
 使用所有专业模块需要有大模型的支持。  
-了解安装注册流程与模型支持: [点击这里](../2-proudct/1-installation-and-registration-process.md)
+了解安装注册流程与模型支持: [点击这里](/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software)
 :::
 
 ## 联系我们
