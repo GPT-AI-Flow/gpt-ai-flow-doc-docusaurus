@@ -13,10 +13,11 @@ const HeroSection = () => {
         <div className="relative pt-36 ml-auto">
           <div className="lg:w-2/3 text-center mx-auto">
             <h1 className="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">
-              引领<span className="text-primary dark:text-white">自媒体创作</span>的新时代: AI 助您走在前沿!
+              🚀 创意<span className="text-primary dark:text-white">加速器</span>: 让AI成为您内容实现的翅膀
             </h1>
+
             <p className="mt-8 text-gray-700 dark:text-gray-300">
-              GPT AI Flow 专为自媒体设计，助您一键生成、优化文案，让内容产出更具吸引力、风格独特且易于被搜索。
+              📝 从灵感到实施，从笔记到成品——您的数字化伙伴，让每一步都更高效。
             </p>
             <div className="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
               <a
@@ -24,7 +25,7 @@ const HeroSection = () => {
                 className="get-start-button relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="relative text-base font-semibold text-white">立即试用 GPT AI Flow</span>
+                <span className="relative text-base font-semibold text-white">立即试用</span>
               </a>
               <a
                 href="/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents"
