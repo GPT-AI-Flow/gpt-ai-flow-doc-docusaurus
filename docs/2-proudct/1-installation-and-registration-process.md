@@ -56,7 +56,11 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ## 套餐选择
 
-### 免费模式
+查看套餐区别: [点击这里](/business/prices-table)
+
+如果你是对内容创作有高度需求的用户，可以开启[免费试用](/docs/proudct/start-free-trial)。
+
+<!-- ### 免费模式
 
 免费模式中，我们可以自由使用软件，不过需要用户提供自己的 `OpenAI API key`。
 
@@ -105,7 +109,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
 
-![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png)
+![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png) -->
 
 ## 开始使用
 
