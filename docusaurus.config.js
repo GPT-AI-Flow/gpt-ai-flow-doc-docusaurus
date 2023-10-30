@@ -178,8 +178,8 @@ const config = {
             label: '应用场景',
             position: 'left',
           },
-          { to: '/blog', label: '提示工程文章', position: 'left' },
-          // { to: '/blog', label: '博客文章', position: 'left' },
+          // { to: '/blog', label: '提示工程文章', position: 'left' },
+          { to: '/blog', label: '博客文章', position: 'left' },
           {
             to: '/business/prices-table',
             label: '价格',
