@@ -13,10 +13,11 @@ const HeroSection = () => {
         <div className="relative pt-36 ml-auto">
           <div className="lg:w-2/3 text-center mx-auto">
             <h1 className="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">
-              引领<span className="text-primary dark:text-white">自媒体创作</span>的新时代: AI 助您走在前沿!
+              🚀 创意<span className="text-primary dark:text-white">加速器</span>: 让AI成为您内容实现的翅膀
             </h1>
+
             <p className="mt-8 text-gray-700 dark:text-gray-300">
-              GPT AI Flow 专为自媒体设计，助您一键生成、优化文案，让内容产出更具吸引力、风格独特且易于被搜索。
+              📝 从灵感到实施，从笔记到成品——您的数字化伙伴，让每一步都更高效。
             </p>
             <div className="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
               <a
@@ -24,7 +25,7 @@ const HeroSection = () => {
                 className="get-start-button relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
                 style={{ textDecoration: 'none' }}
               >
-                <span className="relative text-base font-semibold text-white">立即试用 GPT AI Flow</span>
+                <span className="relative text-base font-semibold text-white">立即试用</span>
               </a>
               <a
                 href="/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents"
@@ -39,23 +40,22 @@ const HeroSection = () => {
             </div>
             <div className="hidden py-8 mt-16 border-y border-gray-100 dark:border-gray-800 sm:flex justify-between">
               <div className="text-left p-2">
-                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">打破创意瓶颈</h6>
+                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">创意无止境 🖋️ </h6>
                 <p className="mt-2 text-gray-500">
-                  无论是标题创意、文章结构还是营销文案，GPT AI
-                  Flow都能为您提供即时、专业的建议，助您轻松跨越内容创作障碍。
+                  无论是独特的标题、文章布局或是有吸引力的营销文案，创意加速器都能为您提供精准的建议，让每个创意得以完美呈现。
                 </p>
               </div>
               <div className="text-left p-2">
-                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">适合所有经验层次</h6>
+                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">每位创作者的首选 🌟</h6>
                 <p className="mt-2 text-gray-500">
-                  不论您是自媒体新手还是有丰富经验的专家，我们的AI助手都能帮您生成高质量的文案，并优化您的创作流程。
+                  从刚入门的新手到经验丰富的大咖，创意加速器都能助您轻松制定和完善高水平的内容。
                 </p>
               </div>
               <div className="text-left p-2">
-                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">实实在在的效果</h6>
+                <h6 className="text-lg font-semibold text-gray-700 dark:text-white">见证真实转变 🦋</h6>
                 <p className="mt-2 text-gray-500">
-                  实践证明，使用 GPT AI Flow
-                  可大幅提升自媒体效果。例如，“巴黎去哪玩”在小红书平台的关注数，仅在一个月内便增长了40%。您也有机会创造如此佳绩！
+                  众多使用者都已经感受到了创意加速器带来的变革。就像“巴黎去哪玩”在短短一个月里在小红书上的关注度增长了
+                  40%那样，您也能实现出类拔萃的成绩！
                 </p>
               </div>
             </div>
