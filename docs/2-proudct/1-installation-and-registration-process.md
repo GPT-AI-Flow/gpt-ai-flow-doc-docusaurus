@@ -58,61 +58,10 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 查看套餐区别: [点击这里](/business/prices-table)
 
-- 免费版和工具版需自备 OpenAI key
-- 模型版开启试用后可正常使用
+- `免费版`和`工具版`需自备 [OpenAI key](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
+- `模型版`开启试用后可直接正常使用
 
 如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/docs/proudct/start-free-trial)体验专业模式。
-
-<!-- ### 免费模式
-
-免费模式中，我们可以自由使用软件，不过需要用户提供自己的 `OpenAI API key`。
-
-- 对话框功能
-- 自定义指令管理
-- 仅支持沟通助理模块
-- 支持创建 `49` 个词条构建个人文档助手
-
-:::tip
-点击这里: [如何注册 OpenAI 账户并获得 OpenAI API key 密匙？](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
-:::
-
-### 专业模式
-
-专业模式是针对对内容创作高度需要的用户，里面提供了全面的内容创作模式可供用 AI 去运营自媒体(沟通助理、博客文案、小红书达人、AI 助手、评论管理、职业助理、up 主、产品经理、营销助理、SEO 助理 等等)，帮助你加快自己的内容创作工作流，短时间内产出大量高质量的内容。
-
-#### 打开专业模式设置
-
-再次来到设置界面，点击左侧的 `专业模式` 栏目。
-
-:::info
-套餐信息: [请点击这里](/business/prices-table)
-:::
-
-![](./img/1-registration-process/2023-09-21-img-3-proMode-start-trial.png)
-
-点击 `开始试用` 后，会打开一个新的网页，跟着网页的提示，[完成购买流程即可](/docs/proudct/start-free-trial)。
-
-#### 选择 `StartAI 入门模型版 (官方大模型支持)`
-
-- 免费模式所有功能
-- 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
-- 无需 `OpenAI API key` 以及其他额外设置，无限次大模型请求支持
-- 支持创建 `999` 个词条构建个人文档助手
-
-:::tip
-我们提供的 `StartAI 入门模型版套餐` 自带官方模型支持，所以无需 `OpenAI API key`。
-:::
-
-#### 选择 `StartAI 入门工具版`
-
-- 免费模式所有功能
-- 可使用全部 [专业模式模块](../3-application-scenarios/1-introduction.md)
-- 需要设置 `OpenAI API key`
-- 支持创建 `999` 个词条构建个人文档助手
-
-点击打开设置界面，填入刚刚从 `OpenAI` 后台获得的 `API key`，点击保存。
-
-![](./img/1-registration-process/2023-08-06-img-16-gpt-ai-flow-settings-for-api-key.png) -->
 
 ## 开始使用
 
