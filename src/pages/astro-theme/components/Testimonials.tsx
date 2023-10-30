@@ -150,7 +150,6 @@ const Testimonials = () => {
         </div>
         <div className="md:columns-2 lg:columns-3 gap-8 space-y-8">
           {comments.map((comment) => {
-            const keyVersion = new Date().getTime();
             const { authorName, authorImg: authorAvatar, authorJob, content } = comment;
 
             return (
@@ -158,11 +157,12 @@ const Testimonials = () => {
                 <div className="flex gap-4">
                   <img
                     className="w-12 h-12 rounded-full"
-                    src={'https://www.gptaiflow.com' + `${authorAvatar}?v=${keyVersion}`}
+                    src={authorAvatar}
                     alt="user avatar"
                     width="400"
                     height="400"
-                    loading="lazy"
+                    // loading="lazy"
+                    loading="eager"
                   />
                   <div>
                     <h6 className="text-lg font-medium text-gray-700 dark:text-white">{authorName}</h6>
