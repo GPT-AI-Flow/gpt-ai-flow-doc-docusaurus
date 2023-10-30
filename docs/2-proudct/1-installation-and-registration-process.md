@@ -1,5 +1,5 @@
 ---
-title: '安装注册流程'
+title: '安装指南'
 slug: 'detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software'
 tags: ['GPT AI Flow下载', '注册和使用教程', '操作系统需求', '套餐选择']
 Keywords: ['AI Flow软件下载', 'GPT AI Flow安装指南', '软件注册方法', 'Windows和Mac支持', '开设高效内容创作']
