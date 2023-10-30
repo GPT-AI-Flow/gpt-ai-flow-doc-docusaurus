@@ -49,12 +49,20 @@
 
 ![](./img/2-start-free-trial/2023-10-30-img-13-see-oversea-subscription.gif)
 
+:::tip 试用期体验
+如果遇到支付后仍然无法使用的问题，请联系我们，我们会第一时间联系您解决问题。
+
+想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>7 天免费试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
+:::
+
 ## 联系我们
 
 - 立即体验**7 天免费试用期**:
   - [网页版立即体验](https://www.app.gptaiflow.com/login)
   - [完整体验点击这里](/download)
-- 联系邮箱: hello@gptaiflow.com
+- 联系我们
+  - 联系邮箱: hello@gptaiflow.com
+  - 加入交流群: [点击这里](/communication-group)
 - [💬 有问题? 联系我们或查看 FAQ](/docs/proudct/gpt-ai-flow-guide-and-faq)
 - 产品反馈: [点击这里](https://wj.qq.com/s2/13154598/1770/)
 
