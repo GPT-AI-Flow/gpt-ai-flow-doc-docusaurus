@@ -6,7 +6,7 @@
 
 如有需要可以导出自定义指令再重置。
 
-![](./img/4-local-personal-document-assistant/2023-10-16-img-1-reset-context-commands.gif)
+![](./img/5-local-personal-document-assistant/2023-10-16-img-1-reset-context-commands.gif)
 
 ## 构建个人本地搜索数据库
 
@@ -14,8 +14,8 @@
 目前仅支持 .text 与 .md 文档的识别与读取。
 :::
 
-![](./img/4-local-personal-document-assistant/2023-10-16-img-2-setup-docsearch-database.gif)
+![](./img/5-local-personal-document-assistant/2023-10-16-img-2-setup-docsearch-database.gif)
 
 ## 选择 `个人文档助手`，提出你的问题
 
-![](./img/4-local-personal-document-assistant/2023-10-16-img-3-query-docsearch.gif)
+![](./img/5-local-personal-document-assistant/2023-10-16-img-3-query-docsearch.gif)

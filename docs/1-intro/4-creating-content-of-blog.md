@@ -11,4 +11,4 @@
 - **编辑校对**：我们的编辑校对工具现在更加精准，可以帮助您提升博客内容的质量。
 - **SEO 优化**：我们的 SEO 优化工具得到了升级，可以帮助您更好地提升博客的搜索引擎排名。
 
-![](./img/3-copy-writing/2023-10-23-img-1-copyWriting-proMode.gif)
+![](./img/4-copy-writing/2023-10-23-img-1-copyWriting-proMode.gif)

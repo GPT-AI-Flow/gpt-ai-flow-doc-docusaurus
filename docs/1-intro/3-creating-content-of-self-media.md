@@ -9,4 +9,4 @@
 - **内容框架设计**：为您的内容提供合理的框架设计，使其结构更清晰，易读性更强。
 - **内容创作**：基于以上分析和规划，最终生成具有吸引力和影响力的内容。
 
-![](./img/2-xiaohongshu/2023-10-20-img-4-xiaohongshu-proMode.gif)
+![](./img/3-xiaohongshu/2023-10-20-img-4-xiaohongshu-proMode.gif)

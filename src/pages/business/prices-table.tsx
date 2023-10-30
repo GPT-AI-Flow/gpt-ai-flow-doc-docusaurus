@@ -84,7 +84,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">999 词条</span>)
+                  <span className="inline w-max"> 个人文档助手</span> (999 词条)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
@@ -178,7 +178,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">999 词条</span>)
+                  <span className="inline w-max"> 个人文档助手</span> (999 词条)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
@@ -229,7 +229,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">49 词条</span>)
+                  <span className="inline w-max"> 个人文档助手</span> (49 词条)
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-red-500">&times;</span>
