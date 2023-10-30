@@ -27,4 +27,10 @@
 
 ### 国内地区
 
-![](./img/2-start-free-trial/2023-10-30-img-9-start-free-trial.gif)
+来到`专业模式`设置，点击`开始试用`按钮提供 7 天免费试用。
+
+![](./img/2-start-free-trial/2023-10-30-img-9-start-free-trial-zh.gif)
+
+### 海外地区
+
+![](./img/2-start-free-trial/2023-10-30-img-10-start-free-trial-oversea.gif)
