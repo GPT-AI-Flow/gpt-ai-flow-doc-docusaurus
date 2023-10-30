@@ -105,6 +105,15 @@ const Testimonials = () => {
       content:
         'GPT AI Flow 是技术博文创作的游戏改变者。它不仅理解复杂的技术术语，还能用易于理解的语言传达给读者。每次发布，都能感受到读者的积极反馈，我对这款工具的信任度日益增加。',
     },
+    {
+      authorName: '清风明月最好',
+      authorImg:
+        '/img/avatars/2023-10-30-img-5-9ef4ffa91b6390f9563f603c474ea8321a421df5.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
+      authorJob: '创业者',
+      authorSourceUrl: 'https://space.bilibili.com/386908519',
+      content:
+        '自从用上GPT AI Flow，我们团队的营销文案变得更有创意了。我们发现，不只是效率提高，它还帮助我们在众多品牌中脱颖而出。这款工具是创业者不可或缺的数字助手。',
+    },
   ];
 
   return (
