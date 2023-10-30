@@ -12,8 +12,8 @@ interface IComment {
   content: string;
 }
 
-const Testimonials = () => {
-  const comments: IComment[] = [
+const comments: IComment[] = _.sampleSize(
+  [
     {
       authorName: '穆扎穆扎',
       authorImg:
@@ -114,8 +114,11 @@ const Testimonials = () => {
       content:
         '自从用上GPT AI Flow，我们团队的营销文案变得更有创意了。我们发现，不只是效率提高，它还帮助我们在众多品牌中脱颖而出。这款工具是创业者不可或缺的数字助手。',
     },
-  ];
+  ],
+  6
+);
 
+const Testimonials = () => {
   return (
     <div className="!mt-5 text-gray-600 dark:text-gray-300" id="reviews">
       <Container>
@@ -146,7 +149,7 @@ const Testimonials = () => {
           </p>
         </div>
         <div className="md:columns-2 lg:columns-3 gap-8 space-y-8">
-          {_.sampleSize(comments, 6).map((comment) => {
+          {comments.map((comment) => {
             const { authorName, authorImg: authorAvatar, authorJob, content } = comment;
 
             return (
