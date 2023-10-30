@@ -61,7 +61,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 - 免费版和工具版需自备 OpenAI key
 - 模型版开启试用后可正常使用
 
-如果你是对内容创作有高度需求的用户，可以开启[免费试用](/docs/proudct/start-free-trial)。
+如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/docs/proudct/start-free-trial)体验专业模式。
 
 <!-- ### 免费模式
 
