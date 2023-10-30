@@ -4,7 +4,7 @@ import {CardsForFeatures} from "../../src/pages/astro-theme/components/Features"
 
 ## 丰富模块
 
-工作效率革命: GPT AI Flow 专业模式将 AI 真正地融入内容创作: [点击这里](/docs/proudct/how-professional-mode-of-ai-flow-revolutionizes-content-creation)
+工作效率革命: GPT AI Flow 专业模式将 AI 真正地融入内容创作: [点击这里](/docs/intro/how-professional-mode-of-ai-flow-revolutionizes-content-creation)
 
 <CardsForFeatures />
 
