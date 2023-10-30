@@ -1,3 +1,11 @@
+---
+slug: 'discover-the-new-world-of-self-media-creation-ai-self-media-operation-assistant'
+tags: ['AI', '自媒体', '内容创作', '效率工具', '自媒体运营', '内容创作者']
+keywords: ['AI自媒体运营助手', '内容创作', '自媒体内容创作', 'AI内容创作工具', '效率提升', '多平台适应']
+description: 'AI自媒体运营助手为内容创作者提供无限的创作灵感和效率的提升。无论是博客、微博还是短视频脚本，都能快速提供符合各平台风格的文案。感受AI技术带来的效率革命，专注于更重要的创意过程。'
+image: '/img/pages/homePage/2023-10-17-img-3-homePage-two-feature-presentation.gif'
+---
+
 # 发现自媒体创作的新天地 - AI 自媒体运营助手，助力内容创作！
 
 视频介绍:[【超级干货】up 主最爱的 AI 工具基本使用手册，轻松创造有趣又有价值的视频内容！】](https://www.bilibili.com/video/BV1sN411i7Uh/?share_source=copy_web&vd_source=0ca81e735ba0b9ead65a22a060c06040)

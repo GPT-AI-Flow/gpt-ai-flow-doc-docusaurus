@@ -4,8 +4,6 @@ import React from 'react';
 import firstArticleImg from '../../../../blog/2023-09-19-18h00-职场必备：如何精准选择AI公文写作软件以提升工作效率和质量/img/2023-09-19-img-1-pexels-lisa-fotios-851213.jpg';
 // @ts-ignore
 import secondArticleImg from '../../../../blog/2023-08-11-塑造超级个体/img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg';
-// @ts-ignore
-import thirdArticleImg from '../../../../blog/2023-09-19-18h30-怎么利用AI赚钱,有哪些渠道/img/2023-09-19-img-5-pexels-geri-tech-5678243.jpg';
 
 import Container from './Container';
 
@@ -17,7 +15,14 @@ interface IArticle {
 }
 
 const Blog = () => {
-  const articles = [
+  const articles: IArticle[] = [
+    {
+      title: '自媒体内容创作流程优化： GPT AI Flow 让创作事半功倍 🚀',
+      img: '/img/pages/homePage/2023-10-17-img-3-homePage-two-feature-presentation.gif',
+      description:
+        '这篇文章详细介绍了如何使用大模型 AI Flow工具优化自媒体内容创作流程, 并提高互动率。本文详细解析了整个内容创作流程的优化过程, 从目标设定、受众分析、主题研究与构思、内容规划、内容框架设计到内容创作。',
+      openUrl: '/blog/optimize-self-media-content-creation-with-openai-ai-flow',
+    },
     {
       title: '职场必备：如何精准选择AI公文写作软件以提升工作效率和质量？',
       img: firstArticleImg.src,
@@ -31,13 +36,6 @@ const Blog = () => {
       description:
         '本文深入探索了AIGC与人类合作的无限可能性，阐述了这种合作如何能塑造出超级个体。我们的讨论涵盖了AIGC的工作原理，以及它如何通过增强个体的能力和效率来改变我们的生活和工作方式。',
       openUrl: '/blog/exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals',
-    },
-    {
-      title: '利用 AI 技术赚钱的机会与方法',
-      img: thirdArticleImg.src,
-      description:
-        '想要利用AI技术赚钱吗？本文为您介绍如何选择合适的行业、利用自媒体和AI工具吸引流量，以及流量变现的方法。了解利用AI技术赚钱的机会与方法，实现个人收入增长的可能性！',
-      openUrl: '/blog/how-to-make-money-with-ai-opportunities-channels',
     },
   ];
 
