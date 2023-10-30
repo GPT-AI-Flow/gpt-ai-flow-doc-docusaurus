@@ -21,24 +21,24 @@ const Testimonials = () => {
       content:
         '我最喜欢使用 GPT AI Flow 内的桌面端工具。它的便捷交互让我深深地喜欢上了它。不需要切换网页端的编辑方式, 让我在日常使用中感觉非常舒服~~',
     },
-    {
-      authorName: '首席芒果官',
-      authorImg:
-        '/img/avatars/2023-09-18-img-2-avatar-c97e376ec320d285fb5473a39198e17d3d280d4a.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
-      authorJob: '新媒体运营',
-      authorSourceUrl: 'https://space.bilibili.com/18673696',
-      content:
-        'GPT AI Flow 在一定程度上仍有待完善, 但它确实解决了自媒体内容创作的大部分难题。从悬浮交互窗口到专业模式, 这款工具为个体创作者带来了强大的便利。试用后, 我确实感受到了内容产出效率和互动率的显著提升。',
-    },
-    {
-      authorName: '雨声0611',
-      authorImg:
-        '/img/avatars/2023-09-18-img-4-e1a78d87bf73525cce97823a2ac91fe15dfd11d0.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
-      authorJob: '小红书内容运营',
-      authorSourceUrl: 'https://space.bilibili.com/3493122252212526',
-      content:
-        '我做内容运营那么久, 使用过各种辅助工具。但 GPT AI Flow 的专业模式真的让我省心了很多。与OpenAI相比, 它的模块使用更流畅, 而且无需“魔法”便能轻松上手。',
-    },
+    // {
+    //   authorName: '首席芒果官',
+    //   authorImg:
+    //     '/img/avatars/2023-09-18-img-2-avatar-c97e376ec320d285fb5473a39198e17d3d280d4a.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
+    //   authorJob: '新媒体运营',
+    //   authorSourceUrl: 'https://space.bilibili.com/18673696',
+    //   content:
+    //     'GPT AI Flow 在一定程度上仍有待完善, 但它确实解决了自媒体内容创作的大部分难题。从悬浮交互窗口到专业模式, 这款工具为个体创作者带来了强大的便利。试用后, 我确实感受到了内容产出效率和互动率的显著提升。',
+    // },
+    // {
+    //   authorName: '雨声0611',
+    //   authorImg:
+    //     '/img/avatars/2023-09-18-img-4-e1a78d87bf73525cce97823a2ac91fe15dfd11d0.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
+    //   authorJob: '小红书内容运营',
+    //   authorSourceUrl: 'https://space.bilibili.com/3493122252212526',
+    //   content:
+    //     '我做内容运营那么久, 使用过各种辅助工具。但 GPT AI Flow 的专业模式真的让我省心了很多。与OpenAI相比, 它的模块使用更流畅, 而且无需“魔法”便能轻松上手。',
+    // },
     // {
     //   authorName: 'NandyHuang',
     //   authorImg:
@@ -48,15 +48,15 @@ const Testimonials = () => {
     //   content:
     //     '自从使用了文案宣传模块, 我觉得品牌传播从未如此轻松。不仅提升了公司在社交媒体上的曝光率, 而且质量一直很稳定！',
     // },
-    {
-      authorName: '下不下雨-',
-      authorImg:
-        '/img/avatars/2023-09-18-img-3-8921c2cb20c4461b6ae6b8d18c37b48c9a99bd5f.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
-      authorJob: '某大厂产品经理',
-      authorSourceUrl: 'https://space.bilibili.com/6751348',
-      content:
-        '使用 GPT AI Flow 来帮助我撰写产品发布文案真的省时省力。它适用于大部分简单的场景, 但对于复杂内容, 我还是更偏向于自己动手。',
-    },
+    // {
+    //   authorName: '下不下雨-',
+    //   authorImg:
+    //     '/img/avatars/2023-09-18-img-3-8921c2cb20c4461b6ae6b8d18c37b48c9a99bd5f.jpg@160w_160h_1c_1s_!web-avatar-comment.avif',
+    //   authorJob: '某大厂产品经理',
+    //   authorSourceUrl: 'https://space.bilibili.com/6751348',
+    //   content:
+    //     '使用 GPT AI Flow 来帮助我撰写产品发布文案真的省时省力。它适用于大部分简单的场景, 但对于复杂内容, 我还是更偏向于自己动手。',
+    // },
     // {
     //   authorName: 's20011120',
     //   authorImg:
