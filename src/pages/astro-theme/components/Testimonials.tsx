@@ -157,9 +157,8 @@ const Testimonials = () => {
               <div className="aspect-auto p-8 border border-gray-100 rounded-3xl bg-white dark:bg-gray-800 dark:border-gray-700 shadow-2xl shadow-gray-600/10 dark:shadow-none">
                 <div className="flex gap-4">
                   <img
-                    key={keyVersion}
                     className="w-12 h-12 rounded-full"
-                    src={authorAvatar}
+                    src={`${authorAvatar}?v=${keyVersion}`}
                     alt="user avatar"
                     width="400"
                     height="400"
