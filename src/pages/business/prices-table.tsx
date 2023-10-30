@@ -324,8 +324,7 @@ const PricesTable = () => {
                           href="/download"
                         >
                           <span className="relative text-base font-semibold align-middle text-white dark:text-black">
-                            成为会员 <br />
-                            (应用内购买)
+                            成为会员 (<span className="w-max text-sm">应用内购买</span>)
                           </span>
                         </a>
                       </div>
@@ -356,8 +355,7 @@ const PricesTable = () => {
                       >
                         {/* <button className="relative flex h-11 w-full items-center justify-center px-6 absolute inset-0 rounded-full bg-primary dark:bg-white transition duration-300 hover:scale-105 active:duration-75 active:scale-95"> */}
                         <span className="relative text-base font-semibold align-middle text-white dark:text-black">
-                          成为会员 <br />
-                          (应用内购买)
+                          成为会员 (<span className="w-max text-sm">应用内购买</span>)
                         </span>
                         {/* </button> */}
                       </a>
@@ -429,10 +427,9 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max">
-                        {' '}
                         自定义指令集管理
                         <br />
-                        (导入/导出){' '}
+                        (导入/导出)
                       </span>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-2xl text-green-500">
@@ -504,12 +501,12 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-gray-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <a
-                        href="/docs/application-scenarios/introduction"
+                        href="/docs/intro/local-personal-document-assistant"
                         className="text-[#0c4a6e] dark:text-gray-200"
                         style={{ textDecoration: 'none' }}
                       >
-                        <span className="inline w-max"> 个人文档助手</span> (<span className="w-max text-sm">词条</span>
-                        )
+                        <span className="inline w-max"> 🔗 个人文档助手</span>
+                        <br /> (词条)
                       </a>
                     </td>
                     <td className="border border-gray-100 dark:border-gray-700 p-4 text-center text-base text-gray-700 dark:text-white">
