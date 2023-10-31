@@ -45,7 +45,13 @@ import ContactUs from "../9-contact-us.md"
 
 ### 多指令链条
 
+通过组合多个单一指令，获得一系列个输出结果链条。
+
+组合 `指令链`。
+
 ![](./img/4-proMode-presentation/2023-10-31-img-15-multiple-instruction-chains.gif)
+
+生成结果。
 
 ![](./img/4-proMode-presentation/2023-10-31-img-16-multiple-instruction-chains-2.gif)
 
