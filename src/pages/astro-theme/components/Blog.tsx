@@ -1,8 +1,6 @@
 import React from 'react';
 
 // @ts-ignore
-import firstArticleImg from '../../../../blog/2023-09-19-18h00-职场必备：如何精准选择AI公文写作软件以提升工作效率和质量/img/2023-09-19-img-1-pexels-lisa-fotios-851213.jpg';
-// @ts-ignore
 import secondArticleImg from '../../../../blog/2023-08-11-塑造超级个体/img/2023-08-03-img-1-Ft5UoU8OqnaOqDbOQtUlhkk5Fbcv.jpeg';
 
 import Container from './Container';
@@ -24,18 +22,18 @@ const Blog = () => {
       openUrl: '/blog/optimize-self-media-content-creation-with-openai-ai-flow',
     },
     {
-      title: '职场必备：如何精准选择AI公文写作软件以提升工作效率和质量？',
-      img: firstArticleImg.src,
-      description:
-        '了解如何精准选择AI公文写作软件以提高职场效率和写作质量。本文详解AI公文写作软件的主要优点，以及如何根据功能性与性能、用户评价和优质服务选择合适的产品。',
-      openUrl: '/blog/how-to-choose-AI-document-writing-software-effectively',
-    },
-    {
       title: '超级个体：探索 AIGC 与人类合作的无限可能',
       img: secondArticleImg.src,
       description:
         '本文深入探索了AIGC与人类合作的无限可能性，阐述了这种合作如何能塑造出超级个体。我们的讨论涵盖了AIGC的工作原理，以及它如何通过增强个体的能力和效率来改变我们的生活和工作方式。',
       openUrl: '/blog/exploring-unlimited-possibilities-of-aigc-collaboration-shaping-super-individuals',
+    },
+    {
+      title: '不止于文字：🔗 多指令链条，GPT AI Flow 专业模式的秘密武器，改变创作游戏规则',
+      img: '/assets/images/2023-10-31-img-7-proMode-explication-86bbe55782a8734ffefee2baaa91b921.png',
+      description:
+        '本文详细介绍了GPT AI Flow，一个专为内容创作者打造的AI工具，重点讲解了其专业模式和多指令链条功能，并举例说明了它如何帮助自媒体提升关注度和互动性，优化SEO，实现快速高质的内容生成。',
+      openUrl: '/blog/gpt-ai-flow-professional-mode-and-multi-instruction-chains',
     },
   ];
 
