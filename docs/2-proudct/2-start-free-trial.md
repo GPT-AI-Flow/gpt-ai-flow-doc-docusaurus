@@ -33,7 +33,7 @@
 - `免费版`和`工具版`需自备 [OpenAI key](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 - `模型版`开启试用后可直接正常使用
 
-如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/docs/proudct/start-free-trial)体验专业模式。
+如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/download)体验专业模式。
 
 ### 国内地区
 
@@ -68,6 +68,8 @@
 ## 开始使用
 
 ![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
+
+了解基本使用方式: [点击这里](/docs/proudct/basic-presentation)
 
 ## 联系我们
 

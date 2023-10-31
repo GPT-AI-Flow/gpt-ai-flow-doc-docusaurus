@@ -63,7 +63,7 @@ description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖�
 
 ### 自定义快捷键设置
 
-配合 [自定义指令集](/docs/proudct/user-guide-floating-window-commands-management#指令集) 使用，效率倍增！
+配合 [自定义指令集](/docs/proudct/basic-presentation#指令集) 使用，效率倍增！
 
 ![](./img/5-usage-and-shortcut/2023-10-31-img-1-set-customize-shortcut.gif)
 

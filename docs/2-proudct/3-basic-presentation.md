@@ -1,6 +1,6 @@
 ---
 title: 基本界面
-slug: user-guide-floating-window-commands-management
+slug: basic-presentation
 tags: [操作指南, 悬浮窗口, 指令集, 自定义指令集管理, 快捷键]
 keywords:
   [悬浮窗口操作, 指令集管理, 对话展示, 窗口大小设置, 自定义指令, 导入导出指令集, 重置内容, 保护个人信息, 视频教程]
