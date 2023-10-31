@@ -47,9 +47,9 @@ import Image from "@theme/IdealImage";
 
 ## 指令集
 
-在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](#floating-window) 与 [专业模式](/docs/proudct/proMode-presentation) 中使用。
+在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [`悬浮窗口`](#floating-window) 与 [`专业界面`](/docs/proudct/proMode-presentation) 中使用。
 
-![](./img/3-basic-presentation/2023-08-25-img-10-commands-management.png)
+![](./img/3-basic-presentation/2023-10-31-img-5-commands-set.gif)
 
 :::tip
 一定要记得最后点击 **'保存指令'** 按钮，以更新所有指令设置。
@@ -73,7 +73,8 @@ import Image from "@theme/IdealImage";
 
 ## 重置内容
 
-为保障用户的个人信息安全，我们将大部分设置内容存储在用户的本地电脑上。因此用户可以自主决定自己的数据处理方式。
+> 为保障用户的 `个人信息安全`，我们将大部分设置内容存储在 **用户的本地电脑** 上。  
+> 因此用户可以自主决定自己的数据处理方式。
 
 ### 清空对话
 
