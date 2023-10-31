@@ -92,7 +92,7 @@ function Feature(props: FeatureItem) {
   );
 }
 
-export default function HomepageFeatures(): JSX.Element {
+export default function HomePageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
