@@ -1,4 +1,13 @@
-# 免费试用
+---
+sidebar_label: 免费试用
+title: 'GPT AI Flow: 开启免费试用的完整步骤指南'
+slug: 'how-to-start-a-free-trial-of-gpt-ai-flow'
+tags: ['GPT AI Flow', '免费试用', '注册', '登录', '套餐选择', '专业模式']
+Keywords: ['GPT AI Flow', '免费试用', 'AI', '注册', '登录', '专业模式', '套餐', '开启试用']
+description: '这篇详细的指南将教你如何开启 GPT AI Flow 的免费试用。从下载和安装软件，到注册新用户，再到开启专业模式，每一步都有详细的解释和图片指引。'
+---
+
+# 开启免费试用的完整步骤
 
 本文将说明 GPT AI FLow 开启免费试用的方法。  
 软件安装: [点击这里](/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software)

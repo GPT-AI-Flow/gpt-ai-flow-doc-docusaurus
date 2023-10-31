@@ -1,5 +1,6 @@
 ---
-title: '安装指南'
+sidebar_label: 安装指南
+title: 'GPT AI Flow 软件：详细的下载、安装与注册指南'
 slug: 'detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software'
 tags: ['GPT AI Flow下载', '注册和使用教程', '操作系统需求', '套餐选择']
 Keywords: ['AI Flow软件下载', 'GPT AI Flow安装指南', '软件注册方法', 'Windows和Mac支持', '开设高效内容创作']
@@ -7,7 +8,7 @@ description: '包含详细步骤的 GPT AI Flow软件下载、安装与注册指
 # image: "GPT-ai-flow-software-installation-and-registration"
 ---
 
-# GPT AI Flow 软件：详细的下载、安装与注册指南
+# 详细的下载、安装与注册的完整步骤
 
 ## 下载 GPT AI Flow 软件，安装
 
