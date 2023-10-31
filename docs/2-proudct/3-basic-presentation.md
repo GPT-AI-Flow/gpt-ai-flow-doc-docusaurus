@@ -47,7 +47,7 @@ import Image from "@theme/IdealImage";
 
 ## 指令集
 
-在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](#floating-window) 与 [专业模式](/docs/intro/how-professional-mode-of-ai-flow-revolutionizes-content-creation) 中使用。
+在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [基本悬浮窗模式](#floating-window) 与 [专业模式](/docs/proudct/proMode-presentation) 中使用。
 
 ![](./img/3-basic-presentation/2023-08-25-img-10-commands-management.png)
 
@@ -82,18 +82,6 @@ import Image from "@theme/IdealImage";
 ### 重置指令集 与 重置所有本地资料
 
 ![](./img/3-basic-presentation/2023-08-25-img-13-reset-data.png)
-
-## 视频展示
-
-- 在设置窗口填写 OpenAI API Key，发起询问和搜索
-  - youtube: https://youtu.be/Y1d_Zkx_KaU
-- 通过快捷键，输入和搜索问题并使用复制按钮和对话框隐藏按钮
-  - youtube: https://youtu.be/wR25u6XEvVQ
-  - B 站: https://www.bilibili.com/video/BV1Gh4y1p7Yh/
-- 增加、修改 和 删除 指令集
-  - youtube: https://youtu.be/bjz4B_-9s3U
-- 重置对话框内容，重置指令集，重置所有本地数据资料
-  - youtube: https://youtu.be/Yuy46iTH7gs
 
 ## 联系我们
 
