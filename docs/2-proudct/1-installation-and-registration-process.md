@@ -30,7 +30,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-10-31-img-3-open-software-as-administrator.png)
 
-:::tip
+:::info
 在桌面看到这样的图标  
 ![](./img/1-registration-process/2023-10-30-img-6-gpt-ai-flow-software-icon.png)  
 按照上方操作以 `管理员` 身份启动。
