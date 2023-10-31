@@ -33,7 +33,8 @@ import ContactUs from "../9-contact-us.md"
 
 ## 应用案例
 
-更多使用案例: [点击这里](/docs/application-scenarios/introduction)
+更多使用案例: [点击这里](/docs/application-scenarios/introduction)  
+详细 `指令链` 操作: [点击这里](/docs/application-scenarios/seo-assistant)
 
 ## 联系我们
 
