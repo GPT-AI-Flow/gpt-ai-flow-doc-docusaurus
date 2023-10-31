@@ -52,7 +52,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-09-05-img-4-gpt-ai-flow-accessibility-permissions-in-macOS.png)
 
-开启免费试用: [点击这里](/docs/proudct/start-free-trial)
+开启免费试用: [点击这里](/docs/proudct/how-to-start-a-free-trial-of-gpt-ai-flow)
 
 ## 联系我们
 

@@ -47,7 +47,7 @@ import Image from "@theme/IdealImage";
 
 ## 指令集
 
-在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [`悬浮窗口`](#floating-window) 与 [`专业界面`](/docs/proudct/proMode-presentation) 中使用。
+在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [`悬浮窗口`](#floating-window) 与 [`专业界面`](/docs/proudct/gpt-ai-flow-pro-mode-usage-guide) 中使用。
 
 ![](./img/3-basic-presentation/2023-10-31-img-5-commands-set.gif)
 
