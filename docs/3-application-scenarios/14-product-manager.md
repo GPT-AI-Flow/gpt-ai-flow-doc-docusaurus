@@ -1,3 +1,5 @@
+import ContactUs from "../9-contact-us.md"
+
 # 产品经理
 
 ## 新产品版本发布
@@ -19,3 +21,7 @@ v0.1.29 产品版本:
 ## 产品模块编辑
 
 ![](./img/14-product-manager/2023-09-29-img-8-release-v0.1.29-feature-4.gif)
+
+## 联系我们
+
+<ContactUs/>

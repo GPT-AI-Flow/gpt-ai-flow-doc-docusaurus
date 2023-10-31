@@ -7,6 +7,8 @@ Keywords: ['GPT AI Flow', '免费试用', 'AI', '注册', '登录', '专业模�
 description: '这篇详细的指南将教你如何开启 GPT AI Flow 的免费试用。从下载和安装软件，到注册新用户，再到开启专业模式，每一步都有详细的解释和图片指引。'
 ---
 
+import ContactUs from "../9-contact-us.md"
+
 # 开启免费试用的完整步骤
 
 本文将说明 GPT AI FLow 开启免费试用的方法。  
@@ -82,13 +84,4 @@ description: '这篇详细的指南将教你如何开启 GPT AI Flow 的免费�
 
 ## 联系我们
 
-- 立即体验**7 天免费试用期**:
-  - [立即体验网页版](https://www.app.gptaiflow.com/login)
-  - [下载软件体验全部功能](/download)
-- 联系我们
-  - 联系邮箱: hello@gptaiflow.com
-  - 加入交流群: [点击这里](/communication-group)
-  - 产品反馈: [点击这里](https://wj.qq.com/s2/13154598/1770/)
-- 💬 有问题? 查看常见问题快速解决: [点击这里](/docs/proudct/gpt-ai-flow-guide-and-faq)
-
-感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！
+<ContactUs/>

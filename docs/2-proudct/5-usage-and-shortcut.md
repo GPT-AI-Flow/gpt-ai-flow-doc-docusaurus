@@ -6,6 +6,8 @@ keywords: [AI工具快捷键, 操作指南, 效率提升, 搜索工具, 自定�
 description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖了从基本操作到高效使用的所有快捷键技巧。每个步骤都配备了清晰易懂的示例图，让你更轻松地理解和应用每个快捷键。这是一篇一键操作提升效率的必备指南，快来看看吧！
 ---
 
+import ContactUs from "../9-contact-us.md"
+
 # AI 工具快捷键大全：一键操作提升效率的完整指南
 
 ## 基本使用
@@ -86,13 +88,4 @@ description: 这是一篇全面介绍AI工具快捷键应用的文章，涵盖�
 
 ## 联系我们
 
-- 立即体验**7 天免费试用期**:
-  - [立即体验网页版](https://www.app.gptaiflow.com/login)
-  - [下载软件体验全部功能](/download)
-- 联系我们
-  - 联系邮箱: hello@gptaiflow.com
-  - 加入交流群: [点击这里](/communication-group)
-  - 产品反馈: [点击这里](https://wj.qq.com/s2/13154598/1770/)
-- 💬 有问题? 查看常见问题快速解决: [点击这里](/docs/proudct/gpt-ai-flow-guide-and-faq)
-
-感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！
+<ContactUs/>
