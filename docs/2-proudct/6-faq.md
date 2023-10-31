@@ -7,6 +7,8 @@ description: 本篇文章详解如何使用 GPT AI Flow 工具和解决常见问
 # image: 此图片展示了 GPT AI Flow 工具的使用流程及界面，帮助用户更直观的理解如何使用这款AI工具，以及解决在使用过程中可能遇到的问题。
 ---
 
+import ContactUs from "../9-contact-us.md"
+
 # GPT AI Flow 工具使用指南及常见问题解答
 
 ## GPT AI Flow 工具 可以支持在国内使用吗 ？
@@ -95,13 +97,4 @@ description: 本篇文章详解如何使用 GPT AI Flow 工具和解决常见问
 
 ## 联系我们
 
-- 立即体验**7 天免费试用期**:
-  - [立即体验网页版](https://www.app.gptaiflow.com/login)
-  - [下载软件体验全部功能](/download)
-- 联系我们
-  - 联系邮箱: hello@gptaiflow.com
-  - 加入交流群: [点击这里](/communication-group)
-  - 产品反馈: [点击这里](https://wj.qq.com/s2/13154598/1770/)
-- 💬 有问题? 查看常见问题快速解决: [点击这里](/docs/proudct/gpt-ai-flow-guide-and-faq)
-
-感谢您选择 GPT AI Flow, 共同打造未来超级个体的必备工具 ！
+<ContactUs/>

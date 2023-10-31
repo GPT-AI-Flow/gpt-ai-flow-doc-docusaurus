@@ -1,3 +1,5 @@
+import ContactUs from "../9-contact-us.md"
+
 # 自媒体内容创作流程
 
 根据内容创作的流程，制定内容创作模型与指令，从 `目标设定`、`受众分析` 到 `主题研究与构思`，再到 `内容规划`、`框架设计` 和 `内容创作`，我们为您提供一站式服务，让您的创作过程更加高效。
@@ -12,3 +14,7 @@
 案例说明: [点击这里](/blog/optimize-self-media-content-creation-with-openai-ai-flow)
 
 ![](./img/3-xiaohongshu/2023-10-20-img-4-xiaohongshu-proMode.gif)
+
+## 联系我们
+
+<ContactUs/>

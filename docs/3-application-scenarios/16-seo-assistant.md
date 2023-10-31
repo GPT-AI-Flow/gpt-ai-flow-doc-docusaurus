@@ -1,3 +1,5 @@
+import ContactUs from "../9-contact-us.md"
+
 # SEO 助理
 
 ## 选择不同的模型支持
@@ -17,3 +19,7 @@
 `指令链` 的最后就是整个链条的最终结果，点击复制拿去最终结果，或者通过分享按钮，分享整个指令链结果的生成过程。
 
 ![](./img/16-seo-assistant/2023-10-31-img-12-seo-assistant-operation-3.gif)
+
+## 联系我们
+
+<ContactUs/>
