@@ -1,5 +1,5 @@
 ---
-title: '创作革命：大模型AI Flow专业模式与多指令链条'
+title: 不止于文字：🔗 多指令链条，GPT AI Flow 专业模式的秘密武器，改变创作游戏规则
 slug: '大模型-AI-Flow-professional-mode-and-multi-instruction-chains'
 tags: ['大模型 AI Flow', '内容创作', 'AI工具', '专业模式', '多指令链条', 'SEO', '自媒体']
 keywords:
@@ -19,7 +19,7 @@ keywords:
 description: '本文详细介绍了大模型 AI Flow，一个专为内容创作者打造的AI工具，重点讲解了其专业模式和多指令链条功能，并举例说明了它如何帮助自媒体提升关注度和互动性，优化SEO，实现快速高质的内容生成。'
 ---
 
-# 创作革命：GPT AI Flow 专业模式与多指令链条
+# 不止于文字：🔗 多指令链条，GPT AI Flow 专业模式的秘密武器，改变创作游戏规则
 
 在 V2EX 的各位内容创作者，你们是否曾为内容创作的繁琐与时间消耗而苦恼？如何在保持创作原汁原味的同时，提高效率和质量？我在这里要介绍一个工具——GPT AI Flow。
 
