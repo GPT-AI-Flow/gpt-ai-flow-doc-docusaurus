@@ -41,9 +41,9 @@ import Image from "@theme/IdealImage";
 
 ## 快捷键
 
-使用与快捷键: [点击这里](/docs/proudct/ai-tool-shortcut-ultimate-guide)
+快捷键设置与使用: [点击这里](/docs/proudct/ai-tool-shortcut-ultimate-guide#高效使用)
 
-![](./img/3-basic-presentation/2023-08-25-img-14-shorcut-settings-interface.png)
+![](./img/5-usage-and-shortcut/2023-10-31-img-2-use-customize-shortcut-to-read-english-news.gif)
 
 ## 指令集
 
