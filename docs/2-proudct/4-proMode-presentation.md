@@ -8,9 +8,15 @@
 
 ## 专业界面
 
+### 布局介绍
+
 ![](./img/4-proMode-presentation/2023-10-31-img-7-proMode-explication.png)
 
+### 二次微调场景与指令
+
 ![](./img/4-proMode-presentation/2023-10-31-img-8-proMode-explication-2.png)
+
+### 结果编辑
 
 ![](./img/4-proMode-presentation/2023-10-31-img-9-proMode-explication-3.png)
 
