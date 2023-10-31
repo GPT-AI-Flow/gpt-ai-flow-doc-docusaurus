@@ -31,11 +31,46 @@ import ContactUs from "../9-contact-us.md"
 
 ![](./img/4-proMode-presentation/2023-10-31-img-9-proMode-explication-3.png)
 
+## 指令链
+
+专业界面是以 `指令链` 为核心构建的，这意味着它旨在提供一个一体化的、高效率的操作环境，您可以轻松地根据需要编辑和修改内容，并根据个人喜好自由扩展其功能。简而言之，我们希望这个界面能够让您的使用体验既个性化又高效。
+
+### 单指令链条
+
+通过单个指令生成帖子内容。
+
+![](./img/4-proMode-presentation/2023-10-31-img-13-instruction-chain.gif)
+
+![](./img/4-proMode-presentation/2023-10-31-img-14-instruction-chain-2.gif)
+
+### 多指令链条
+
+![](./img/4-proMode-presentation/2023-10-31-img-15-multiple-instruction-chains.gif)
+
+![](./img/4-proMode-presentation/2023-10-31-img-16-multiple-instruction-chains-2.gif)
+
+![](./img/4-proMode-presentation/2023-10-31-img-17-multiple-instruction-chains-3.gif)
+
+### 优化指令链
+
+修改删掉 `指令链` 第三条指令，优化第二条指令结果。
+
+![](./img/4-proMode-presentation/2023-10-31-img-18-multiple-instruction-chains-4.gif)
+
+删掉补充信息，避免混淆刚刚修改好的第二个指令结果，重新生成第三个指令结果。
+
+![](./img/4-proMode-presentation/2023-10-31-img-19-multiple-instruction-chains-5.gif)
+
+根据需要，通过多次生成或自定义指令，我们便能够得到自己想要的最好结果。
+
+![](./img/4-proMode-presentation/2023-10-31-img-20-multiple-instruction-chains-6.gif)
+
 ## 应用案例
 
 更多使用案例: [点击这里](/docs/application-scenarios/introduction)  
-详细 `指令链` 操作: [点击这里](/docs/application-scenarios/seo-assistant)
+`指令链` 在 SEO 助理中的使用: [点击这里](/docs/application-scenarios/seo-assistant)
 
 ## 联系我们
 
 <ContactUs/>
+```
