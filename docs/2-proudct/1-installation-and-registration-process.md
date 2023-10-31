@@ -11,11 +11,10 @@ description: '包含详细步骤的 GPT AI Flow软件下载、安装与注册指
 
 ## 下载 GPT AI Flow 软件，安装
 
-打开下载链接，根据自己的系统版本下载对应链接。
+打开下载链接，根据自己的系统版本下载对应链接。  
+下载软件体验全部功能: [点击这里](/download)
 
-下载链接: [点击这里](/download)
-
-[![](./img/1-registration-process/2023-08-25-img-5-download-page.png)](/download)
+![](./img/1-registration-process/2023-08-25-img-5-download-page.png)
 
 下载完成后，双击程序安装即可。
 
@@ -26,10 +25,16 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 ![product windows installation 1](./img/1-registration-process/2023-08-06-img-9-installation-for-windows-1.png)
 ![product windows installation 2](./img/1-registration-process/2023-08-06-img-10-installation-for-windows-2.png)
 
-在桌面看到应用后，双击打开。  
+在桌面看到 `GPT AI Flow` 应用后，双击打开。  
 某些特殊的功能需要在首次运行时，点击鼠标右键，选择以 `管理员` 的身份运行应用。
 
-![](./img/1-registration-process/2023-09-05-img-5-gpt-ai-flow-accessibility-permissions-in-windows.jpeg)
+![](./img/1-registration-process/2023-10-31-img-3-open-software-as-administrator.png)
+
+:::tip
+在桌面看到这样的图标  
+![](./img/1-registration-process/2023-10-30-img-6-gpt-ai-flow-software-icon.png)  
+按照上方操作以 `管理员` 身份启动。
+:::
 
 ### MacOS 系统环境
 
@@ -46,26 +51,7 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-09-05-img-4-gpt-ai-flow-accessibility-permissions-in-macOS.png)
 
-## 注册登录用户
-
-![](./img/1-registration-process/2023-08-25-img-6-gpt-ai-flow-register-and-login-user.png)
-
-成功登录账户后，软件会提示重启软件的提示框，点击 `确认`。
-
-![](./img/1-registration-process/2023-09-21-img-2-restart-software.png)
-
-## 套餐选择
-
-查看套餐区别: [点击这里](/business/prices-table)
-
-- `免费版`和`工具版`需自备 [OpenAI key](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
-- `模型版`开启试用后可直接正常使用
-
-如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/docs/proudct/start-free-trial)体验专业模式。
-
-## 开始使用
-
-![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
+开启免费试用: [点击这里](/docs/proudct/start-free-trial)
 
 ## 联系我们
 

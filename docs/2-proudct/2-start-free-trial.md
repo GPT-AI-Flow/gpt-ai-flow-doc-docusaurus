@@ -1,6 +1,7 @@
 # 免费试用
 
-本文将说明 GPT AI FLow 开启免费试用的方法。
+本文将说明 GPT AI FLow 开启免费试用的方法。  
+软件安装: [点击这里](/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software)
 
 ## 打开软件注册界面
 
@@ -24,6 +25,15 @@
 ![](./img/2-start-free-trial/2023-10-30-img-8-login.gif)
 
 ## 开启免费试用
+
+### 套餐选择
+
+查看套餐区别: [点击这里](/business/prices-table)
+
+- `免费版`和`工具版`需自备 [OpenAI key](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
+- `模型版`开启试用后可直接正常使用
+
+如果你是对内容创作有高度需求的用户，请尝试开启[免费试用](/docs/proudct/start-free-trial)体验专业模式。
 
 ### 国内地区
 
@@ -54,6 +64,10 @@
 
 想要体验专业模式下的全部模块，您可以进入设置界面，选择“专业模式”选项，并开启 <a href="/download" style={{color: "#3875f6", fontSize: "1.2rem", fontWeight: "bolder", textDecoration: "none" }}>7 天免费试用期</a>。这将允许您在有限的时间内免费体验所有的专业功能。
 :::
+
+## 开始使用
+
+![](./img/1-registration-process/2023-08-06-img-17-gpt-ai-flow-show.gif)
 
 ## 联系我们
 
