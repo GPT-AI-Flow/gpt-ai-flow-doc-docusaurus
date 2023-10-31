@@ -20,7 +20,7 @@
 
 ![](./img/4-proMode-presentation/2023-10-31-img-9-proMode-explication-3.png)
 
-### 应用案例
+## 应用案例
 
 更多使用案例: [点击这里](/docs/application-scenarios/introduction)
 
