@@ -53,7 +53,7 @@ import ContactUs from "../9-contact-us.md"
 
 ### 页面使用
 
-深入了解如何轻松掌控创作工具的全方位功能，解锁您的创作潜力: [点击这里](#)
+深入了解如何轻松掌控创作工具的全方位功能，解锁您的创作潜力: [点击这里](/docs/proudct/gpt-ai-flow-pro-mode-usage-guide)
 
 ![](./img/2-proMode-presentation/2023-09-21-img-4-proMode-interface.png)
 
