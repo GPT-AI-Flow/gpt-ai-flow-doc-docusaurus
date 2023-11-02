@@ -64,7 +64,7 @@ import ContactUs from "../9-contact-us.md"
 
 ![](./img/4-proMode-presentation/2023-11-02-img-2-proMode-multiple-commands-chain-2.gif)
 
-### 将第二工作区的结果复制到第工作区
+### 将第二工作区的结果复制到第三工作区
 
 点击第二工作区右侧的 `复制` 按钮，将结果作为第三工作区的 `补充信息`，点击 `获取`。
 
