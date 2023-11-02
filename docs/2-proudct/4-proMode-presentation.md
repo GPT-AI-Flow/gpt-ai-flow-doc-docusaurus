@@ -46,7 +46,7 @@ import ContactUs from "../9-contact-us.md"
 
 ![](./img/4-proMode-presentation/2023-10-31-img-9-proMode-explication-3.png)
 
-## 指令链
+## 半自动指令链
 
 专业界面是以 `指令链` 为核心构建的，这意味着它旨在提供一个一体化的、高效率的操作环境，您可以轻松地根据需要编辑和修改内容，并根据个人喜好自由扩展其功能。简而言之，我们希望这个界面能够让您的使用体验既个性化又高效。
 
@@ -85,6 +85,48 @@ import ContactUs from "../9-contact-us.md"
 根据需要，通过多次生成或自定义指令，我们便能够得到自己想要的最好结果。
 
 ![](./img/4-proMode-presentation/2023-10-31-img-20-multiple-instruction-chains-6.gif)
+
+## 手动实现灵活的指令链
+
+如果对上面那种自动化的调取的操作觉得比较难操作，我们能够手动去设置一个手动版本的指令链。
+
+### 将指令链分散到多个工作区
+
+将密集指令链分散为多工作区，运行 `生成小红书内容` 的自定义指令。
+
+![](./img/4-proMode-presentation/2023-11-02-img-1-proMode-multiple-commands-chain.gif)
+
+获得 `生成小红书内容` 的 `自定义指令` 结果。
+
+![](./img/4-proMode-presentation/2023-11-02-img-2-proMode-multiple-commands-chain-2.gif)
+
+### 将第二工作区的结果复制到第工作区
+
+点击第二工作区右侧的 `复制` 按钮，将结果作为第三工作区的 `补充信息`，点击 `获取`。
+
+![](./img/4-proMode-presentation/2023-11-02-img-3-proMode-multiple-commands-chain-3.gif)
+
+获得 `小红书: Emoji 化内容` 的 `输出指令` 结果。
+
+![](./img/4-proMode-presentation/2023-11-02-img-4-proMode-multiple-commands-chain-4.gif)
+
+### 优化手动指令链
+
+#### 编辑优化 `指令` 结果
+
+有时候，AI 并不能提供给我们文案的最佳答案，因此经常地我们需要在结果中直接编辑与优化结果。
+
+![](./img/4-proMode-presentation/2023-11-02-img-5-proMode-multiple-commands-chain-5.gif)
+
+![](./img/4-proMode-presentation/2023-11-02-img-6-proMode-multiple-commands-chain-6.gif)
+
+#### 更新补充信息，重新 `获取` 结果
+
+如果觉得当前结果不太好，修改 `补充信息`，再次点击单一工作区的 `获取` 按钮 实现重新生成结果。
+
+![](./img/4-proMode-presentation/2023-11-02-img-7-proMode-multiple-commands-chain-7.gif)
+
+![](./img/4-proMode-presentation/2023-11-02-img-8-proMode-multiple-commands-chain-8.gif)
 
 ## 应用案例
 
