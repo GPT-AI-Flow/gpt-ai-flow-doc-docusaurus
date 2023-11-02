@@ -13,6 +13,8 @@ import ContactUs from "../9-contact-us.md"
 
 欢迎深入了解 GPT AI Flow 专业模式的使用方法。在这个页面上，我们将向您展示每个关键使用技巧，确保您可以充分利用这些功能来优化您的内容创作过程。
 
+专业模式是什么？[点击这里](/docs/intro/how-professional-mode-of-ai-flow-revolutionizes-content-creation)
+
 ## 打开专业模式界面
 
 在我们的专业界面中，你可以发现 `沟通助理`、`博客文案`、`小红书达人`、`AI 助理`、`评论管理`、`职业助理`、`up 主`、`产品经理`、`营销助理` 和 `SEO 助理` 等众多模块，每个模块下也会有不同的场景细分，并且我们还在不断努力拓展，未来它们将变得越来越丰富。
