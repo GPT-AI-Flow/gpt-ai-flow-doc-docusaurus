@@ -1,12 +1,17 @@
+import Image from "@theme/IdealImage";
 import ContactUs from "../9-contact-us.md"
 
 # 小红书达人
 
+## 实操 ✨ 如何用 AI 打造爆款小红书护肤帖
+
+<iframe src="//player.bilibili.com/player.html?aid=920448706&bvid=BV1Fu4y177o3&cid=1319631924&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
+
 ## 简介
 
-根据内容创作的流程，制定内容创作模型与指令，从 `目标设定`、`受众分析` 到 `主题研究与构思`，再到 `内容规划`、`框架设计` 和 `内容创作`，我们为您提供一站式服务，让您的创作过程更加高效。
+<Image img={require("./img/2-xiaoHongShu/2023-11-02-img-13-xiaohongshu-with-ai.png")} style={{ width: 300 }} />
 
-![](./img/2-xiaoHongShu/2023-11-02-img-13-DALL·E%202023-11-02%2019.07.46%20-%20Photo_%20A%20bold%20red%20and%20white%20backdrop.%20The%20'Little%20Red%20Book'%20logo%20dominates%20the%20center.%20To%20the%20left,%20there's%20a%20graphic%20of%20brainwaves%20denoting%20AI's%20infl.png)
+根据内容创作的流程，制定内容创作模型与指令，从 `目标设定`、`受众分析` 到 `主题研究与构思`，再到 `内容规划`、`框架设计` 和 `内容创作`，我们为您提供一站式服务，让您的创作过程更加高效。
 
 - **目标设定**：帮助您明确内容创作的目标，提供更具针对性的创作指导。
 - **受众分析**：了解您的受众群体，为您的内容创作提供更精准的受众定位。

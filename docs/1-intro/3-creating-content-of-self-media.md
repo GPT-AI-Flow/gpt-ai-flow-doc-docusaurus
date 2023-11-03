@@ -1,10 +1,15 @@
+import Image from "@theme/IdealImage";
 import ContactUs from "../9-contact-us.md"
 
 # 自媒体内容创作流程
 
+## 揭秘小红书营销大师课：用 AI 流量神器轻松打造爆款护肤内容！
+
+<iframe src="//player.bilibili.com/player.html?aid=450444443&bvid=BV1Pj411Y7ZF&cid=1319602565&p=1" scrolling="no" border="0" frameBorder="no" framespacing="0" allowFullScreen> </iframe>
+
 根据内容创作的流程，制定内容创作模型与指令，从 `目标设定`、`受众分析` 到 `主题研究与构思`，再到 `内容规划`、`框架设计` 和 `内容创作`，我们为您提供一站式服务，让您的创作过程更加高效。
 
-![](./img/3-creating-content-of-self-media/2023-11-02-img-12-DALL·E%202023-11-02%2019.06.40%20-%20Photo%20of%20a%20marketing%20poster%20for%20a%20'Xiaohongshu%20Marketing%20Masterclass'%20with%20a%20vibrant%20red%20and%20white%20background.%20In%20the%20center,%20the%20Xiaohongshu%20logo%20is%20.png)
+<Image img={require("./img/3-creating-content-of-self-media/2023-11-02-img-12-xiaohongshu-with-ai.png")} style={{ width: 300 }} />
 
 - **目标设定**：帮助您明确内容创作的目标，提供更具针对性的创作指导。
 - **受众分析**：了解您的受众群体，为您的内容创作提供更精准的受众定位。
