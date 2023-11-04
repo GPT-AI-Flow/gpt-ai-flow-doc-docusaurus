@@ -18,7 +18,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="mt-8 text-gray-700 dark:text-gray-300">
-              📝 从灵感到实施，从笔记到成品——您的数字化伙伴，让每一步都更高效。
+              📝 从灵感到实施，从笔记到成品——您的智能数字伙伴，让每一步都高效。
             </p>
             <div className="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
               <a
