@@ -13,7 +13,8 @@ const HeroSection = () => {
         <div className="relative pt-36 ml-auto">
           <div className="lg:w-2/3 text-center mx-auto">
             <h1 className="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">
-              🚀 <span className="text-primary dark:text-white">自媒体创业加速器</span>: 让AI成为您内容实现的翅膀
+              🚀 <span className="text-primary dark:text-white">自媒体</span>创作加速器: 让 AI 助力打造
+              <span className="text-primary dark:text-white">个人影响力</span>
             </h1>
 
             <p className="mt-8 text-gray-700 dark:text-gray-300">
