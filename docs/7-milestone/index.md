@@ -4,6 +4,10 @@ draft: true
 
 # 里程碑
 
+## Google Search 达到 30 次点击
+
+![](./img/2023-11-09-img-6-gpt-ai-flow-reached-30-click.png)
+
 ## Google Search 达到 15 次点击
 
 ![](./img/2023-10-28-img-1-gpt-ai-flow-reached-15-click.png)
