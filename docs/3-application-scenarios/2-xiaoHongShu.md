@@ -20,19 +20,19 @@ import ContactUs from "../9-contact-us.md"
 - **内容框架设计**：为您的内容提供合理的框架设计，使其结构更清晰，易读性更强。
 - **内容创作**：基于以上分析和规划，最终生成具有吸引力和影响力的内容。
 
-![](./img/2-xiaoHongShu/2023-10-20-img-4-xiaohongshu-proMode.gif)
+![](./img/2-xiaoHongShu/2023-12-07-img-7-proMode-presentation-xiaohongshu.gif)
 
-## 发布一篇活动帖子
+## 活动内容创作信息
 
-活动信息
-
-![](./img/2-xiaoHongShu/2023-10-24-img-1-follow-paris-activity-la-rentree-etudiante-de-paris.png)
+![](./img/2-xiaoHongShu/2023-12-07-img-8-proMode-presentation-xiaohongshu-activity-L-art-des-charpentiers-japonais-Au-c-ur-de-l-architecture-en-bois-traditionnelle.png)
 
 ### 目标设定
 
-![](./img/2-xiaoHongShu/2023-10-24-img-2-follow-paris-activity-la-rentree-etudiante-de-paris-demo-targetSetting.gif)
+![](./img/2-xiaoHongShu/2023-12-07-img-9-proMode-presentation-xiaohongshu-01-targetSetting.gif)
 
-![](./img/2-xiaoHongShu/2023-10-24-img-3-follow-paris-activity-la-rentree-etudiante-de-paris-demo-targetSetting-2.png)
+最终结果
+
+![](./img/2-xiaoHongShu/2023-12-07-img-9-proMode-presentation-xiaohongshu-01-targetSetting.png)
 
 <!-- ```text
 具体的SMART目标：
