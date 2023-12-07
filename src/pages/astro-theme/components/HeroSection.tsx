@@ -56,9 +56,15 @@ const HeroSection = () => {
               <div className="text-left p-2">
                 <h6 className="text-lg font-semibold text-gray-700 dark:text-white">见证真实转变 🦋</h6>
                 <p className="mt-2 text-gray-500">
-                  巴黎去哪玩在短短一个月里在小红书上的
-                  <b>观看量增长 70%, 互动量超过飙升 200%, 笔记涨粉转化达 171%, </b>
-                  您也能实现出类拔萃的成绩！
+                  <a
+                    href="/docs/application-scenarios/user-testimonial"
+                    className="text-gray-500 hover:text-gray-600"
+                    style={{ textDecoration: 'none' }}
+                  >
+                    巴黎去哪玩在短短一个月里在小红书上的
+                    <b>观看量增长 70%, 互动量超过飙升 200%, 笔记涨粉转化达 171%, </b>
+                    您也能实现出类拔萃的成绩！
+                  </a>
                 </p>
               </div>
             </div>
