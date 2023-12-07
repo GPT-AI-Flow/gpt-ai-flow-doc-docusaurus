@@ -7,7 +7,7 @@ import ContactUs from "../9-contact-us.md"
 
 ### 小红书达人
 
-[巴黎去哪玩 「Follow Paris」(2023.12.07)](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf) 在小红书平台的关注数，仅在一个月内便观看量增长了 70%。您也有机会创造如此佳绩！
+[巴黎去哪玩 「Follow Paris」(2023.12.07)](https://www.xiaohongshu.com/user/profile/56cf33c550c4b408633787cf) 在小红书平台的关注数，仅在一个月内便观观看量增长 70%，互动量飙升超过 200%，笔记涨粉转化达 171%。您也有机会创造如此佳绩！
 
 ![](./img/17-user-testimonial/followparis/2023-12-07-img-15-xiaoHongShu-followparis-page.png)
 
