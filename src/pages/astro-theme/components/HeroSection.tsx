@@ -61,7 +61,7 @@ const HeroSection = () => {
                     className="text-gray-500 hover:text-gray-600"
                     style={{ textDecoration: 'none' }}
                   >
-                    巴黎去哪玩在短短一个月里在小红书上的
+                    巴黎去哪玩在短短一个月里小红书
                     <b>观看量增长 70%, 互动量超过飙升 200%, 笔记涨粉转化达 171%, </b>
                     您也能实现出类拔萃的成绩！
                   </a>
