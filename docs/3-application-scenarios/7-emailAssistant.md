@@ -10,6 +10,8 @@ import ContactUs from "../9-contact-us.md"
 
 ![](./img/7-emailAssistant/2023-12-07-img-28-proMode-careerManager-emailAssistant.gif)
 
+![](./img/7-emailAssistant/2023-12-07-img-31-proMode-careerManager-emailAssistant-4.gif)
+
 ## 调整邮件语言风格
 
 ![](./img/7-emailAssistant/2023-12-07-img-29-proMode-careerManager-emailAssistant-2.gif)
