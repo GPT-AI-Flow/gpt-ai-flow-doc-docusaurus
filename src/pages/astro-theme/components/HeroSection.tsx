@@ -55,8 +55,8 @@ const HeroSection = () => {
               <div className="text-left p-2">
                 <h6 className="text-lg font-semibold text-gray-700 dark:text-white">见证真实转变 🦋</h6>
                 <p className="mt-2 text-gray-500">
-                  众多使用者都已经感受到了创意加速器带来的变革。就像“巴黎去哪玩”在短短一个月里在小红书上的关注度增长了
-                  40%那样，您也能实现出类拔萃的成绩！
+                  众多使用者都已经感受到了创意加速器带来的变革。就像“巴黎去哪玩”在短短一个月里在小红书上的观看量增长
+                  70%，您也能实现出类拔萃的成绩！
                 </p>
               </div>
             </div>
