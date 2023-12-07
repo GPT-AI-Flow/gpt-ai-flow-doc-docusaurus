@@ -43,20 +43,22 @@ const HeroSection = () => {
               <div className="text-left p-2">
                 <h6 className="text-lg font-semibold text-gray-700 dark:text-white">创意无止境 🖋️ </h6>
                 <p className="mt-2 text-gray-500">
-                  无论是独特的标题、文章布局或是有吸引力的营销文案，创意加速器都能为您提供精准的建议，让每个创意得以完美呈现。
+                  无论是独特的标题、文章布局或是有吸引力的营销文案，创意加速器都能为您<b>提供精准的建议</b>
+                  ，让每个创意得以完美呈现。
                 </p>
               </div>
               <div className="text-left p-2">
                 <h6 className="text-lg font-semibold text-gray-700 dark:text-white">每位创作者的首选 🌟</h6>
                 <p className="mt-2 text-gray-500">
-                  从刚入门的新手到经验丰富的大咖，创意加速器都能助您轻松制定和完善高水平的内容。
+                  <b>从刚入门的新手到经验丰富的大咖</b>，创意加速器都能助您轻松制定和完善高水平的内容。
                 </p>
               </div>
               <div className="text-left p-2">
                 <h6 className="text-lg font-semibold text-gray-700 dark:text-white">见证真实转变 🦋</h6>
                 <p className="mt-2 text-gray-500">
-                  众多使用者都已经感受到了创意加速器带来的变革。就像“巴黎去哪玩”在短短一个月里在小红书上的观看量增长
-                  70%，您也能实现出类拔萃的成绩！
+                  巴黎去哪玩在短短一个月里在小红书上的
+                  <b>观看量增长 70%, 互动量超过飙升 200%, 笔记涨粉转化达 171%, </b>
+                  您也能实现出类拔萃的成绩！
                 </p>
               </div>
             </div>
