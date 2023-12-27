@@ -10,7 +10,7 @@ authors: [xiaoka]
 
 给予目标市场的研究和数据分析，对典型目标用户虚构角色，包含用户的基本信息(性别、年龄、职业、学历、收入)、行为特征(朝九晚五、工作狂、经常出差)、需求和目标(要解决某个难题)，有助于理解和满足目标用户的需求。
 
-### 2. KOL(Key Opinion Leader) 关键意见领袖
+### 2. KOL (Key Opinion Leader) 关键意见领袖
 
 在某个特定领域拥有被证实的经验和专业能力的人。
 
@@ -20,11 +20,11 @@ authors: [xiaoka]
 - Blogger 博客博主
 - Podcaster 播客
 
-### 3. KOC(Key Opinion Consumer) 关键意见消费者
+### 3. KOC (Key Opinion Consumer) 关键意见消费者
 
 能够为产品/服务作出令人信服的测试或体验的消费者，这能够带动和出发其他潜在消费者的购买行为。
 
-### 4. MCN(Muti-Channel Network)
+### 4. MCN (Muti-Channel Network) {#MCN}
 
 一个与多个频道/内容创作者工作的公司/商业实体，目的是帮助合作者在平台上获得成功。MCN 能够帮助网红持续输出没内容，让网红获得更高的曝光率和流量，获得优质带货能力。
 
@@ -98,7 +98,7 @@ authors: [xiaoka]
 - Action: 建立一个网站或落地页，产品可以轻松购买
 - Share: 提高客户满意度 + 提供激励措施
 
-### 8. LTV(Life Time Value) 用户生命周期价值
+### 8. LTV (Life Time Value) 用户生命周期价值
 
 用户从使用产品到最后离开的全流程周期内所贡献的价值，用户生命周期价值影响公司的营销预算，资源分配，盈利率和预期目标相关的公司决策。
 
@@ -148,6 +148,36 @@ authors: [xiaoka]
 ![](https://www.productplan.com/uploads/pyramid-300.png)
 
 你的产品和市场能够相互匹配契合，即: 公司能够有足够的目标客户大量购买、使用公司的的产品，并告诉其他人，足以维持增长和盈利能力。
+
+## 媒体内容类
+
+### 11. UGC (User Generated Content) 用户生产内容
+
+### 12. PGC (Professional Generated Content) 专家生产内容
+
+### 13. OGC (Occupationally Generated Content) 职业生产内容
+
+### 14. IP (Intellectual Property) 知识产权
+
+### 15. CP (Content Provider) 内容提供商
+
+### 16. ACG (Animation, Comics, Games) 动画、漫画、游戏
+
+### 17. 新媒体
+
+### 18. 自媒体
+
+### 19. 社会化媒体
+
+### 20. SNS (Social Networking Service) 社交网站
+
+### 21. 门户网站
+
+### 22. 垂直门户
+
+### 23. IM (Instant Message) 即时通讯
+
+### 24. [MCN (Muti-Channel Network)](#MCN)
 
 ## 参考资料
 
