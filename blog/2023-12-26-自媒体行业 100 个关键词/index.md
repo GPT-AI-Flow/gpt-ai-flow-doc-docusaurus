@@ -24,7 +24,9 @@ authors: [xiaoka]
 
 能够为产品/服务作出令人信服的测试或体验的消费者，这能够带动和出发其他潜在消费者的购买行为。
 
-### 4. MCN (Muti-Channel Network) {#MCN}
+<!-- truncate -->
+
+### 4. [MCN (Muti-Channel Network)](#MCN-2) {#MCN}
 
 一个与多个频道/内容创作者工作的公司/商业实体，目的是帮助合作者在平台上获得成功。MCN 能够帮助网红持续输出没内容，让网红获得更高的曝光率和流量，获得优质带货能力。
 
@@ -153,31 +155,135 @@ authors: [xiaoka]
 
 ### 11. UGC (User Generated Content) 用户生产内容
 
+用户生成内容（也称为 UGC 或消费者生成内容）是由客户创作并在社交媒体或其他渠道上发布的原创、与品牌相关的内容。
+
+**UGC 以许多形式呈现**，包括
+
+- 图像
+- 视频
+- 社交媒体内容
+- 用户证词/推荐
+- 产品评论
+- 直播流
+- 博客文章
+
+**UGC 内容来自哪里？**
+
+- 顾客: 用户拆箱视频
+- 忠实粉丝: 适合联系并请求特定的 UGC 内容
+- 员工: 员工打包/制作订单的照片/视频，团队成员谈论为什么他们喜欢在公司工作。这些幕后内容有助于建立品牌认同，并通过社交和广告展示真实性
+- UCG 创作者: 这些内容看起来很真实，但实际上旨在展示特定的商业或产品。UGC 创作者并不是创作传统的自然流量 UGC，而是受品牌付费创建内容，模拟传统的 UGC。
+
+**为什么 UGC 内容很重要？**
+
+- 提高品牌/产品/服务的真实可靠性
+- 帮助建立品牌忠诚度并扩大社区
+- 可作为信任背书
+- 增加转化率并影响购买决策
+- 内容灵活且适用多场景
+- 比网红营销、专家营销更划算
+- 可与社交媒体的购物流中协同工作
+
+**UGC 案例**
+
+- GoPro: https://www.youtube.com/watch?v=x76VEPXYaI0
+- LuluLemon: https://www.instagram.com/p/CVV-q-PvOGx/?utm_source=ig_embed&utm_campaign=loading
+- La Croix: https://www.instagram.com/p/CW8jpdTBfqW/?utm_source=ig_embed&utm_campaign=loading
+- Well Traveled: https://www.instagram.com/p/CXEwDIaPIA7/?utm_source=ig_embed&utm_campaign=loading&img_index=2
+- Copa90: https://blog.hootsuite.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-12-at-5.18.30-PM.png
+
+**用户生成内容技巧**
+
+- 始终请求用户许可
+- 给用户原作者表示致谢: 在帖子中直接标注他们，并指出你正在使用他们的视觉素材/文字，始终要表示感谢
+- 请说明你想要什么内容: UGC 创作者希望分享你的内容，但可能不清楚什么内容是你想要的
+- 制定策略并设定目标: 你想在什么平台获得什么内容，达到什么效果？增长粉丝、增长点赞、增加评论转发？
+
 ### 12. PGC (Professional Generated Content) 专家生产内容
+
+PGC 是由专业人士创作的内容，例如营销机构、社交网络名人或品牌代表。PGC 旨在与品牌的宣传信息和目标密切契合。
+
+![](https://p1-tt.byteimg.com/origin/pgc-image/4d2d75ebf56f412888c615c2534cc52d?from=pc) <!-- ./img/2023-12-27-img-4-PGC -->
 
 ### 13. OGC (Occupationally Generated Content) 职业生产内容
 
+由公司雇佣的人去生产与公司相关的内容就是 OGC，这与 PGC 中专业人士想要对某个公司/品牌做评价的不同。
+
+例如，公司的官方网站，内容主要依赖公司员工的创作和制作，供用户浏览。如果具有专业背景的用户出于兴趣在网站上分享他的观点，这种分享是完全自发的，不需要回报。
+
 ### 14. IP (Intellectual Property) 知识产权
 
-### 15. CP (Content Provider) 内容提供商
+知识产权（IP）指的是头脑创造的东西，比如发明、文学和艺术作品、设计，以及商业中使用的符号、名称和图像。
+
+知识产权在法律上受到保护，例如专利、版权和商标，使人们能够从他们所发明或创造的东西中获得认可或经济利益。通过在创新者利益和广大公众利益之间取得合适的平衡，知识产权体系旨在促进创造力和创新得以蓬勃发展的环境。
+
+### 15. ICP (Internet Content Provider) 互联网内容提供商
+
+国内对网络内容是有管理制度的。
+
+ICP 、ICP 证、ICP 备案
+
+- ICP 叫网络内容提供商，是国家批准的能够提供网络内容的提供商。
+- ICP 备案，所有网站的域名需要备案，才能够被国内的用户登陆。如果没有被备案的域名，你无法被访问，也不能成为 ICP。
+- ICP 证，当域名被备案后，你的公司也需要获得提供相应网络内容的资格认证
 
 ### 16. ACG (Animation, Comics, Games) 动画、漫画、游戏
 
+二次元文化。
+
 ### 17. 新媒体
+
+- 传统媒体: 报纸、杂志、电视、广播等
+- 新媒体: 门户网站(网易新浪搜狐)、新闻客户端(今日头条)、视频网站(优酷土豆爱奇艺)，微信，网红直播平台，信息交易平台等等。
 
 ### 18. 自媒体
 
+- 依赖于新媒体环境(微信、微博、头条号、UC 号、大鱼号、企鹅号等)，通过个人账号/小团队的媒体号发布内容
+
 ### 19. 社会化媒体
 
-### 20. SNS (Social Networking Service) 社交网站
+指允许人们撰写、分享、评价、讨论、相互沟通的网站和技术，是彼此之间用来分享意见、见解、经验和观点的工具和平台(模拟真实世界人际关系交往形式)，现阶段主要包括社交网站、微博、微信、博客、论坛、播客等等。
 
-### 21. 门户网站
+社会化媒体的两大构成要素是
 
-### 22. 垂直门户
+- 自发传播
+- 人数众多
 
-### 23. IM (Instant Message) 即时通讯
+微博、微信、小红书、Facebook。
 
-### 24. [MCN (Muti-Channel Network)](#MCN)
+### 20. SNS (Social Networking) 社交网络
+
+指一个网站或应用程序，它使我们能够在自己的社交圈子里与彼此进行一对一或一对多的信息分发交流。
+
+### 21. Social Media 社交媒体
+
+指一个网站或应用程序，可以让我们创建和分享内容，它使我们能够将内容传达给更多人(可以是陌生人)，是一对多的大量信息分发。
+
+### 22. 门户网站
+
+门户网站一般指提供查询了解某类综合性互联网信息资源的入口网站，比如新浪、网易、搜狐、腾讯、百度、新华网、人民网、凤凰网等。
+
+**门户网站的分类有哪些？**
+
+- 个人门户网站
+- 政府门户网站
+- 企业门户网站
+- 专业门户网站
+- 分类信息门户网站
+- 综合门户网站
+
+### 23. 垂直门户
+
+同样是门户网站，不过与综合性门户网站不同，专注某一个领域，力求成为关心某一领域内容的人上网的第一站。
+
+### 24. IM (Instant Message) 即时通讯
+
+- QQ 属于 IM，QQ 空间属于 SNS。
+- 微信属于 IM，微信朋友圈属于 SNS。
+
+### 25. [MCN (Muti-Channel Network)](#MCN) {#MCN-2}
+
+由前 Youtube 员工和联合创始人 Jed Simmons 提出，把 PGC 内容联合起来，在资本的有力支持下，保持内容输出，实现稳定的商业变现，并获得频道收入的一部分作为回报。
 
 ## 参考资料
 
@@ -186,6 +292,7 @@ authors: [xiaoka]
 - 【转发收藏】新媒体运营术语考试，这 100 个词汇，你能得多少分？: http://www.hbduozhuan.com/index/article/article_detail/article_id/95
 - AARRR Pirate Metrics Framework: https://www.productplan.com/glossary/aarrr-framework/
 - What is AISAS? Five Things You Should Know About This Customer Journey Framework: https://gmo-research.com/news-events/articles/what-aisas-five-things-you-should-know-about-customer-journey-framework
+- Multi-channel network wikipedia: https://en.wikipedia.org/wiki/Multi-channel_network
 
 ## 历史
 
