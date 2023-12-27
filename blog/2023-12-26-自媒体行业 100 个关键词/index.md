@@ -285,6 +285,42 @@ ICP 、ICP 证、ICP 备案
 
 由前 Youtube 员工和联合创始人 Jed Simmons 提出，把 PGC 内容联合起来，在资本的有力支持下，保持内容输出，实现稳定的商业变现，并获得频道收入的一部分作为回报。
 
+## 运营数据类
+
+### 26. IP 地址 (Internet Protocol Address) 互联网协议地址
+
+### 27. UV (Unique Visitor) 独立访客
+
+### 28. PV (Page View) 页面浏览量
+
+### 29. RV (Repeat Visitor) 重复访客数
+
+### 30. TS (Traffic Sources) 流量来源渠道
+
+### 31. DAU (Day Active Users) 日活跃用户量
+
+### 32. MAU (Month Active Users) 月活跃用户量
+
+### 33. TP (Time on Page) 页面停留时间
+
+### 34. KPI (Key Performance Indicator) 关键绩效指标
+
+### 35. ARPU (Average Revenue Per User) 每个用户平均收入
+
+### 36. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+
+### 37. Retention rate 留存率
+
+### 38. Conversion rate 转化率
+
+### 39. ROI (Return On Investment) 投入产出比/投资回报率
+
+ROI = （收入-成本）/成本 x 100%
+
+### 40. GMV (Gross Merchandise Value) 销售额
+
+### 41. PUR (Pay Users Rate) 付费率
+
 ## 参考资料
 
 - 七大类 100 个新媒体运营专业名词合集，自媒体常见的知识: http://www.yaofawen.com/index/news/561.html
