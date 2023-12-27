@@ -3,7 +3,7 @@ slug: ai-boost-career-development-job-success
 tags: [AI, 职业发展, 求职, 简历优化, 面试准备]
 keywords: [人工智能, 职业发展, 求职成功率, AI求职帮助, 简历写作, 面试模拟, 面试优化]
 description: 探索人工智能在职业发展中的作用，学习如何使用AI提升求职效果，从简历编写、求职信撰写、个人陈述编写到模拟面试，全面提高你的求职成功率。
-# authors: [xiaoka]
+authors: [xiaoka]
 ---
 
 # 利用 AI 提升职业发展与求职成功率：简历编写、面试准备的秘籍

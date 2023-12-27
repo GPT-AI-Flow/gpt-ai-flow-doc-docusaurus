@@ -17,6 +17,7 @@ keywords:
   ]
 description: '这篇文章详细介绍了如何使用大模型 AI Flow工具优化自媒体内容创作流程, 并提高互动率。本文详细解析了整个内容创作流程的优化过程, 从目标设定、受众分析、主题研究与构思、内容规划、内容框架设计到内容创作。'
 image: '/img/pages/homePage/2023-10-17-img-3-homePage-two-feature-presentation.gif'
+authors: [xiaoka]
 ---
 
 # 自媒体内容创作流程优化： GPT AI Flow 让创作事半功倍 🚀
