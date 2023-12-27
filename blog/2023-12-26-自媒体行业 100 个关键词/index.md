@@ -189,4 +189,5 @@ authors: [xiaoka]
 
 ## 历史
 
+- 2023.12.27, Updated by 小卡: 增加`媒体内容类`部分
 - 2023.12.26, Created by 小卡: 首个版本
