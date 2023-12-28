@@ -371,7 +371,25 @@ MAU 是指在 30 天的时间窗口内（通常是连续的 30 天）与你的�
 
 日活跃用户(DAU)与月活跃用户(MAU)比率用以衡量你的产品的粘性—即人们多频繁地与你的产品互动。
 
+**为什么用户粘性很重要？**
+
+衡量初创公司成败最好的指标是收入的增长率，其次对于不收费的初创公司，则是根据活跃的用户数量的增长率来确定。因为当不收费的公司决定收费的时候，收入往往是活跃用户的恒定倍数。
+
+**优点**
+
+对于创业的早期阶段，这个数据能够帮助你评估未来的潜在收入。
+
+使用该数据而不是单纯的 DAU 与 MAU，能够给你公司情况更清楚的情况。
+
+**缺点**
+
+你不知道 DAU 和 MAU 中哪些人离开，哪些人留下了。为了弄清楚这一点，我们需要使用 Cohort Retention Analysis 用户分组留存分析方法。
+
+![](https://images.surferseo.art/78bfa9c0-1821-4933-ae25-7a84e192aa7c.png)
+
 ### 36. TP (Time on Page) 页面停留时间
+
+用户在页面上的停留时间。
 
 ### 37. KPI (Key Performance Indicator) 关键绩效指标
 
@@ -404,6 +422,7 @@ ROI = （收入-成本）/成本 x 100%
 - Google Analytics Made Easy: New Visitors vs. Returning Visitors: https://www.dbswebsite.com/blog/google-analytics-made-easy-new-visitors-vs-returning-visitors/
 - What is Traffic source: https://www.arimetrics.com/en/digital-glossary/traffic-source#:~:text=In%20web%20analytics%2C%20traffic%20sources,or%20traffic%20from%20search%20engines.
 - DAU/MAU Ratio: https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-ratio/
+- Cohort Retention Analysis 101: How to Measure User Retention?: https://userpilot.com/blog/cohort-retention-analysis/#What-is-cohort-retention-analysis?
 
 ## 历史
 
