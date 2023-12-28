@@ -328,33 +328,68 @@ ICP 、ICP 证、ICP 备案
 
 会话对于用户行为跟踪来说非常重要，因为它提供了用户如何与你的网站互动的完整过程。
 
-### 30. RV (Repeat Visitor) 重复访客数
+### 30. NV (New Visitor)
 
-### 31. TS (Traffic Sources) 流量来源渠道
+NV 新访客指通过特定设备访问网站的用户。
 
-### 32. DAU (Day Active Users) 日活跃用户量
+如果你通过 PC 访问某网站，然后用你的手机再次访问，GA (Google Analytics) 会把你算做 2 个 NV。
 
-### 33. MAU (Month Active Users) 月活跃用户量
+如果你登陆了 Google 账户，重新做一次以上操作，那么通过 PC 访问会计为 1 个 NV，用手机访问则会记为 1 个 RV。
 
-### 34. TP (Time on Page) 页面停留时间
+### 31. RV (Return Visitor) 重复访客数
 
-### 35. KPI (Key Performance Indicator) 关键绩效指标
+重复访客指的是那些之前访问过您的网站并且回来再次访问的用户！
 
-### 36. ARPU (Average Revenue Per User) 每个用户平均收入
+Google 为 NV 设置回访时间为 2 年时间。如果过去两年内访问过你网站的用户再次访问网站，那么就会被记为 RV。如果超过 2 年，则再次会计为 NV。
 
-### 37. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+### 32. TS (Traffic Sources) 流量来源渠道
 
-### 38. Retention rate 留存率
+在网站分析中，流量来源是在报告中可视化的维度，它提供了一个关于网站流量来源的概述。
 
-### 39. Conversion rate 转化率
+**TS 的类型**
 
-### 40. ROI (Return On Investment) 投入产出比/投资回报率
+- **Direct traffic 直接流量**：所有那些通过输入网址或通过书签找到网站的人。
+- **Referral traffic 推荐流量**：其他网站将流量发送到某个站点。这些可能是由于横幅广告、活动、博客或与站点所有者链接的附属机构，或像 menéame 这样的新闻聚合器的结果。
+- **Organic traffic 有机流量**：来自搜索引擎，如谷歌、雅虎、必应、Ask 或其他。
+- **Paid traffic 付费流量**：来自 PPC 和展示媒体，如谷歌 Adwords、必应广告、Facebook 广告、Twitter 广告等。
+- **Social Meida traffic 社交媒体流量**：来自如 Facebook、Twitter、Instagram 等社交网络。
+- **Other 其他**：这些包括活动、电子邮件、直接营销等。
+
+知道我们的客户来自什么渠道，能够知道我们知道谁是我们的客户，以及计算 ROI 去优化现有投放策略已获得更多的客户。
+
+### 33. DAU (Day Active Users) 日活跃用户量
+
+日活用户，与 UV 类似，指的是一天的时间窗口内与你的产品互动的独立用户数。
+
+不同公司不同领域对活跃的定义有所不同，行业标准是打开公司的产品/网站/应用。
+
+### 34. MAU (Month Active Users) 月活跃用户量
+
+MAU 是指在 30 天的时间窗口内（通常是连续的 30 天）与你的产品互动的独立用户数，反应产品长时间内用户活跃度。。
+
+### 35. DAU/MAU 用户粘性
+
+日活跃用户(DAU)与月活跃用户(MAU)比率用以衡量你的产品的粘性—即人们多频繁地与你的产品互动。
+
+### 36. TP (Time on Page) 页面停留时间
+
+### 37. KPI (Key Performance Indicator) 关键绩效指标
+
+### 38. ARPU (Average Revenue Per User) 每个用户平均收入
+
+### 39. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+
+### 40. Retention rate 留存率
+
+### 41. Conversion rate 转化率
+
+### 42. ROI (Return On Investment) 投入产出比/投资回报率
 
 ROI = （收入-成本）/成本 x 100%
 
-### 41. GMV (Gross Merchandise Value) 销售额
+### 43. GMV (Gross Merchandise Value) 销售额
 
-### 42. PUR (Pay Users Rate) 付费率
+### 44. PUR (Pay Users Rate) 付费率
 
 ## 参考资料
 
@@ -366,8 +401,12 @@ ROI = （收入-成本）/成本 x 100%
 - Multi-channel network wikipedia: https://en.wikipedia.org/wiki/Multi-channel_network
 - Unique Visits (Metric): https://growhackscale.com/glossary/unique-visits-metric#:~:text=Unique%20visitors%20refer%20to%20the,counted%20as%20one%20unique%20visitor.
 - Sessions Vs. Pageviews: https://www.klipfolio.com/resources/kpi-examples/digital-marketing/sessions-vs-pageviews
+- Google Analytics Made Easy: New Visitors vs. Returning Visitors: https://www.dbswebsite.com/blog/google-analytics-made-easy-new-visitors-vs-returning-visitors/
+- What is Traffic source: https://www.arimetrics.com/en/digital-glossary/traffic-source#:~:text=In%20web%20analytics%2C%20traffic%20sources,or%20traffic%20from%20search%20engines.
+- DAU/MAU Ratio: https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-ratio/
 
 ## 历史
 
-- 2023.12.27, Updated by 小卡: 增加`媒体内容类`部分
+- 2023.12.28, Updated by 小卡: 增加 `运营数据类`
+- 2023.12.27, Updated by 小卡: 增加 `媒体内容类`
 - 2023.12.26, Created by 小卡: 首个版本
