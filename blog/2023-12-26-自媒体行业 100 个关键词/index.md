@@ -289,37 +289,72 @@ ICP 、ICP 证、ICP 备案
 
 ### 26. IP 地址 (Internet Protocol Address) 互联网协议地址
 
+互联网协议地址（IP 地址）是一个数字标签，例如 192.0.2.1，它连接到使用互联网协议进行通信的计算机网络。
+
+**IP 地址有两个主要功能**
+
+- 网络接口识别
+- 位置寻址
+
+**深入了解**
+
+- 简单说网络 1-计算机是如何通信的？IP 地址与 mac 地址是什么？dhcp 与 arp 又是什么？: https://www.youtube.com/watch?v=DM1owMey-nQ&t=332s
+- 交换机和路由器有什么区别？网关和路由又是什么意思？简单说网络: https://www.youtube.com/watch?v=HmscVF3vKQs
+- 家庭网络如何通过路由器上网？源地址转换和目标地址转换时什么？: https://www.youtube.com/watch?v=N-7mHEMHH-A
+
 ### 27. UV (Unique Visitor) 独立访客
+
+独立访客是指在特定时间段内访问网站或网页集合的个人数量。
+
+例如，一名访客在一天中多次访问，被计为一个独立访客; 如果我是用两个不同的账户同一个设备访问，IP 是 1，但是 UV 是 2；
+
+在 GA (Google Analytics) 中 UV 被标记为 "Users"
+
+**UV 与 visit 的区别**
+
+如果一个用户访问网站 5 次，会记 5 次 visits 或 views (pageView), 但 UV 只有一次。
 
 ### 28. PV (Page View) 页面浏览量
 
-### 29. RV (Repeat Visitor) 重复访客数
+页面浏览量是网站的网页被用户打开并浏览的次数。每次用户访问一个网页，就会记 PV 为 1 次。
 
-### 30. TS (Traffic Sources) 流量来源渠道
+页面浏览量对于我们洞察网站中众多网页中哪些网页是受欢迎的以及展示效果提供一个分析角度。
 
-### 31. DAU (Day Active Users) 日活跃用户量
+### 29. Session 会话
 
-### 32. MAU (Month Active Users) 月活跃用户量
+会话是用户在给定时间内在网站上进行一系列互动的集合。绘画从用户访问你的网站开始，到用户关闭他们的浏览器、闲置 30 分钟以上或用户手动结束会话。
 
-### 33. TP (Time on Page) 页面停留时间
+在会话期间，用户会更多个页面互动，比如浏览不同的产品网站，将产品加入购物车，完成购买。
 
-### 34. KPI (Key Performance Indicator) 关键绩效指标
+会话对于用户行为跟踪来说非常重要，因为它提供了用户如何与你的网站互动的完整过程。
 
-### 35. ARPU (Average Revenue Per User) 每个用户平均收入
+### 30. RV (Repeat Visitor) 重复访客数
 
-### 36. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+### 31. TS (Traffic Sources) 流量来源渠道
 
-### 37. Retention rate 留存率
+### 32. DAU (Day Active Users) 日活跃用户量
 
-### 38. Conversion rate 转化率
+### 33. MAU (Month Active Users) 月活跃用户量
 
-### 39. ROI (Return On Investment) 投入产出比/投资回报率
+### 34. TP (Time on Page) 页面停留时间
+
+### 35. KPI (Key Performance Indicator) 关键绩效指标
+
+### 36. ARPU (Average Revenue Per User) 每个用户平均收入
+
+### 37. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+
+### 38. Retention rate 留存率
+
+### 39. Conversion rate 转化率
+
+### 40. ROI (Return On Investment) 投入产出比/投资回报率
 
 ROI = （收入-成本）/成本 x 100%
 
-### 40. GMV (Gross Merchandise Value) 销售额
+### 41. GMV (Gross Merchandise Value) 销售额
 
-### 41. PUR (Pay Users Rate) 付费率
+### 42. PUR (Pay Users Rate) 付费率
 
 ## 参考资料
 
@@ -329,6 +364,8 @@ ROI = （收入-成本）/成本 x 100%
 - AARRR Pirate Metrics Framework: https://www.productplan.com/glossary/aarrr-framework/
 - What is AISAS? Five Things You Should Know About This Customer Journey Framework: https://gmo-research.com/news-events/articles/what-aisas-five-things-you-should-know-about-customer-journey-framework
 - Multi-channel network wikipedia: https://en.wikipedia.org/wiki/Multi-channel_network
+- Unique Visits (Metric): https://growhackscale.com/glossary/unique-visits-metric#:~:text=Unique%20visitors%20refer%20to%20the,counted%20as%20one%20unique%20visitor.
+- Sessions Vs. Pageviews: https://www.klipfolio.com/resources/kpi-examples/digital-marketing/sessions-vs-pageviews
 
 ## 历史
 
