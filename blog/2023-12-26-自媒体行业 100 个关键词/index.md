@@ -111,6 +111,12 @@ authors: [xiaoka]
 比如你一个月向一位用户收取 500 元，而你的用户流失率为 5%，即每月 100 个用户中有 5 位不再使用产品或停止支付产品费用，那么你的用户 LTV 则是 1 万元 (500/0.05)。  
 每个用户的平均生命周期则是 20 个月(10000/500)。
 
+**LTV vs CTV (Customer Time Value) 客户生命周期价值**
+
+LTV 和 CTV 意思相近。
+
+但关键的区别是，生命周期价值处理的是整体客户，而客户生命周期价值关注的是单个客户。
+
 :::tip
 在订阅制的商业模型中 LTV 与 MRR 月度经常性收入作为两大关键指标。
 :::
@@ -492,6 +498,35 @@ ARPPU 代表“每付费用户平均收入”，它指的是单个付费用户�
 
 ### 40. Retention rate 留存率
 
+保留率是指在预定期限内继续使用您的服务或产品的顾客的百分比。
+
+比如网站的新增注册用户数为 1w 人，经过 30 天后，还有 1000 人使用。则用户的 30 天留存率为 1000/10000 x 100% = 10%。
+
+**为什么高用户留存率非常重要？**
+
+1. 高留存率导致超常利润: 据 Bain & Company,研究，5%留存率的增长会产生超过 25%的利润增长。长期使用你的产品的客户更有可能信任你的公司并对其评价较高。这使得他们成为购买你其他产品/服务的潜在候选人。
+2. 告诉你你的产品/服务是否继续解决客户的问题: 公司可提供过短期的市场营销、广告和销售活动支持新产品的推出，短期内产生销量和收入的增长。但公司不能确定它们的产品确实为客户提供价值，除非客户愿意继续使用。长期来看，高留存是证明产品解决了客户问题，为客户提供价值的最好证明。
+3. 留存客户比获取新客户要划算的多: 只要我们的产品对用户有价值，我们就无需为现有客户花费昂贵的广告和营销活动的费用，就能够零成本获得他们的生意。根据福布斯的数据，获取一个新客户的成本是维持一个好客户的 5 倍。
+
+**留存率 vs 流失率**
+
+高留存率代表高 ROI，也可能代表获客能力不足；高流失率代表获客能力很强，但获客质量不够，低 ROI。
+
+### 41. Churn rate 流失率
+
+用户流失率，有时也称为客户流失率，是指在一定时间内停止与公司交易的客户比例。流失也可以用来指取消或不续订订阅的用户数量。您的用户流失率越高，就有更多的客户停止购买/使用企业的产品/服务。
+
+按照上面的例子，30 天的流失率是 (10000-1000)/10000 x 100% = 90%。
+
+**流失类型**
+
+- Proactive Churn 主动流失
+- Delinquent Churn 拖欠流失
+
+可接受的 SaaS 流失率是每年在 5-7%范围内。流失率取决于你的公司、团队和市场的具体情况。
+
+当然，流失率越低越好。
+
 ### 41. Conversion rate 转化率
 
 ### 42. ROI (Return On Investment) 投入产出比/投资回报率
@@ -519,6 +554,11 @@ ROI = （收入-成本）/成本 x 100%
 - The ABCs of KPIs: Defining Key Performance Indicators: https://asana.com/resources/key-performance-indicator-kpi
 - Average Revenue Per User (ARPU): https://www.geckoboard.com/best-practice/kpi-examples/average-revenue-per-user-arpu/#:~:text=ARPU%20can%20be%20calculated%20by,Per%20User%20would%20be%20%240.05.
 - ARPPU: https://www.is.com/glossary/arppu/#:~:text=ARPPU%20stands%20for%20'Average%20Revenue,or%20paying%20for%20a%20download.
+- CLV vs. LTV: Understanding the Difference: https://ppcexpo.com/blog/clv-vs-ltv
+- Retention rate: https://www.appsflyer.com/glossary/retention-rate/#:~:text=Retention%20rate%20is%20the%20percentage,you%20gain%20any%20new%20clients.
+- Retention Rate: https://www.productplan.com/glossary/retention-rate/
+- Churn Rate: What It Means, Examples, and Calculations: https://www.investopedia.com/terms/c/churnrate.asp
+- What is churn?: https://chartmogul.com/churn/?utm_source=google&utm_medium=paid&utm_campaign=churn_mar_2021&gad_source=1&gclid=CjwKCAiA-bmsBhAGEiwAoaQNmrqLegTHWIn2FdL15WxB1rBIlZnVYmtaH1k8gFxuKcRHIFxuf0zKHRoCIvcQAvD_BwE
 
 ## 历史
 
