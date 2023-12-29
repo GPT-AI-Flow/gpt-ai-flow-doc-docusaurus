@@ -1,7 +1,3 @@
----
-authors: [xiaoka]
----
-
 # 小红书指南
 
 - 2023 年做小红书必备的 10 个模型: https://w1cyber.com.au/2023%e5%b9%b4%e5%81%9a%e5%b0%8f%e7%ba%a2%e4%b9%a6%e5%bf%85%e5%a4%87%e7%9a%8410%e4%b8%aa%e6%a8%a1%e5%9e%8b/
