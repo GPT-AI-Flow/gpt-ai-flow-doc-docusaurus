@@ -160,7 +160,7 @@ const config = {
         items: [
           {
             to: '/docs/intro/AI-Flow-Supercharge-Your-Self-Media-Contents',
-            label: '产品',
+            label: '简介',
             position: 'left',
             // items: [
             //   {
