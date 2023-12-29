@@ -575,6 +575,76 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 回报率（RoR, ROI + Time 时间）是指在特定时间段内，投资的净收益或净损失，以投资初始成本的百分比表示。
 
+## 营销广告类
+
+### 47. 搜索广告
+
+### 48. 展示类广告
+
+### 49. 开屏广告
+
+### 50. 信息流广告
+
+### 51. 视频广告
+
+### 52. ASO (App store Optimization) 应用商店优化
+
+### 53. SEO (Search Engine Optimization) 搜索引擎优化
+
+### 54. SEM (Search Engine Marketing) 搜索引擎营销
+
+### 55. CTR (Click-Through Rate) 点击率
+
+### 56. CPM (Cost Per Mille) 千次点击成本
+
+### 57. CPC (Cost Per Click) 单词点击成本
+
+### 58. CPA (Cost Per Action) 单次行动成本
+
+### 59. CPS (Cost Per Sell) 单次销售成本
+
+按照销售额付费分成。
+
+### 60. CPP (Cost Per Purchase) 单次购买成本
+
+按照订单量付费分成。
+
+### 61. CPT (Cost Per Time) 一定时间的曝光成本
+
+一般为 1 天，1 周，1 个月。以一个固定价格去买断一段时间内的广告位展示。
+
+### 62. EDM (Electronic Direct Mail) 邮件营销
+
+### 63. 社会化媒体营销
+
+基于微信、微博等社交媒体，进行创造业务机会和销售的行为。
+
+### 64. 场景化营销
+
+### 65. PR (Public Relations, 新闻稿) 软文推广
+
+### 66. Adtech 广告技术
+
+### 67. Bots 机器流量
+
+### 68. 品牌赋能
+
+### 69. 触达率
+
+### 70. 圈层社交
+
+### 71. 裂变营销
+
+### 72. DMP (Data Management Platform) 数据管理平台
+
+### 73. WA (Web Analytics) 网站分析
+
+### 74. DA (Digital Analyst) 数字营销分析
+
+### 75. 埋点
+
+### 76. Feed 流
+
 ## 参考资料
 
 - 七大类 100 个新媒体运营专业名词合集，自媒体常见的知识: http://www.yaofawen.com/index/news/561.html
@@ -602,7 +672,7 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 ## 历史
 
-- 2023.12.29, Updated by 小卡: 更新 `运营数据类`
+- 2023.12.29, Updated by 小卡: 更新 `运营数据类`, 增加 `营销广告类`
 - 2023.12.28, Updated by 小卡: 增加 `运营数据类`
 - 2023.12.27, Updated by 小卡: 增加 `媒体内容类`
 - 2023.12.26, Created by 小卡: 首个版本
