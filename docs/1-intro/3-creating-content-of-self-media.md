@@ -1,7 +1,12 @@
+import { Redirect } from '@docusaurus/router';
 import Image from "@theme/IdealImage";
 import ContactUs from "../9-contact-us.md"
 
-# 自媒体内容创作流程
+# 小红书内容创作流程
+
+<Redirect to="/docs/application-scenarios/xiaoHongShu"/>
+
+<!-- truncate --->
 
 ## 揭秘小红书营销大师课：用 AI 流量神器轻松打造爆款护肤内容！
 

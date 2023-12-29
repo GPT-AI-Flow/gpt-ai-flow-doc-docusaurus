@@ -174,6 +174,11 @@ const config = {
             // ],
           },
           {
+            to: '/docs/self-media-guide/Self-media-industry-100-keywords',
+            label: '自媒体指南',
+            position: 'left',
+          },
+          {
             to: '/docs/application-scenarios/introduction',
             label: '应用场景',
             position: 'left',
