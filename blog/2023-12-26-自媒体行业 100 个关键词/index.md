@@ -480,7 +480,15 @@ KPI 是用来衡量实现特定目标进展的单位。有效的 KPI 遵循 SMAR
 
 ### 38. ARPU (Average Revenue Per User) 每个用户平均收入
 
+用户平均收入（ARPU）是每个活跃使用你应用程序的人（平均而言）所产生的收入。
+
+如果网站有 1w 个活跃用户，收入为 1w 元，则 ARPU 为 1 元。
+
 ### 39. ARPPU (Average Revenue Per Paying User) 每个付费用户平均收入
+
+ARPPU 代表“每付费用户平均收入”，它指的是单个付费用户在特定时期内产生的预估收入。付费用户是那些为服务付款的用户，可能是通过订阅、进行应用内购买或支付下载费用。这个指标排除在使用网站/应用期间不主动付费的用户，例如广告互动带来的收入。
+
+如果网站有 1w 个用户，2000 个付费用户，收入为 1w 元，则 ARPPU 为 5 元。
 
 ### 40. Retention rate 留存率
 
@@ -509,6 +517,8 @@ ROI = （收入-成本）/成本 x 100%
 - DAU/MAU Ratio: https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-ratio/
 - Cohort Retention Analysis 101: How to Measure User Retention?: https://userpilot.com/blog/cohort-retention-analysis/#What-is-cohort-retention-analysis?
 - The ABCs of KPIs: Defining Key Performance Indicators: https://asana.com/resources/key-performance-indicator-kpi
+- Average Revenue Per User (ARPU): https://www.geckoboard.com/best-practice/kpi-examples/average-revenue-per-user-arpu/#:~:text=ARPU%20can%20be%20calculated%20by,Per%20User%20would%20be%20%240.05.
+- ARPPU: https://www.is.com/glossary/arppu/#:~:text=ARPPU%20stands%20for%20'Average%20Revenue,or%20paying%20for%20a%20download.
 
 ## 历史
 
