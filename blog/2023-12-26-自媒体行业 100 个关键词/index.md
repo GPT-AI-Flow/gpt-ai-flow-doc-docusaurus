@@ -475,7 +475,7 @@ KPI 是用来衡量实现特定目标进展的单位。有效的 KPI 遵循 SMAR
 项目经理经常使用“平衡计分卡”，这是一个战略关键绩效指标框架，从不同的角度评估倡议——财务、客户、流程和增长。
 
 - **投资回报率**: 衡量你投入某事物的资金是否值得你所获得的回报。
-- **挣值**: 帮助你了解在任何时点你的项目完成了多少。
+- **挣值 (Earned value)**: 在任何时候帮助你了解项目完成了多少，领先还是落后。比如一个项目的 Budget 是 $100,000，项目完成 60%，那么挣值是 ¥60,000。
 - **关键路径长度**: 根据你不能跳过的事项，衡量你的项目将会花费的总时间。
 
 ### 38. ARPU (Average Revenue Per User) 每个用户平均收入
@@ -508,6 +508,7 @@ ROI = （收入-成本）/成本 x 100%
 - What is Traffic source: https://www.arimetrics.com/en/digital-glossary/traffic-source#:~:text=In%20web%20analytics%2C%20traffic%20sources,or%20traffic%20from%20search%20engines.
 - DAU/MAU Ratio: https://www.geckoboard.com/best-practice/kpi-examples/dau-mau-ratio/
 - Cohort Retention Analysis 101: How to Measure User Retention?: https://userpilot.com/blog/cohort-retention-analysis/#What-is-cohort-retention-analysis?
+- The ABCs of KPIs: Defining Key Performance Indicators: https://asana.com/resources/key-performance-indicator-kpi
 
 ## 历史
 
