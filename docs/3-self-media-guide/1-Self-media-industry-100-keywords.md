@@ -573,15 +573,28 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 ## 营销广告类
 
-### 47. 搜索广告
+### 47. Search Ads 搜索广告
 
-### 48. 展示类广告
+搜索广告，通常被称为付费搜索广告或搜索引擎营销，是一种在搜索引擎结果中放置数字广告的营销技术。
 
-### 49. 开屏广告
+搜索广告基于关键词策略，能够针对个性化需求提供广告搜索策略。
 
-### 50. 信息流广告
+**跟踪搜索广告效果的关键**
 
-### 51. 视频广告
+- Negative Keywords 否定关键词
+- Long-Tail Keywords 长尾关键词
+- CTR (Click-Through-Rate) 点击率
+- CPC (Cost-Per-Click) 每次点击成本
+- PPC (Pay-Per-Click) 每次点击付费成本
+- Contextualization 语境化
+
+### 48. Display Ads 展示类广告
+
+### 49. Splash Ads 开屏广告
+
+### 50. Feeds Ads 信息流广告
+
+### 51. Video Ads 视频广告
 
 ### 52. ASO (App store Optimization) 应用商店优化
 
