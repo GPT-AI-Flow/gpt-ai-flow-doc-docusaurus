@@ -631,6 +631,8 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 ### 49. Splash Ads 开屏广告
 
+开屏广告在应用启动后立即显示，甚至在应用的主界面显示之前就已经展现了。
+
 ### 50. Feeds Ads 信息流广告
 
 ### 51. Video Ads 视频广告
@@ -718,9 +720,11 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - Return on Investment (ROI): How to Calculate It and What It Means: https://www.investopedia.com/terms/r/returnoninvestment.asp
 - 美国 - 政府债券: https://cn.investing.com/rates-bonds/usa-government-bonds
 - Display Ads: https://mailchimp.com/marketing-glossary/display-ads/#:~:text=Display%20ads%20are%20images%2C%20videos,they%20appear%20on%20the%20web.
+- Splash Ads: https://developer.huawei.com/consumer/en/doc/HMSCore-Guides/publisher-service-splash-0000001050066919
 
 ## 历史
 
+- 2024.01.01, Updated by 小卡: 更新 `营销广告类`
 - 2023.12.29, Updated by 小卡: 更新 `运营数据类`, 增加 `营销广告类`
 - 2023.12.28, Updated by 小卡: 增加 `运营数据类`
 - 2023.12.27, Updated by 小卡: 增加 `媒体内容类`
