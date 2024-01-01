@@ -579,7 +579,7 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 搜索广告基于关键词策略，能够针对个性化需求提供广告搜索策略。
 
-**跟踪搜索广告效果的关键**
+**跟踪效果指标**
 
 - Negative Keywords 否定关键词
 - Long-Tail Keywords 长尾关键词
@@ -589,6 +589,45 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - Contextualization 语境化
 
 ### 48. Display Ads 展示类广告
+
+展示广告是在网站或应用上向用户展示的图片、视频或 GIF。大多数展示广告使用方形、横式或摩天大楼格式的图像、文案，并有一个强有力的呼吁行动（CTA），以吸引用户点击。
+
+它们可以出现在文章、博客、视频和消费者浏览信息的网站上。
+
+**展示广告有什么用？**
+
+展示广告对于重复营销给感兴趣的用户来说最有效，你可以投放给近期浏览或与你的网站互动过的用户。这能够增加你的品牌知名度，允许你快速触达更多用户。展示广告用于激发兴趣，推广产品和服务，以及保持您的品牌在消费者心目中的地位。
+
+展示广告还允许您监控和跟踪您的广告活动，以降低成本同时提高表现。(A/B 测试)
+
+**展示广告的类型**
+
+- Remarketing ads 再营销广告: 更具不同过得用户行为特征反复投放广告。
+- Personalized ads 个性化广告: 基于不同的因素对用户进行细分，包括人口统计学、兴趣和最近购买。
+- Contextually targeted ads 上下文相关广告: 当涉及到用户的某些关键词、话题、语言或浏览历史时，就会使用此类广告。
+- Site-placed ads 站点位置广告: 这些广告允许您定位放置您广告的网站。站点放置的广告可以与其他形式的展示广告结合使用。
+
+**优势**
+
+- 展示广告能够提升品牌声誉
+- 展示广告可以快速传达信息
+- 展示广告易于创建和投放
+- 展示广告能够触达转化漏斗的每个阶段的客户
+- 展示广告比传统广告更便宜: 虽然点击展示广告的人不多，但是它们可以帮助你触及市场中最大的戏份群体；当展示广告与相关内容相匹配时，展示广告的干扰性最小。
+
+**劣势**
+
+- 人们不喜欢广告
+- 展示广告过于简单
+- 展示广告的点击率和转化率较低
+
+**跟踪效果指标**
+
+- Impressions 展示次数
+- Reach 触达人数
+- Cost 成本
+- Click-through-rate (CTR) 点击率
+- Conversion rate 转化率
 
 ### 49. Splash Ads 开屏广告
 
@@ -678,6 +717,7 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - What is churn?: https://chartmogul.com/churn/?utm_source=google&utm_medium=paid&utm_campaign=churn_mar_2021&gad_source=1&gclid=CjwKCAiA-bmsBhAGEiwAoaQNmrqLegTHWIn2FdL15WxB1rBIlZnVYmtaH1k8gFxuKcRHIFxuf0zKHRoCIvcQAvD_BwE
 - Return on Investment (ROI): How to Calculate It and What It Means: https://www.investopedia.com/terms/r/returnoninvestment.asp
 - 美国 - 政府债券: https://cn.investing.com/rates-bonds/usa-government-bonds
+- Display Ads: https://mailchimp.com/marketing-glossary/display-ads/#:~:text=Display%20ads%20are%20images%2C%20videos,they%20appear%20on%20the%20web.
 
 ## 历史
 
