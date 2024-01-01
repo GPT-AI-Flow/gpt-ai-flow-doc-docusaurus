@@ -573,7 +573,11 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 ## 营销广告类
 
-### 47. Search Ads 搜索广告
+### 47. Native Ads 原生广告
+
+原生广告是一种付费广告形式，广告的外观、感觉和功能与它们出现的媒体格式相匹配。它们“原生地”且无缝地融入网页中。
+
+### 48. Search Ads 搜索广告
 
 搜索广告，通常被称为付费搜索广告或搜索引擎营销，是一种在搜索引擎结果中放置数字广告的营销技术。
 
@@ -588,7 +592,7 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - PPC (Pay-Per-Click) 每次点击付费成本
 - Contextualization 语境化
 
-### 48. Display Ads 展示类广告
+### 49. Display Ads 展示类广告
 
 展示广告是在网站或应用上向用户展示的图片、视频或 GIF。大多数展示广告使用方形、横式或摩天大楼格式的图像、文案，并有一个强有力的呼吁行动（CTA），以吸引用户点击。
 
@@ -629,71 +633,71 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - Click-through-rate (CTR) 点击率
 - Conversion rate 转化率
 
-### 49. Splash Ads 开屏广告
+### 50. Splash Ads 开屏广告
 
 开屏广告在应用启动后立即显示，甚至在应用的主界面显示之前就已经展现了。
 
-### 50. Feeds Ads 信息流广告
+### 51. Feeds Ads 信息流广告
 
-### 51. Video Ads 视频广告
+### 52. Video Ads 视频广告
 
-### 52. ASO (App store Optimization) 应用商店优化
+### 53. ASO (App store Optimization) 应用商店优化
 
-### 53. SEO (Search Engine Optimization) 搜索引擎优化
+### 54. SEO (Search Engine Optimization) 搜索引擎优化
 
-### 54. SEM (Search Engine Marketing) 搜索引擎营销
+### 55. SEM (Search Engine Marketing) 搜索引擎营销
 
-### 55. CTR (Click-Through Rate) 点击率
+### 56. CTR (Click-Through Rate) 点击率
 
-### 56. CPM (Cost Per Mille) 千次点击成本
+### 57. CPM (Cost Per Mille) 千次点击成本
 
-### 57. CPC (Cost Per Click) 单词点击成本
+### 58. CPC (Cost Per Click) 单词点击成本
 
-### 58. CPA (Cost Per Action) 单次行动成本
+### 59. CPA (Cost Per Action) 单次行动成本
 
-### 59. CPS (Cost Per Sell) 单次销售成本
+### 60. CPS (Cost Per Sell) 单次销售成本
 
 按照销售额付费分成。
 
-### 60. CPP (Cost Per Purchase) 单次购买成本
+### 61. CPP (Cost Per Purchase) 单次购买成本
 
 按照订单量付费分成。
 
-### 61. CPT (Cost Per Time) 一定时间的曝光成本
+### 62. CPT (Cost Per Time) 一定时间的曝光成本
 
 一般为 1 天，1 周，1 个月。以一个固定价格去买断一段时间内的广告位展示。
 
-### 62. EDM (Electronic Direct Mail) 邮件营销
+### 63. EDM (Electronic Direct Mail) 邮件营销
 
-### 63. 社会化媒体营销
+### 64. 社会化媒体营销
 
 基于微信、微博等社交媒体，进行创造业务机会和销售的行为。
 
-### 64. 场景化营销
+### 65. 场景化营销
 
-### 65. PR (Public Relations, 新闻稿) 软文推广
+### 66. PR (Public Relations, 新闻稿) 软文推广
 
-### 66. Adtech 广告技术
+### 67. Adtech 广告技术
 
-### 67. Bots 机器流量
+### 68. Bots 机器流量
 
-### 68. 品牌赋能
+### 69. 品牌赋能
 
-### 69. 触达率
+### 70. 触达率
 
-### 70. 圈层社交
+### 71. 圈层社交
 
-### 71. 裂变营销
+### 72. 裂变营销
 
-### 72. DMP (Data Management Platform) 数据管理平台
+### 73. DMP (Data Management Platform) 数据管理平台
 
-### 73. WA (Web Analytics) 网站分析
+### 74. WA (Web Analytics) 网站分析
 
-### 74. DA (Digital Analyst) 数字营销分析
+### 75. DA (Digital Analyst) 数字营销分析
 
-### 75. 埋点
+### 76. 埋点
 
-### 76. Feed 流
+### 77. Feed 流
 
 ## 参考资料
 
