@@ -909,6 +909,7 @@ Wise 案例: https://www.youtube.com/watch?v=GeGBxqeT-kI
 
 ## 历史
 
+- 2024.01.02, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.01, Updated by 小卡: 更新 `营销广告类`
 - 2023.12.29, Updated by 小卡: 更新 `运营数据类`, 增加 `营销广告类`
 - 2023.12.28, Updated by 小卡: 增加 `运营数据类`
