@@ -906,6 +906,7 @@ Wise 案例: https://www.youtube.com/watch?v=GeGBxqeT-kI
 - Splash Ads: https://developer.huawei.com/consumer/en/doc/HMSCore-Guides/publisher-service-splash-0000001050066919
 - What is Native Advertising - How it Works | Outbrain | Outbrain.com: https://www.outbrain.com/native-advertising/#:~:text=Native%20advertising%20is%20a%20form,seamlessly%20on%20the%20web%20page.
 - What Are In-Feed Social Media Ads? – All You Need To Know To Start Monetizing: https://www.codefuel.com/blog/what-is-in-feed/
+- What Is Video Advertising? A Guide to Getting Started: https://www.semrush.com/blog/video-advertising/#how-to-create-effective-online-video-ads
 
 ## 历史
 
