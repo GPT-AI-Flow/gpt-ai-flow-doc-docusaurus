@@ -822,7 +822,162 @@ Wise 案例: https://www.youtube.com/watch?v=GeGBxqeT-kI
 
 ### 53. ASO (App store Optimization) 应用商店优化
 
+应用商店优化（ASO）指的是提高应用在应用商店中的可见度和用户吸引力，并增加应用转换率以获得更多下载量。最受欢迎的应用商店是 iOS 应用的 App Store 和 Android 应用的 Google Play 商店。
+
+**应用商店优化 (ASO) 的好处有哪些？**
+
+- 提高在应用商店里的可见度并脱颖而出
+- 始终被高质量且相关的用户发现
+- 以可持续的方式增加自然增长的应用下载量
+- 削减用户获取成本，实现持续增长
+- 提高应用收入和转化率
+- 用你的应用触及全球受众
+
+**SEO vs ASO**
+
+![](https://appradar.com/wp-content/uploads/2022/07/SEO-vs-ASO-754x884.png)
+
+ing...
+
 ### 54. SEO (Search Engine Optimization) 搜索引擎优化
+
+搜索引擎优化（SEO）是一系列旨在提高网站在搜索引擎中的可见性的过程，比如谷歌，其目的是获得更多的自然流量。SEO 是通过创建相关的、高质量的内容以及提供最佳用户体验来满足用户搜索需求的。
+
+![](https://static.semrush.com/blog/uploads/media/de/64/de64a6170964d49ae068fcbfbca038db/SEO-Meaning.webp)
+
+SEO 活动可以在网站内部和网站外部进行。
+
+在实践中，搜索引擎优化（SEO）通常涉及：
+
+- 关键词研究
+- 内容创建和优化
+- 技术优化
+- 链接建设
+
+**为什么 SEO 很重要？**
+
+Google 每天都会收录网站并根据用户的输入推荐数十亿搜索结果，毫无疑问 Google 搜索是网站最大的流量来源之一。要利用这个流量来源的潜力，你需要出现在目标关键词的顶部搜索结果中。
+
+**你排名越高，访问你页面的人就会越多。**
+
+通常，关键词搜索结果排名前三名获得超过 50% 的点击量。
+
+**SEO (Search Engine Optimization) vs PPC (Pay Per Click)**
+
+搜索结果由两种主要结果组成:
+
+- **Paid results 付费结果**: 你必须通过每次点击付费（PPC）广告来支付费用才能出现在这里。
+- **Organic results 自然结果**: 你必须通过搜索引擎优化（SEO）来“赚取”你的排名。
+
+![](https://static.semrush.com/blog/uploads/media/88/2a/882a33ff3f798a8dbfae5d00fea82067/Inonn7dBQ-NQbohYoQDhIGFcmsHJdsv0qqXCJWxAOEQLagXkgRbEgTgYh7b14a3-PAVhZYv4wPcvyuNS0y-WT5cA7wTmLp_RtnPPOvNCnvFu5kz77cm_2993_Ziq_ZjHGTnhmxFhegxuz-QqTIwPqm0.webp)
+
+**搜索引擎如何工作？**
+
+任何搜索引擎的最终目标都是让搜索者对他们找到的结果感到满意。为了实现这一点，搜索引擎需要找到最佳的页面，并将它们作为最顶端的搜索结果提供出来。
+
+Google 使用以下阶段来查找和排名内容：
+
+- **抓取**: 谷歌使用“机器人”或计算机程序来遍历网络，寻找新的或已更新的页面。为了让谷歌找到一个页面，该页面至少应该有一个指向它的链接。
+- **索引**: 接下来，谷歌会分析每个页面，并尝试弄清楚页面的内容。然后，它可能会将这些信息存储在谷歌索引中——一个庞大的网页数据库。
+- **提供结果**: 当用户输入一个查询时，谷歌会确定哪些页面在质量和相关性方面最好，并在搜索结果页面中对它们进行排名。
+
+![](https://static.semrush.com/blog/uploads/media/09/07/0907282631a01e674a64fe8b2af676e7/anHVwrwQ2Ey3fjb--w8J0yJa9R0t98SnzagRy7-gMpPnfYNwETwN5KKA8jQfa1wSNYU8K7hEn1MPRRCHWmhTMDK5R151Zq1yABmDFaYjfxmgyQE1y0SoFq5Ow8TVZC-6tRe5VI38yXbmHwfGzwIEJt8.webp)
+
+作为网站所有者，你的工作是帮助搜索引擎抓取和索引你希望它们索引的网站上的所有页面。（以及你不希望它们索引的页面。）
+
+你可以通过一系列技术 SEO 优化的最佳实践来确保你的页面的可爬性和可索引性。
+
+谷歌分析网页参考因素: https://backlinko.com/google-ranking-factors
+
+**SEO 是如何工作的？**
+
+**1. 保证相关性**
+
+你在 SEO 中的首要任务是确保你提供的内容与搜索用户的意图相关，有四种主要的搜索意图:
+
+- 导航性（例如，“spotify 登录”）
+- 信息性（例如，“spotify 是什么”）
+- 商业性（例如，“spotify 评论”）
+- 交易性（例如，“spotify 高级版”）
+
+![](https://static.semrush.com/blog/uploads/media/7a/08/7a0869ebc6489df32e9308a8372344d8/LACXI6h7hazwoC-b0AYFKOo55uUEtXbPQH5reK2tycwJ96yMRqFrqCmyr4MVZqtHORrYozkfUQ3nlVGajLYhjqisordta2SKcoTqrPIsWiyIi9j7RNkZl0ZEsfUFL_QChKcOH1eIpPikRYtWOpxGdKM.webp)
+
+**你需要考虑的事项以创造相关内容**
+
+- 主题相关性: 谷歌确定页面主题的方式之一是通过查看页面上出现的关键词。优化你的页面关键词，但要避免过度优化。
+- 内容类型: 通过查看哪些类型的结果为关键词排名（例如，落地页、产品页面、信息性文章、评论等）来确保你的页面为查询提供正确的内容类型。
+- 内容新鲜度: 某些类型的主题，如新闻更新或产品评论，需要新鲜、频繁更新的信息。如果搜索查询是时间敏感的，你需要确保你的内容也将保持最新。
+- 位置: 基于搜索者的位置，谷歌可能会提供不同的结果。如果是这种情况，你需要据此调整你的策略（例如，如果你经营一家本地企业，遵循本地 SEO 最佳实践）。
+
+**2. 创造高质量内容**
+
+**以下是一些区分高质量内容与普通内容的关键要素**
+
+- **全面性**: 全面覆盖主题并回答访客可能会有的所有问题。这与字数无关。确保每个页面为搜索者提供一个完整的资源。
+- **独特性**: 你的内容不应该仅是顶级结果的汇编。它应该始终提供一些附加价值——无论是独特的视角、有用的数据、有帮助的例子还是原创的视觉效果。
+- **E-E-A-T (Experience, Expertise, Authoritativeness and Trustworthiness) 信号**: 谷歌非常重视经验、专业知识、权威性和可靠性（E-E-A-T）。你应该提供准确可靠的信息，对你所写的内容要有专业了解，并在站内外展示这一点。
+- **可读性**: 你的文本应该易于阅读。这包括逻辑结构化的内容、书写短句、避免使用被动语态、保持一致的语调等。
+
+```
+What's the main important factor for rank a  website in top search results on a particular phrase?
+——John Mueller, Google
+```
+
+**3. 提供极佳的可用性**
+
+谷歌更喜欢用户友好的网站。
+
+这包括像下面这样的因素：
+
+- **网站安全性**: 您的网站应该符合标准的安全准则，比如拥有 SSL 证书（使用 HTTPS 协议而不是 HTTP）。
+- **页面速度**: 谷歌会将页面加载速度更快的网站在搜索结果中排名更高，因为它们提供了更好的用户体验。
+- **移动友好性**: 谷歌根据内容在移动设备上的表现来评估您的内容——这被称为“移动优先索引”。移动 SEO 确保移动用户能够轻松消费您的内容。
+- **易用性**: 您的网站结构应该容易遵循，允许访客快速找到所有东西，并且能够在您的网站上毫无问题或障碍地导航。
+
+**4. 建立权威**
+
+搜索引擎使用几个站外信号来确定您的网站是否可被信任。
+
+最强的信号之一，也是一般意义上最强的排名因素之一，是反向链接——来自其他网站指向您网站的链接。从根本上说，反向链接作为对搜索引擎的信任投票。
+
+![](https://static.semrush.com/blog/uploads/media/18/f1/18f11c8df00a703129512a60abdd96bc/e8Jfhcyt9U5DpE_NNpZrYVzyikDEV4TvyCN1u9rjhP8Q2aNfslLdl8GUuKKpOaVYOCyqVVOc-UBGpnagRfOtQSKAfL8wBOgHzjkyshmQPRpow74lWiz59N6orewbvkdjmpfdTNDOm7Jqh-7WaXZfa9I.webp)
+
+有很多链接建设策略。例如：
+
+- **创建可链接资产**: 创建提供巨大价值并自然吸引链接的内容（例如，原创研究、互动页面、免费工具）
+- **客座博客**: 为其他网站撰写文章，以便回链到您的网站
+- **失效链接建设**: 在其他网站上找到不再工作的链接(与你的内容相关)，并建议用您的页面作为替换链接
+
+**在建立链接时，注重质量（而非数量）。**
+
+![](https://static.semrush.com/blog/uploads/media/3e/35/3e3580f05762d427c06da4a35334f0c6/Ukkh7yIn-HEqc5i7kW6qkHmZgMu9NT2Gli35JrFbLKT1DAMqFijTWi_RVGzy5MZQzgpaAdURTRhIiWU7rDwD-_yEV2maiwKdrI-ugGpXI-xv4peM0KVq-zVMNMKbQVRTV551-zOp-NiK8wKlO5Vqows.webp)
+
+谷歌对页面做排名，而不是对网站做排名，但指向网站的链接总体数量仍可以影响特定页面的排名。
+
+**内部链接**
+
+通过内部链接（从您网站的一个页面链接到另一个页面），您可以以与从外部页面到您的站点传递相同的方式，在页面之间传递权威。
+
+```
+[It is] one of the biggest things that you can do on a website to kind of guide Google and guide visitors to the pages that you think are important.
+——John Mueller, Google
+```
+
+**7 个关于 SEO 的真相**
+
+- **SEO 并不是关于欺骗谷歌**。相反，应该将其视为通过展示您为用户提供的价值来说服谷歌对您的页面进行排名。
+- **SEO 不是关于黑客攻击**。不要陷入寻找酷炫的新 SEO 技巧或黑客攻击的循环。通常，你需要做的只是非常好、非常持续地执行 SEO 基础工作。
+- **SEO 是一个长期的游戏**。SEO 结果通常不会立即出现，尽管有例外——例如，当你修复了某个严重问题时。通常情况下，要用月而不是天来思考。
+- **SEO 不仅仅是安装一个 SEO 插件**。SEO 插件是有用的工具。但仅仅设置了一个并不意味着你的网站突然就“对 SEO 友好”了。
+- **你永远也“完成不了”SEO**。搜索引擎优化是一个持续的过程。即使你的所有关键字都排名第一，你也总需要不断改进。竞争对手永不休息。
+- **了解你的受众是关键**。你越是了解你的目标受众（顾客、读者、订阅者），就越容易创建有效的 SEO 策略。
+- **SEO 只是拼图的一部分**。如果你忽略了处理你业务的核心——你的产品或服务，再多的优化也无济于事。
+
+**在数字营销中，SEO 的角色是什么？**
+
+SEO 的主要目标是提高网站在搜索引擎中的可见性。因此，它是每个数字营销策略中的重要部分。
+
+SEO 与 PPC 广告创造了极好的协同效应，并且与其他营销领域如内容营销和社交媒体营销有所重叠。
 
 ### 55. SEM (Search Engine Marketing) 搜索引擎营销
 
@@ -907,6 +1062,8 @@ Wise 案例: https://www.youtube.com/watch?v=GeGBxqeT-kI
 - What is Native Advertising - How it Works | Outbrain | Outbrain.com: https://www.outbrain.com/native-advertising/#:~:text=Native%20advertising%20is%20a%20form,seamlessly%20on%20the%20web%20page.
 - What Are In-Feed Social Media Ads? – All You Need To Know To Start Monetizing: https://www.codefuel.com/blog/what-is-in-feed/
 - What Is Video Advertising? A Guide to Getting Started: https://www.semrush.com/blog/video-advertising/#how-to-create-effective-online-video-ads
+- What is App Store Optimization (ASO)? The in-depth guide for 2023: https://appradar.com/academy/what-is-app-store-optimization-aso
+- What Is SEO? Meaning, Examples & How to Optimize Your Site: https://www.semrush.com/blog/what-is-seo/
 
 ## 历史
 
