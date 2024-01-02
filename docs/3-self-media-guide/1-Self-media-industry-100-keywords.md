@@ -1,3 +1,5 @@
+import Image from "@theme/IdealImage";
+
 # 自媒体行业 100 个关键词
 
 ## 用户运营类
@@ -573,9 +575,36 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 ## 营销广告类
 
-### 47. Native Ads 原生广告
+### 47. Native Ads 原生广告 {#native-ads}
 
 原生广告是一种付费广告形式，广告的外观、感觉和功能与它们出现的媒体格式相匹配。它们“原生地”且无缝地融入网页中。
+
+与横幅(banner)或展示(diplay)广告不同过，原生广告看起来不想“广告”，所以它们并不会打断用户在页面上的交互体验，在展示宣传内容时不会显得突兀。
+
+**原生广告的样子**
+
+1. **[In Feed 信息流广告](#feeds-ads)**: 出现在你社交网络新闻源中的广告（例如你的 朋友圈 或 微博 动态）。
+
+<Image
+img="https://www.outbrain.com/images/pages/native-advertisers/ads-display--1.webp"
+style={{ maxWidth: 300 }}
+/>
+
+1. **付费搜索**: 搜索广告主要出现在你的谷歌搜索结果的顶部或侧边栏。它们可以是文本，或包括图片和产品描述。
+
+<Image
+img="https://www.outbrain.com/images/pages/native-advertisers/ads-display--2.webp"
+style={{ maxWidth: 300 }}
+/>
+
+1. **内容推荐**: 诸如推荐文章、赞助帖子这样的内容片断，通常会在用户阅读文章之后出现在屏幕上。
+
+<Image
+img="https://www.outbrain.com/images/pages/native-advertisers/ads-display--3.webp"
+style={{ maxWidth: 300 }}
+/>
+
+4. **推广列表**: 这种类型的付费内容通常出现在电子商务平台上，比如 eBay。推广列表会优先展示给更多的高意向买家，提高购买的可能性。
 
 ### 48. Search Ads 搜索广告
 
@@ -637,9 +666,159 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 
 开屏广告在应用启动后立即显示，甚至在应用的主界面显示之前就已经展现了。
 
-### 51. Feeds Ads 信息流广告
+### 51. Feeds Ads 信息流广告 {#feeds-ads}
+
+信息流广告是一种广告格式，你可以将其放置在你的信息流中，以此来盈利你的网站并增强访客的用户体验。它是[原生广告](#native-ads)的方法之一，可以在数字媒介中的其他内容之间传递品牌内容。
+
+**Feeds Ads 信息流广告的类型**
+
+1. Content Feeds 内容信息流: 内容网站和新闻聚合平台，如福布斯、雅虎、CNN。
+2. Product Feeds 产品信息流: 电子商务网站和应用程序列表，如亚马逊和 eBay。
+3. Social Feeds 社交信息流: 社交网络和媒体应用，如 Facebook、Instagram 或 LinkedIn。
+
+**Feeds Ads 交互方式与指标跟踪**
+
+1. 赞助内容摘要: 提供的内容与网站本身的信息流相符，用户点击后依然会留在网站内，跟踪指标为品牌指标曝光度。
+2. 静态信息流广告: 提供的内容与网站本身的信息流相符，用户点击后会跳到赞助商自己的网站，跟踪指标为点击率和转化率。
+
+**Feeds Ads 展示方式**
+
+1. 故事广告: 这些是编入编辑内容中的文字广告。
+2. 应用安装广告: 这种类型的广告引导你下载一个手机应用。
+3. 产品广告: 这种信息流中的广告链接到电子商务网站上的产品着陆页面。
+4. 视频广告: 这些广告将用户引导至视频，可以是短片或长片格式，Vimeo 或 GIF。
+
+![](https://www.codefuel.com/wp-content/uploads/2017/02/Ad-Types.png)
+
+**Feeds Ads 的优势**
+
+- 优化优化用户体验
+- 更好的变现渠道
+- 方便在手机上展示
+- 更好触达用户
 
 ### 52. Video Ads 视频广告
+
+视频广告是使用视频来推广和销售产品或服务的。不同于静态图片或文字，视频能够让想法、故事和产品变得生动。
+
+**Video Ads 视频广告的 4 大关键优势**
+
+- 更高的参与度
+- 更高的转化率
+- 情感价值传递与连接
+- 更容易分享
+
+**Video Ads 视频广告的类型**
+
+您选择的视频广告格式取决于您想实现什么目标、想要触及的受众以及您想要讲述的故事。
+
+- In-Stream Ads 视频流广告: 在观看视频时会播放信息流广告。它们会在视频开始前（前贴片）、视频中间（中插片）或视频结束后（后贴片）出现。
+
+![](https://static.semrush.com/blog/uploads/media/5b/ca/5bca8a23fc4340486881c62b4efe35a0/f17c64194b4923e1d9167ce4e6c7ceb2/0gJ4t3CljKXE7Ti6lEle96EmmsWHE7HXkk6Sx74RJH7kfixI3juMWfa0ScX2hWNW3FKzh786D1Dok4HCQHk0F_AtvKpHJNYaKbw_LbADRSatQdw8WQekQjEO0waF93qFPLg_FQsML4kWdYWPUqBGGIw.webp)
+
+- Outstream Ads 外播广告: 外播广告出现在观看视频体验之外的地方。它们出现在文章、博客帖子或其他内容资产中。
+  - 这些广告以横幅广告的形式出现，或者当观众在网页上滚动到它们时开始播放。它们通常开始播放时没有声音，但观众可以通过点击来打开声音。
+
+![](https://static.semrush.com/blog/uploads/media/a5/72/a5727216eb4ced35ae47560e3cd0d48f/6949bc325e31e71c9d89f8614f072a00/image.webp)
+
+- Bumper Ads 碰撞式广告: 碰撞式广告最长六秒钟，观众不能跳过它们。
+  - 它们在流媒体服务或像 YouTube 这样的网站上的视频播放前、中或后播放。Bumper Ads 可以加强品牌信息或在一个活动中引入简短、集中的促销。
+  - 使用 Bumper 广告格式不会用大量信息或冗长的故事情节压倒观众。
+
+![](https://static.semrush.com/blog/uploads/media/67/95/679544905513f05b7488b1f44c47ffbd/ea241854d731a83d6dd63f750dc1e480/MsKr7dJyd2svNzvuHbXxqt2b9IIS2pS2oqqE9Hrp7ncdke6to3lZZgeJcbPh-mFOheIgCJcWBj5hnfJk0hOsDhGlCsL_Kn0ohASN1QO7oQ3TtaHk-n_ZXHF6CgEmdxlU2r-2kgnSCYmkjNjOyoDaGRg.webp)
+
+- Native Ads 原生广告: 原生广告融入了周围的内容，使它们看起来像是托管它们的平台的自然部分。它们看起来和感觉就像它们本该在那里一样。这使得用户体验更加流畅和愉悦。
+
+Facebook 上的原生视频广告的例子
+
+![](https://static.semrush.com/blog/uploads/media/3e/75/3e75e4d76e35ae4a090685cb4b68bb12/750036c1ca6433332845171521c3c8c5/image.webp)
+
+**如何制作有效的在线视频广告**
+
+**1. 在最初的 3 秒内抓住注意力**
+
+前三秒决定成败，Facebook 发现，有 65%的人如果看了视频的前三秒，至少会继续观看 10 秒，而有 45%的人会继续观看 30 秒。
+
+注意力持续时间在缩短。内容、广告和分心因素铺天盖地而来。所以，你只有三秒钟的时间抓住观众的注意力，防止他们滚动屏幕或点击“跳过广告”按钮。
+
+从一开始就要让视频震撼起来——呈现一些能立即激起观众兴趣的内容，提供一个即将展开内容的预览，或者提出他们想要解决的问题。
+
+Shopify 案例: https://www.youtube.com/watch?v=J5JAuLX8Bm4  
+开屏 3 秒提出一个问题: "Ready for the best-converting checkout on the web?"
+
+ClickUp 案例: https://www.youtube.com/watch?v=FcUArEbrktY  
+开屏 3 秒根据产品经理痛点 "项目管理可能是一个繁忙和压力重重的过程。" 制造反差: "Managing your projects shouldn't feel like this"。
+
+**2. 更早提及你的品牌**
+
+在一开始就提及你的品牌可以确保观众立即识别出广告的来源。
+
+为此，在广告开始的前几秒钟内展示你的品牌标志或名称，或者让旁白提到品牌名称。
+
+此外，一个被称为首因效应的心理学概念影响着人类的记忆。
+
+这意味着人们倾向于记住他们首先遇到的事物。当你在视频开头提到你的品牌时，他们更有可能记住它，因为那是他们首先看到和听到的东西。
+
+Pipedrive 案例: https://www.youtube.com/watch?v=fHsiNgJbh-8  
+开屏 3 秒: "Pipedrive, the easy and effective CRM to drive growth."
+
+**3. 选择正确的视频广告格式**
+
+每种视频广告格式都有其目的。问问自己：你希望你的视频达到什么目的？你是想提高品牌知名度，收集潜在客户，吸引流量到你的网站，推广一款产品，还是教育你的观众？
+
+Samsung 碰撞式广告案例: https://www.youtube.com/watch?v=B5VRJ_OH7Yc&t=6s  
+三星想要传达限时预订优惠的概念。一则短片广告可以迅速传达这个信息。
+
+如果你有一个更长的故事要讲述，比如推广新产品的特点，一则 15 秒的流媒体前置广告可能更合适。它为你提供了更多时间来吸引观众并提供信息。
+
+Samsung Flip 手机新品推荐: https://www.youtube.com/watch?v=MeuycYr8qEo  
+它制作了一则 35 秒的广告，将手机及其功能置于聚光灯下。但三星并没有止步于列举规格或好处。它引导我们进行了一次旅程，精确展示了这些特性如何提升我们的日常生活。
+
+**4. 为移动设备优化**
+
+随着移动搜索占据超过一半的市场份额，可以肯定的是，有相当数量的人在他们的智能手机上观看视频。显而易见的是: 您的视频广告需要适配移动设备播放才能更加有效。
+
+它们必须快速加载并适应小屏幕，以减少观众感到沮丧并点击离开您的视频的机会。移动优化不仅仅是一个技术问题。它是为了确保你的观众能够舒适地观看视频，没有任何问题。
+
+- **响应式平台**: 选择支持响应式设计的平台。这意味着你的视频会自动调整大小适应各种屏幕，从智能手机到平板电脑。
+- **移动优先编辑**: 使用清晰可辨的字体，简洁的文本和清晰的视觉效果，方便用户在移动屏幕上观看。
+- **保持简短**: 移动设备的观众通常注意力较短，因此保持视频的精简。在最初几秒内传达信息以吸引他们的兴趣。
+- **优化加载时间**: 压缩视频以减小文件大小，确保更快的加载时间。加载慢的视频可能会导致用户沮丧和高跳出率。
+- **字幕**: 许多观众在静音或嘈杂环境下观看视频。包括字幕或标题以确保他们仍然能够跟随并理解你的信息。
+
+**5. 添加字幕或子标题**
+
+在您的视频广告中添加字幕或标题是一个明智的选择，可以使您的视频广告更加引人注目并且易于访问。这样，包括那些可能听力有困难的人在内的每个人都能理解屏幕上发生的事情。
+
+此外，许多人在公共场所使用移动设备观看视频时会关闭声音。字幕允许他们在嘈杂的环境中也能理解您的信息。
+
+添加字幕还可以打破语言障碍，使每个人无论他们来自哪里都更容易获取您的信息。
+
+Preply 案例: https://www.youtube.com/watch?v=fk7IgPTFp48  
+在广告中，当旁白讲述故事时，你会注意到文本会同时出现在屏幕上。结合视觉和声音有助于人们更好地理解和记住信息。Preply 巧妙地使用文本来突出重要点，并引导你的注意力集中到关键细节上。
+
+**6. 使用模式打断元素**
+
+模式打断元素是放置在视频中的出人意料、抓人眼球的时刻。它们可能是视觉上的突然变化、一个惊人的声音，或是故事情节的快速转变。其目的是打断观众通常的滚动模式，使他们开始集中注意力。
+
+Slack 案例: https://www.youtube.com/watch?v=6WZv4E89kjY  
+Slack 设计了这个，它采用了鲜艳的颜色、文字和图案来抓住你的注意力。这些元素共同作用，使得其在视觉上具有吸引力并且突出。你在广告中看到的文本讲述了一个故事。它解释了重要的要点，确保你明白发生了什么，即使你在没有旁白的情况下观看它。
+
+**7. 以强有力的号召性用语(CTA)结束**
+
+在你的视频广告末尾以强烈的行动号召（CTA）结束，可以引导观众采取他们旅程中的下一步。你的视频已经吸引、告知或者娱乐了你的观众。现在是时候促使他们采取行动了。
+
+无论你是希望潜在客户访问你的网站，注册电子报，还是进行购买，一个清晰的 CTA 告诉他们接下来要做什么。
+
+Wise 案例: https://www.youtube.com/watch?v=GeGBxqeT-kI  
+这个六秒钟的碰撞式广告准确地告诉观众他们应该采取什么行动——开设一个 Wise 账户。它不止于此。广告还告诉人们如何开设一个 Wise 账户。它提供了通往 App Store 和 Play Store 的链接。
+
+**在您的视频广告中如何包含一个清晰突出的行动号召：**
+
+- **直白表述**: 使用 "Shop Now 立即购买"、"Learn More 了解更多" 或 "Subscribe Today 今日订阅" 等短语来告诉观众您希望他们做什么。
+- **放置位置**: 将您的行动号召放在容易看见和获取的位置。许多人将它放在视频的最后，但如果合理的话，也可以在视频中途多次包含。
+- **创造紧迫感**: 鼓励行动——给您的行动号召添加时间限制或限量可用性。像 "Limited Time Offer 限时优惠" 这样的短语能激励观众更早采取行动。
+- **使用视觉提示**: 用箭头或按钮等视觉元素加强您的行动号召，吸引人注意。
 
 ### 53. ASO (App store Optimization) 应用商店优化
 
@@ -725,6 +904,8 @@ ROI 并没有考虑时间的因素，我有两笔投资，第一批投资 ROI �
 - 美国 - 政府债券: https://cn.investing.com/rates-bonds/usa-government-bonds
 - Display Ads: https://mailchimp.com/marketing-glossary/display-ads/#:~:text=Display%20ads%20are%20images%2C%20videos,they%20appear%20on%20the%20web.
 - Splash Ads: https://developer.huawei.com/consumer/en/doc/HMSCore-Guides/publisher-service-splash-0000001050066919
+- What is Native Advertising - How it Works | Outbrain | Outbrain.com: https://www.outbrain.com/native-advertising/#:~:text=Native%20advertising%20is%20a%20form,seamlessly%20on%20the%20web%20page.
+- What Are In-Feed Social Media Ads? – All You Need To Know To Start Monetizing: https://www.codefuel.com/blog/what-is-in-feed/
 
 ## 历史
 
