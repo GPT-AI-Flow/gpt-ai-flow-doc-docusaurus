@@ -981,6 +981,156 @@ SEO 与 PPC 广告创造了极好的协同效应，并且与其他营销领域�
 
 ### 55. SEM (Search Engine Marketing) 搜索引擎营销
 
+搜索引擎营销（SEM）指的是通过提高网站在搜索引擎结果页面（SERPs）中的可见性来推广网站的做法，主要是通过付费广告，但也可以包括搜索引擎优化（SEO）。
+
+- 付费宣传
+  - 曝光付费
+  - PPC (Pay Per Click) 点击付费
+- 免费宣传
+  - SEO 关键词排名争夺
+  - 优质内容宣传
+
+通过付费广告，您的网站在付费结果中排名。
+
+![](https://static.semrush.com/blog/uploads/media/5f/da/5fdac1fdb209270905eda9f9a4a55601/paid-ads-vs-organic-results.webp)
+
+**SEM vs SEO**
+
+SEM 是针对搜索引擎的搜索结果做的市场营销，SEM 的目标是通过付费宣传方式和免费宣传方法，获得搜索引擎更多的无论是付费还是免费的流量。
+
+**搜索引擎营销是如何工作的？**
+
+SEM 是非常有效的，因为它能够让你的网站排在免费流量的结果前面。
+
+![](https://static.semrush.com/blog/uploads/media/a3/f8/a3f8e93d1d6b1ca6bcac42e2ce8b93f8/first-place-organic-and-paid.webp)
+
+观察上图，你可能会好奇为什么 Headspace 这家公司已经在免费流量上排名第一，依然还要竞价这个关键词？
+
+原因很简单：样他们在搜索引擎结果页上**占据了更多的版面**。另一个是为了**稳定地展示**，即使他们的有机排名波动，他们仍然有机会出现在页面的顶部。这是因为部分用户在购买搜索结果出来的产品时，不会过分计较产品参数，往往会选择最容易点击的，最显眼的产品去购买，这就是占据更大版面搜索结果的重要性。
+
+:::tip
+参考过去的报纸，我们也说上头版，上头条，因为那样关注度更高呀。
+:::
+
+当你在竞价的时候遇到对手时，如果你依然想出现在搜索页面的顶部，你需要赢得 Ad Auction 广告拍卖。
+
+**Ad Auction 广告拍卖**
+
+为了获得竞争激烈的搜索引擎结果页顶部的付费广告位，广告商们会对关键词进行出价。赢得拍卖的人将获得最顶部的位置。
+
+**要参与广告竞价**，您需要确定两件重要的事情：
+
+1. 您想要竞标的关键词
+2. 您愿意为每个关键词支付的每次点击费用
+
+**广告平均竞价水平**
+
+广告平均竞价根据行业利润与竞争激烈程度相关，保险和法律行业的平均 CPC 点击成本高于家居和园艺行业。
+
+了解更多行业平均竞价: https://www.statista.com/statistics/1115432/us-search-advertising-cpc/
+
+**影响广告展示的 5 大主要因素**
+
+除了用户的购买意图和关键词的性质，还有:
+
+- **最高出价**: 您愿意为您广告上的一次点击支付的最大金额
+- **质量得分**: 谷歌广告用来确定您广告的相关性或对用户的有用程度的公式
+- **广告扩展的影响**: 您在广告中提供的额外信息（电话号码、指向特定页面的链接等）
+- **广告排名**: 广告排名是您的出价和广告及落地页面质量的结合。谷歌要求广告满足最低质量标准，才能在更高的位置显示。
+- **广告环境**: 在计算广告排名时，谷歌会考虑语境。这包括使用的搜索词、用户的位置、搜索时间、使用的设备、其他竞争的广告以及用户的行为与用户特点等。
+
+![](https://static.semrush.com/blog/uploads/media/e5/33/e5333aa62f07d34698ed597756fb501e/EN-Search-Engine-Marketing-Graphics-01%20%281%29.webp)
+
+**SEM 最佳实践和有用提示**
+
+**1. 设置谷歌广告账户和广告系列结构**
+
+- **Campaign 广告系列**: 一组共享预算、目标位置和其他设置的广告组
+- **Ad group 广告组**: 按主题划分的关键词集合
+- **Keyword 关键词**: 你正在出价的术语
+- **Ad 广告**: 当你的广告被触发时用户将看到的文案
+
+![](https://static.semrush.com/blog/uploads/media/65/47/6547a7a49ed9cfd60383fc2c88377c25/EN-Position-Tracking-Metrics-Explained-02.webp)
+
+**2. 选择正确的关键词**
+
+您广告系列中的“正确”关键词取决于多种因素，包括搜索意图、搜索量、竞争以及每次点击成本:
+
+**针对具有商业和交易意图的关键词**
+
+谷歌会主动更具各种因素去分析搜索意图，有四个主要类别:
+
+- **Navigational 导航性**: 寻找特定的东西
+- **Informational 信息性**: 了解一个话题
+- **Commercial 商业性**: 调查产品、服务或品牌
+- **Transactional 交易性**: 打算进行购买
+
+**审查关键词的搜索量和竞争情况**
+
+- Volumne 搜索量
+- Competitive Density 竞争密度
+
+**跟踪每次点击成本**
+
+- CPC (Cost Per Click): 每次点击成本
+
+**添加否定关键词和删除重复关键词**
+
+**I. 添加否定关键词**
+
+如果你只做高端用户，你是不希望你的产品显示在"免费"的搜索页面下面，因为搜索这个词的用户大概率不是你的目标客户。
+
+当然如果你选择一般来说是在我们选择品牌里面去做否定词，比如我卖运动鞋，我肯定不希望搜索耐克的用户看到我卖的运动鞋。
+
+:::info
+其他否定词: 便宜、大品牌的名字等等。
+:::
+
+**这是一个关于负面关键词如何工作的示例**
+
+![](https://static.semrush.com/blog/uploads/media/6f/05/6f057c23007207f5300d89a4bf6c46a3/kyVORg9mKV6vac-Gu8HmB5AgeASMHuTq4nUOHN9bFPfjUK3TuFCXwXIvwfAwLmRdkraE1Wb2_ISnglLDH0viGExOJKHa_mwyT0jrzr-ZerLfRFK0F4pf-hWHT9lP24OTPDhh4_Pe.webp)
+
+**II. 删除重复关键词**
+
+如果你在同一个关键词中重复竞价，有可能你会跟自己竞价，这肯定是在浪费钱。
+
+**3. 撰写引人注目的 SEM 广告文案**
+
+每个付费广告由四个部分组成：标题、显示 URL、描述和广告扩展。
+
+![](https://static.semrush.com/blog/uploads/media/de/5e/de5e713c75386932a8d4d431e3c26ed8/ads.webp)
+
+- **Headline** 优化广告标题
+  - 包含简单直接的语言
+  - 自然使用关键词
+  - 满足用户意图
+  - 如果符合你的品牌定位，可以诉诸情感或使用幽默
+- **Customizable URL Path** 选择一显眼合适的 URL
+  - 帮助用户预期他们将进入哪种类型的页面
+  - 清楚显示你的品牌名称或你销售的商品
+  - 保持简短和简单
+- **Description** 撰写吸引点击的描述
+  - 策略性地放置关键词，让用户能够判断你的广告符合他们的需求
+  - 保持信息简洁明了，以免用户失去兴趣
+  - 始终包含一个行动号召来吸引点击（“立即购买”、“下单”、“现在预订”等）
+- **Ad Extensions** 包含广告扩展信息: 呼叫按钮、位置信息、链接到您网站的特定部分、额外的文本等等。**广告扩展信息并不总是显示**，由以下因素决定:
+  - 广告排名：当达到最低广告排名时，网站扩展名将会显示。如果您的广告扩展没有显示，可以提高您的出价和广告质量（或两者兼而有之）。
+  - 您广告的位置：搜索引擎结果页面（SERP）上用于展示广告的空间是有限的，因此排名较高的广告会优先显示。位于较低位置的广告通常不会显示那么多扩展。
+  - 您已启用的其他扩展：当您参与竞价时，谷歌将确定合格广告扩展和格式的最佳可能组合。根据谷歌的说法，“您将无法获得一个比高广告位置的预期点击率（CTR）更高的扩展组合。”
+- 创建一个**与广告相关的可引流进入的承接页面**: 落地页面是用户点击您的广告后将会访问的页面。这个页面的实际 URL 通常与您的最终 URL 相同。落地页面体验是构成关键词质量得分的众多因素之一，落地页面的体验更具以下因素决定:
+  - 有用的、相关的信息
+  - 易于导航
+  - 页面上的链接数量
+  - 用户期望（即，落地页面是否符合基于广告文案的用户期望？）
+
+务必定期检查您的广告活动结构和广告分组，以及您的广告文案，以确保您的预算没有在这些方面浪费。
+
+最后，继续尝试各种方法，以确保您的努力获得最佳的投资回报率。
+
+**4. 分析竞争对手的广告**
+
+在尝试自己的广告时，审查竞争对手的广告文案和策略是个好主意。这可以让你了解他们成功的地方以及如何复制它。
+
 ### 56. CTR (Click-Through Rate) 点击率
 
 ### 57. CPM (Cost Per Mille) 千次点击成本
@@ -1064,9 +1214,12 @@ SEO 与 PPC 广告创造了极好的协同效应，并且与其他营销领域�
 - What Is Video Advertising? A Guide to Getting Started: https://www.semrush.com/blog/video-advertising/#how-to-create-effective-online-video-ads
 - What is App Store Optimization (ASO)? The in-depth guide for 2023: https://appradar.com/academy/what-is-app-store-optimization-aso
 - What Is SEO? Meaning, Examples & How to Optimize Your Site: https://www.semrush.com/blog/what-is-seo/
+- What Is Search Engine Marketing (SEM)? [Explained]: https://www.semrush.com/blog/search-engine-marketing/
+- How the Google Ads auction works: https://support.google.com/google-ads/answer/6366577?hl=en
 
 ## 历史
 
+- 2024.01.03, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.02, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.01, Updated by 小卡: 更新 `营销广告类`
 - 2023.12.29, Updated by 小卡: 更新 `运营数据类`, 增加 `营销广告类`
