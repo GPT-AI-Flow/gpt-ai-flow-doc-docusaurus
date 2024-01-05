@@ -1133,23 +1133,51 @@ SEM 是非常有效的，因为它能够让你的网站排在免费流量的结�
 
 ### 56. CTR (Click-Through Rate) 点击率
 
-### 57. CPM (Cost Per Mille) 千次点击成本
+点击率（CTR）可以用来衡量你的关键词、广告和免费列表的表现如何。
 
-### 58. CPC (Cost Per Click) 单词点击成本
+```
+Clicks / Impressionss = CTR
+```
 
-### 59. CPA (Cost Per Action) 单次行动成本
+高点击率是用户发现你的广告和列表有用且相关的好标志。关键词、广告和列表彼此之间以及与你的业务的相关性越高，用户在搜索你的关键词短语后点击你的广告或列表的可能性就越大。
 
-### 60. CPS (Cost Per Sell) 单次销售成本
+### 57. CPM (Cost Per Mille) 千次展示成本
 
-按照销售额付费分成。
+CPM 千次点击成本是广告主为其广告获得一千次展示或印象支付的费用。
 
-### 61. CPP (Cost Per Purchase) 单次购买成本
+CPM 对于比较各种广告机会或媒体的相对效率非常有用，并且在评估广告活动的总成本时也很有效。
 
-按照订单量付费分成。
+### 58. CPC (Cost Per Click) 单次点击成本
+
+按点击付费（CPC）出价意味着你每次点击你的广告时都要支付费用。单次点击成本 (CPC) 是一种指标，根据广告主在网站或社交媒体上投放的广告所获得的点击量，来确定他们为这些广告支付的费用。
+
+营销人员务必要考虑 CPC，因为它衡量的是品牌的付费广告活动的价格。营销人员的目标应该是降低点击价格，同时打造高质量的点击，从而使顾客满意。
+
+**PPC 和 CPC 有什么区别？**
+
+PPC 和 CPC 描述的是同一事件： PPC 是品牌用于对广告的每次点击付费的方式，而 CPC 是用来衡量这些点击的指标。
+
+### 59. CPA (Cost Per Acuisition, Cost Per Action) 单次获客成本
+
+每次获取成本（CPA）是一个数字营销指标，它计算单个消费者成为付费客户或订阅者的成本或单次达成某个行动目标的成本。
+
+### 60. CPS (Cost Per Sale) 每单次销售成本
+
+每销售成本（CPS）是一种在互联网上推广产品、服务或网站的支付方式。
+
+每销售成本是通过将活动的总成本除以产生的总收入来计算的，指每产生 1 单位收入需要付出多少单位的成本。
+
+### 61. CPP (Cost Per Purchase) 每单次购买成本
+
+CPP 通过将总广告成本除以购买次数来计算。指每产生一笔交易需要支付多少单位的成本。这个指标对于严重依赖在线广告来产生收入的企业特别有用。
+
+例如，如果一个电子商务企业在广告上花费了 500 元，并产生了 100 次购买，CPP 将是 5 元；如果最终的销售额为 1000 元，CPS 是 0.5 元(500/1000)。
 
 ### 62. CPT (Cost Per Time) 一定时间的曝光成本
 
-一般为 1 天，1 周，1 个月。以一个固定价格去买断一段时间内的广告位展示。
+一种基于时间的互联网广告形式，一般为 1 天，1 周，1 个月。以一个固定价格去买断一段时间内的广告位展示。
+
+它不同于按展示次数计费，在这种方式中，购买者支付费用让广告展示固定次数。按时间计费允许在合同期限内无限次展示广告。期限可以短至一天或长达一年。有些合同可能允许保证最少的展示次数。
 
 ### 63. EDM (Electronic Direct Mail) 邮件营销
 
@@ -1216,9 +1244,13 @@ SEM 是非常有效的，因为它能够让你的网站排在免费流量的结�
 - What Is SEO? Meaning, Examples & How to Optimize Your Site: https://www.semrush.com/blog/what-is-seo/
 - What Is Search Engine Marketing (SEM)? [Explained]: https://www.semrush.com/blog/search-engine-marketing/
 - How the Google Ads auction works: https://support.google.com/google-ads/answer/6366577?hl=en
+- Clickthrough rate (CTR): Definition: https://support.google.com/google-ads/answer/2615875?hl=en#:~:text=Clickthrough%20rate%20(CTR)%20can%20be,your%20CTR%20would%20be%205%25.
+- Cost-per-click (CPC): Definition: https://support.google.com/google-ads/answer/116495?hl=en
+- CPC (Cost per Click) explained: https://advertising.amazon.com/en-gb/library/guides/cost-per-click?ref_=a20m_us_fnav_lngsw_zh-cn
 
 ## 历史
 
+- 2024.01.05, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.03, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.02, Updated by 小卡: 更新 `营销广告类`
 - 2024.01.01, Updated by 小卡: 更新 `营销广告类`
