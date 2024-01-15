@@ -313,12 +313,12 @@ const config = {
   ],
 
   plugins: [
-    // [
-    //   'docusaurus2-dotenv',
-    //   {
-    //     systemvars: true, // Set to true if you would rather load all system variables as well (useful for CI purposes)
-    //   },
-    // ],
+    [
+      'docusaurus2-dotenv',
+      {
+        systemvars: true, // Set to true if you would rather load all system variables as well (useful for CI purposes)
+      },
+    ],
     [
       '@docusaurus/plugin-ideal-image',
       {
