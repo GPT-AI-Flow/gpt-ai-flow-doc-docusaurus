@@ -7,7 +7,7 @@ function PricingPage() {
   const {
     siteConfig: { customFields },
   } = useDocusaurusContext();
-  // console.log('siteConfig', siteConfig);
+  // console.log('customFields', customFields);
   const isProd = (customFields?.VERCEL_ENV as string) === 'production';
 
   useEffect(() => {
@@ -43,7 +43,7 @@ function PricingPage() {
         </div>
       )}
       {!isProd && (
-        <div style={{ display: 'none', backgroundColor: '#3f51b5' }}>
+        <div style={{ backgroundColor: '#3f51b5' }}>
           <h2 style={{ color: '#fff', marginTop: '2rem', textAlign: 'center' }}>欧元区(测试)</h2>
           {/* @ts-ignore: Test-EUR */}
           <stripe-pricing-table
