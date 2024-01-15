@@ -24,7 +24,7 @@ const PricesTable = () => {
               <div className="relative flex justify-around">
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
-                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
+                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">€</span>
                     <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">1</span>
                   </div>
                   <div className="mb-2">
@@ -110,7 +110,7 @@ const PricesTable = () => {
               <div className="overflow-hidden">
                 <div className="-mr-20 flex items-end justify-center">
                   <div className="flex">
-                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">$</span>
+                    <span className="-ml-6 mt-2 text-3xl font-bold text-gray-500">€</span>
                     <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">5</span>
                   </div>
                   <div className="mb-2">
@@ -119,8 +119,8 @@ const PricesTable = () => {
                   </div>
                 </div>
                 <div className="text-center text-2xl font-medium">
-                  <span className="text-gray-400 line-through">$83.88</span>
-                  <span className="font-semibold text-gray-700 dark:text-white">$69.90</span>
+                  <span className="text-gray-400 line-through">€83.88</span>
+                  <span className="font-semibold text-gray-700 dark:text-white">€69.90</span>
                 </div>
                 <span className="block text-center text-xs uppercase text-gray-500">按年计费</span>
                 <span className="m-auto mt-4 block w-max rounded-full bg-gradient-to-r from-yellow-300 to-pink-300 px-4 py-1 text-sm font-medium text-yellow-900">
@@ -205,7 +205,7 @@ const PricesTable = () => {
               <h3 className="text-center text-3xl font-semibold text-gray-700 dark:text-white">免费版</h3>
               <div className="relative flex justify-around">
                 <div className="flex">
-                  <span className="-ml-2 mt-2 text-3xl font-bold text-gray-500">$</span>
+                  <span className="-ml-2 mt-2 text-3xl font-bold text-gray-500">€</span>
                   <span className="leading-0 text-8xl font-bold text-gray-800 dark:text-white">0</span>
                 </div>
               </div>
@@ -282,7 +282,7 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>0{' '}
+                        <span className="text-lg text-gray-500">€</span>0{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
                       <a
@@ -308,7 +308,7 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>1.99{' '}
+                        <span className="text-lg text-gray-500">€</span>1.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
 
@@ -345,7 +345,7 @@ const PricesTable = () => {
                         </p>
                       </div>
                       <h3 className="text-4xl text-gray-900 dark:text-white font-bold flex">
-                        <span className="text-lg text-gray-500">$</span>6.99{' '}
+                        <span className="text-lg text-gray-500">€</span>6.99{' '}
                         <span className="ml-4 h-max mt-auto text-lg text-gray-500 font-light">/ Month</span>{' '}
                       </h3>
 
