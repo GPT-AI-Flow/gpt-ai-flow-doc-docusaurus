@@ -20,7 +20,7 @@ function PricingPage() {
 
   return (
     <div className="business_prices_page_contianer">
-      <div style={{ color: 'black' }}>env: {siteConfig.customFields.NODE_ENV as string}</div>
+      <div style={{ color: 'black' }}>env: {siteConfig.customFields.VERCEL_ENV as string}</div>
       <div className="row" style={{ backgroundColor: '#3f51b5' }}>
         <a href="/business/prices-zh" style={{ margin: 'auto' }}>
           <h2 style={{ color: '#fff', textAlign: 'center', marginTop: '2rem' }}>
