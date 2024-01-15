@@ -5,7 +5,7 @@ import React, { useEffect } from 'react';
 
 function PricingPage() {
   const { siteConfig } = useDocusaurusContext();
-  console.log('siteConfig', siteConfig);
+  // console.log('siteConfig', siteConfig);
 
   useEffect(() => {
     const script = document.createElement('script');
