@@ -44,7 +44,7 @@ const PricesTable = () => {
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
-                  <span>模型可切换 (默认 GPT 3.5)</span>
+                  <span>模型可切换 GPT 4 (默认 GPT 3.5)</span>
                 </li>
                 <li className="space-x-2">
                   <span className="font-semibold text-green-500">✓</span>
@@ -409,7 +409,7 @@ const PricesTable = () => {
                   <tr>
                     <td className="left-0 border border-sky-100 dark:border-gray-700 bg-sky-50 dark:bg-gray-800 p-4 font-medium text-sky-900 dark:text-gray-200 sm:sticky">
                       <span className="block w-max">
-                        模型可切换
+                        模型可切换 GPT 4
                         <br />
                         (默认 GPT 3.5)
                       </span>
