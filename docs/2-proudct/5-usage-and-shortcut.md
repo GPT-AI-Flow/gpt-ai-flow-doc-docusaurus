@@ -45,7 +45,41 @@ import ContactUs from "../9-contact-us.md"
 
 ![product-shorcut-start-search](./img/5-usage-and-shortcut/2023-08-25-img-10-switch-start-and-stop-search.gif)
 
-## 高效使用快捷键
+## 显示/隐藏界面
+
+### 显示/隐藏主界面
+
+按下 `Shift + Alt + Space` 键可以方便地显示/隐藏主窗口，并且光标会自动聚焦到主窗口并可编辑。
+
+![](./img/5-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
+
+### 显示/隐藏对话框
+
+按下 `Alt + Space` 键可以方便地显示/隐藏对话窗口。
+
+![](./img/5-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
+
+## 操作对话历史
+
+### 快速清空对话历史
+
+方法 1: `Alt + 0` 快捷键: 快速清空对话历史；
+
+方法 2: 点击对话框右上角的刷子按钮清空对话历史。
+
+![](./img/5-usage-and-shortcut/2024-01-29-gif-1-clean-messages-history.gif)
+
+## 切换 AI 大模型类型
+
+点击对话框右上角的 `G3` 或 `G4` 实现快速模型切换，使用 `G4` 解决复杂的问题，能够获得更全面的答案。
+
+:::tip
+想要获得 G4 的切换请在试用时候选择工具版。
+:::
+
+![](./img/5-usage-and-shortcut/2024-01-29-gif-2-switch-model-type.gif)
+
+## 高级快捷键用法
 
 ### 选中文本，直接按快捷键
 
@@ -66,25 +100,11 @@ import ContactUs from "../9-contact-us.md"
 
 :::
 
-### 用户专属快捷键
+## 用户专属快捷键
 
 配合 [自定义指令集](/docs/proudct/basic-presentation#指令集) 使用，效率倍增！
 
 ![](./img/5-usage-and-shortcut/2023-10-31-img-1-set-customize-shortcut.gif)
-
-## 显示隐藏
-
-### 显示/隐藏主界面
-
-按下 `Shift + Alt + Space` 键可以方便地显示/隐藏主窗口，并且光标会自动聚焦到主窗口并可编辑。
-
-![](./img/5-usage-and-shortcut/2023-09-05-img-3-shorcut-to-show-and-hide-mainWindow.gif)
-
-### 显示/隐藏对话框
-
-按下 `Alt + Space` 键可以方便地显示/隐藏对话窗口。
-
-![](./img/5-usage-and-shortcut/2023-09-03-img-1-shorcut-to-show-and-hide-popupWindow.gif)
 
 ## 联系我们
 
