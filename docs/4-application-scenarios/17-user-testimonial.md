@@ -20,11 +20,11 @@ import ContactUs from "../9-contact-us.md"
 
 ### [SEO 助理模块](/docs/application-scenarios/seo-assistant)
 
-[Follow Paris 巴黎去哪玩(2023.08.25)](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
+[Follow Paris 巴黎去哪玩(2024.01.29)](https://www.followparis.com/zh/que-faire-a-paris-cette-semaine) 网站 SEO 排行 Goolge 搜索首页。
 
-数据：过去 28 天谷歌搜索流量 3.75 万，自然点击 742 人。
+数据：过去 28 天谷歌搜索流量 13.2 万，自然点击 1950 人。
 
-![](./img/17-user-testimonial/followparis/2023-08-25-img-7-seo-module-effect-for-followparis.png)
+![](./img/17-user-testimonial/followparis/2024-01-29-img-8-seo-module-effect-for-followparis-2.png)
 
 Google 搜索关键词：
 
