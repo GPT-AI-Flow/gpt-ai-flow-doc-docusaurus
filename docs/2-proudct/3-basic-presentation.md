@@ -46,7 +46,7 @@ import ContactUs from "../9-contact-us.md"
 
 ![](./img/5-usage-and-shortcut/2023-10-31-img-2-use-customize-shortcut-to-read-english-news.gif)
 
-## 指令集
+## 用户自定义指令集
 
 在设置界面的 ‘指令集’ 中，我们可以自定义自己的指令，以便能够在 [`悬浮窗口`](#floating-window) 与 [`专业界面`](/docs/proudct/gpt-ai-flow-pro-mode-usage-guide) 中使用。
 

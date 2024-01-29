@@ -100,9 +100,9 @@ import ContactUs from "../9-contact-us.md"
 
 :::
 
-## 用户专属快捷键
+## 用户自定义快捷键
 
-配合 [自定义指令集](/docs/proudct/basic-presentation#指令集) 使用，效率倍增！
+配合 [用户自定义指令集](/docs/proudct/basic-presentation#指令集) 使用，效率倍增！
 
 ![](./img/5-usage-and-shortcut/2023-10-31-img-1-set-customize-shortcut.gif)
 
