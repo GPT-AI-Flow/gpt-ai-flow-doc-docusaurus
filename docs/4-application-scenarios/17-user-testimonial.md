@@ -12,7 +12,7 @@ import ContactUs from "../9-contact-us.md"
 ![](./img/17-user-testimonial/followparis/2023-12-07-img-15-xiaoHongShu-followparis-page.png)
 
 <div style={{display:"flex", flexWrap: "wrap"}}>
-    <Image img={require("./img/17-user-testimonial/followparis/2023-12-07-img-16-xiaoHongShu-followparis-backoffice.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
+    <Image img={require("./img/17-user-testimonial/followparis/2024-01-29-img-20-xiaoHongShu-followparis-backoffice.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
     <Image img={require("./img/17-user-testimonial/followparis/2023-12-07-img-17-xiaoHongShu-followparis-backoffice-2.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
     <Image img={require("./img/17-user-testimonial/followparis/2023-12-07-img-18-xiaoHongShu-followparis-backoffice-3.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
     <Image img={require("./img/17-user-testimonial/followparis/2023-12-07-img-19-xiaoHongShu-followparis-backoffice-4.png")} style={{ width: 300, marginLeft: "1rem", marginTop: "1rem" }} />
