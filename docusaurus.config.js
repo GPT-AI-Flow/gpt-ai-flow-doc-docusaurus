@@ -9,7 +9,6 @@ const config = {
   title: 'GPT AI Flow',
   tagline: '自媒体运营神器，你的 AI 助理！',
   favicon: 'img/favicon.ico',
-  staticDirectories: ['public', 'static'],
 
   headTags: [
     {
