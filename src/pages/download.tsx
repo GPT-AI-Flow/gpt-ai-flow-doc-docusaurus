@@ -28,7 +28,7 @@ const DownloadPage = (): JSX.Element => {
 
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.40/GPT.AI.Flow-0.1.40.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.42/GPT.AI.Flow-0.1.42.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -41,7 +41,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.40/GPT.AI.Flow-0.1.40-arm64.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.42/GPT.AI.Flow-0.1.42-arm64.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -54,7 +54,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本 (M1)
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.40/GPT.AI.Flow.Setup.0.1.40.exe"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.42/GPT.AI.Flow.Setup.0.1.42.exe"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
@@ -74,7 +74,7 @@ const DownloadPage = (): JSX.Element => {
                       target="_blank"
                       style={{ textDecoration: 'none' }}
                     >
-                      其他下载线路(v0.1.40)
+                      其他下载线路(v0.1.42)
                     </a>
                   </span>
                 </div>
