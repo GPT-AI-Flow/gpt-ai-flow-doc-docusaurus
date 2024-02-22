@@ -264,7 +264,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}`,
+        copyright: `Copyright © ${new Date().getFullYear()} GPT AI Flow Powered by <a href="https://digitechjoy.com/" style="color: #fff; text-decoration: none;">DigitechJoy</a>`,
         logo: {
           alt: 'logo-gptaiflow-in-footer',
           src: '/img/logo/2023-08-14-logo-for-gptaiflow-img-2.png',
