@@ -1,5 +1,9 @@
 # 产品更新
 
+## 2024-04-08-v0.1.44-v0.1.44-应用软件国际免费版
+
+Apply software international with Free version
+
 ## 2024-02-04-v0.1.42-官方客服助手与 ProMode 专业模式指令链/小红书达人官方测试数据库 大更新
 
 产品介绍:
