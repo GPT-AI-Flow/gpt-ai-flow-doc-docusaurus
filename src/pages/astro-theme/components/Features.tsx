@@ -176,7 +176,7 @@ export const CardsForFeatures = (props: CardsForFeatures_input) => {
           ✒️ 提供邮件写作建议，<b>确保您的邮件内容既专业又得体</b>
         </>
       ),
-      openLink: isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/email',
+      openLink: isHomePage ? '/docs/application-scenarios/introduction' : '/docs/application-scenarios/emailAssistant',
     },
     {
       icon: '/img/icons/2023-09-18-img-11-icon-social-media.png',
