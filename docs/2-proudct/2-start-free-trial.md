@@ -1,4 +1,5 @@
 ---
+sidebar_class_name: hidden
 sidebar_label: 免费试用
 title: 'GPT AI Flow: 开启免费试用的完整步骤指南'
 slug: 'how-to-start-a-free-trial-of-gpt-ai-flow'
