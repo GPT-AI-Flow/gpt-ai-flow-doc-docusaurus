@@ -67,20 +67,53 @@ const DownloadPage = (): JSX.Element => {
                     下载 Windows 版本
                   </a>
                 </div>
-                <div className="!mt-0">
+                <div className="!mt-3 flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
+                  <a
+                    href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
+                    title="Download for Mac"
+                    aria-label="Download for Mac"
+                    className="download-link-button relative !left-[2px]"
+                  >
+                    <img
+                      src="/img/pages/downloadPage/2023-08-18-img-2-logo-apple.png"
+                      alt="icon-windows"
+                      style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
+                    />
+                    其他下载线路
+                  </a>
+                  <a
+                    href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
+                    title="Download for Windows"
+                    aria-label="Download for Windows"
+                    className="download-link-button relative !left-[2px]"
+                  >
+                    <img
+                      src="/img/pages/downloadPage/2023-08-18-img-1-logo-windows.png"
+                      alt="icon-windows"
+                      style={{ width: 24, height: 24, filter: 'invert(1)', marginRight: '0.5rem' }}
+                    />
+                    其他下载线路
+                  </a>
+                </div>
+                <div className="!mt-1">
                   <span className="text-md font-bold text-gray-600 dark:text-gray-300">
                     <a
                       href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
                       target="_blank"
-                      style={{ textDecoration: 'none' }}
+                      style={{ textDecoration: 'none', color: '#4B5563' }}
                     >
-                      其他下载线路(v0.1.44)
+                      点击选择其他快速下载线路(v0.1.44)，可能会提高下载速度。
                     </a>
                   </span>
                 </div>
-                <div className="text-sm text-gray-600 dark:text-gray-300">
+                <div className="!my-10 text-sm text-gray-600 dark:text-gray-300">
                   <h3>
-                    <a href="https://www.app.gptaiflow.com" target="_blank" style={{ textDecoration: 'none' }}>
+                    <a
+                      href="https://www.app.gptaiflow.com"
+                      target="_blank"
+                      className="text-info"
+                      style={{ textDecoration: 'none' }}
+                    >
                       👩‍💻 网页版: 无需下载，直接使用
                     </a>
                   </h3>
@@ -90,7 +123,7 @@ const DownloadPage = (): JSX.Element => {
                   <span className="text-info dark:text-secondary">
                     <b>200+</b>
                   </span>{' '}
-                  用户注册使用
+                  用户下载注册使用
                 </div>
                 <div className="hidden flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <p className="mt-2 text-gray-500">
