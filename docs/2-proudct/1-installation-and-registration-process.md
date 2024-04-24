@@ -49,8 +49,8 @@ Windows 下载 `*.exe` 文件后，即可直接安装。
 
 ![](./img/1-registration-process/2023-08-24-img-6-first-time-open-software.png)
 
-请确保应用获得需要的权限，以保证应用正常运行。  
-请确保该应用在 MacOS 系统中获得 `设置 > 隐私与安全 > 辅助功能` 的权限。
+- 请确保应用获得需要的权限，以保证应用正常运行。如果无法正常启动，请通过 `设置 > 隐私与安全 > 安全性` 部分点击 `仍要打开`。
+  - 确保该应用在 MacOS 系统中获得 `设置 > 隐私与安全 > 辅助功能` 的权限。
 
 ![](./img/1-registration-process/2023-09-05-img-4-gpt-ai-flow-accessibility-permissions-in-macOS.png)
 
