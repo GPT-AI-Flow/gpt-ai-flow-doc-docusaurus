@@ -26,6 +26,18 @@ const DownloadPage = (): JSX.Element => {
                   天啊！用AI创作内容竟然如此简单！仅需 10 分钟，轻松完成 3 篇高品质小红书分享帖！
                 </p>
 
+                <div>
+                  <span className="text-md font-bold text-gray-600 dark:text-gray-300">
+                    <a
+                      href="/docs/proudct/detailed-guide-to-downloading-installing-and-registering-gpt-ai-flow-software"
+                      target="_blank"
+                      style={{ textDecoration: 'none', color: '#4B5563' }}
+                    >
+                      请先查看安装指南
+                    </a>
+                  </span>
+                </div>
+
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
                     href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.44/GPT.AI.Flow-0.1.44.dmg"
