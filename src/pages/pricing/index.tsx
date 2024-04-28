@@ -24,7 +24,7 @@ const PricesTable = () => {
             <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">You just want to discover</p>
             <div className="flex justify-center items-baseline my-8">
               <span className="mr-2 text-5xl font-extrabold">$0</span>
-              <span className="text-gray-500 dark:text-gray-400"></span>
+              <span className="text-gray-500 dark:text-gray-400">/free</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -42,7 +42,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold">3</span> Custom Features
+                  <span className="font-semibold"></span> 即时启动AI对话
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -59,13 +59,30 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold">3</span> Custom Features
+                  <span className="font-semibold"></span> 定制化对话模板
+                </span>
+              </li>
+              <li className="flex items-center space-x-3">
+                <svg
+                  className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+                <span>
+                  <span className="font-semibold"></span> 充分满足日常用户的基本需求使用额度
                 </span>
               </li>
             </ul>
             <a
               href=""
-              className="text-white bg-teal-600 hover:bg-teal-700 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
+              className="text-emerald-700 bg-emerald-50 hover:bg-emerald-100 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Signup for free
             </a>
@@ -74,11 +91,11 @@ const PricesTable = () => {
           <div className="flex flex-col w-full p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
             <h3 className="mb-4 text-2xl font-semibold">Tools</h3>
             <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              Best for small businesses looking to enhance productivity
+              You want to learn and have a personal assistant
             </p>
             <div className="flex justify-center items-baseline my-8">
-              <span className="mr-2 text-5xl font-extrabold">$79</span>
-              <span className="text-gray-500 dark:text-gray-400">/month</span>
+              <span className="mr-2 text-5xl font-extrabold">$4.95</span>
+              <span className="text-gray-500 dark:text-gray-400">/year</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -96,12 +113,46 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold">5</span> Custom Features
+                  <span className="font-semibold"></span> 高级AI对话功能
+                </span>
+              </li>
+              <li className="flex items-center space-x-3">
+                <svg
+                  className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+                <span>
+                  <span className="font-semibold"></span> 无限使用次数
+                </span>
+              </li>
+              <li className="flex items-center space-x-3">
+                <svg
+                  className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+                <span>
+                  <span className="font-semibold"></span> 专业模式全面支持
                 </span>
               </li>
             </ul>
             <a
-              href=""
+              href="/download"
               className="text-white bg-teal-600 hover:bg-teal-700 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Get started
@@ -111,11 +162,11 @@ const PricesTable = () => {
           <div className="flex flex-col w-full p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
             <h3 className="mb-4 text-2xl font-semibold">Lifetime</h3>
             <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              Best for large enterprises seeking comprehensive solutions
+              You want a comprehensive solution and ongoing updates
             </p>
             <div className="flex justify-center items-baseline my-8">
-              <span className="mr-2 text-5xl font-extrabold">$199</span>
-              <span className="text-gray-500 dark:text-gray-400">/month</span>
+              <span className="mr-2 text-5xl font-extrabold">$14.95</span>
+              <span className="text-gray-500 dark:text-gray-400">/lifetime</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -133,12 +184,46 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold">Unlimited</span> Custom Features
+                  <span className="font-semibold"></span> 一次购买，终身享受
+                </span>
+              </li>
+              <li className="flex items-center space-x-3">
+                <svg
+                  className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+                <span>
+                  <span className="font-semibold"></span> 持续的功能更新
+                </span>
+              </li>
+              <li className="flex items-center space-x-3">
+                <svg
+                  className="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
+                <span>
+                  <span className="font-semibold"></span> 专属客户支持
                 </span>
               </li>
             </ul>
             <a
-              href=""
+              href="/download"
               className="text-white bg-teal-600 hover:bg-teal-700 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Get started
