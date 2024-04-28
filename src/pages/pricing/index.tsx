@@ -81,7 +81,7 @@ const PricesTable = () => {
               </li>
             </ul>
             <a
-              href=""
+              href="/download"
               className="text-emerald-700 bg-emerald-50 hover:bg-emerald-100 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Signup for free
@@ -231,7 +231,7 @@ const PricesTable = () => {
           </div>
         </div>
 
-        <div className="mx-auto max-w-screen-md text-center">
+        <div className="mx-auto max-w-screen-md text-center hidden">
           <p className="text-lg font-medium text-gray-800 dark:text-white">Ready to get started?</p>
           <a href="" className="text-teal-600 hover:text-teal-700 dark:hover:text-teal-400 font-semibold">
             Sign up now
