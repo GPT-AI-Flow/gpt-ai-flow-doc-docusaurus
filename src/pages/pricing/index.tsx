@@ -42,7 +42,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 即时启动AI对话
+                  <span className="font-semibold"></span> 即时启动 AI 对话
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -113,7 +113,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 高级AI对话功能
+                  <span className="font-semibold"></span> 高级 AI 对话功能
                 </span>
               </li>
               <li className="flex items-center space-x-3">
