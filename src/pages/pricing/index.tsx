@@ -59,7 +59,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 定制化对话模板
+                  <span className="font-semibold"></span> 基本对话模板
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -76,7 +76,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 充分满足日常用户的基本需求使用额度
+                  <span className="font-semibold"></span> 限量使用次数
                 </span>
               </li>
             </ul>
