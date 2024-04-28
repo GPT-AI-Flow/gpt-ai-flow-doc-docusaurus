@@ -196,6 +196,10 @@ const config = {
             position: 'left',
           },
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             to: 'https://www.app.gptaiflow.com',
             label: '网页版',
             position: 'right',
