@@ -10,21 +10,19 @@ const PricesTable = () => {
     >
       <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 dark:bg-gray-900">
         <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-            Services Offered
-          </h2>
+          <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">提供的服务</h2>
           <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">
-            We provide a range of different services tailored to meet various needs
+            我们提供多种不同的服务，以满足各种需求
           </p>
         </div>
 
         <div className="space-y-8 mb-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
           <div className="flex flex-col w-full p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-            <h3 className="mb-4 text-2xl font-semibold">Free</h3>
+            <h3 className="mb-4 text-2xl font-semibold">免费版</h3>
             <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">You just want to discover</p>
             <div className="flex justify-center items-baseline my-8">
               <span className="mr-2 text-5xl font-extrabold">$0</span>
-              <span className="text-gray-500 dark:text-gray-400">/free</span>
+              <span className="text-gray-500 dark:text-gray-400">/免费</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -42,7 +40,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 即时启动AI对话
+                  <span className="font-semibold"></span> 即时启动 AI 对话
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -59,7 +57,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 定制化对话模板
+                  <span className="font-semibold"></span> 基本对话模板
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -76,12 +74,12 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 充分满足日常用户的基本需求使用额度
+                  <span className="font-semibold"></span> 限量使用次数
                 </span>
               </li>
             </ul>
             <a
-              href=""
+              href="/download"
               className="text-emerald-700 bg-emerald-50 hover:bg-emerald-100 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Signup for free
@@ -89,13 +87,11 @@ const PricesTable = () => {
           </div>
 
           <div className="flex flex-col w-full p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-            <h3 className="mb-4 text-2xl font-semibold">Tools</h3>
-            <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              You want to learn and have a personal assistant
-            </p>
+            <h3 className="mb-4 text-2xl font-semibold">工具版</h3>
+            <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">您希望学习并拥有个人助理</p>
             <div className="flex justify-center items-baseline my-8">
               <span className="mr-2 text-5xl font-extrabold">$4.95</span>
-              <span className="text-gray-500 dark:text-gray-400">/year</span>
+              <span className="text-gray-500 dark:text-gray-400">/年</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -113,7 +109,7 @@ const PricesTable = () => {
                   ></path>
                 </svg>
                 <span>
-                  <span className="font-semibold"></span> 高级AI对话功能
+                  <span className="font-semibold"></span> 高级 AI 对话功能
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -160,13 +156,11 @@ const PricesTable = () => {
           </div>
 
           <div className="flex flex-col w-full p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-            <h3 className="mb-4 text-2xl font-semibold">Lifetime</h3>
-            <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-              You want a comprehensive solution and ongoing updates
-            </p>
+            <h3 className="mb-4 text-2xl font-semibold">终身版</h3>
+            <p className="font-light text-gray-500 sm:text-lg dark:text-gray-400">您希望拥有全面的解决方案和持续更新</p>
             <div className="flex justify-center items-baseline my-8">
               <span className="mr-2 text-5xl font-extrabold">$14.95</span>
-              <span className="text-gray-500 dark:text-gray-400">/lifetime</span>
+              <span className="text-gray-500 dark:text-gray-400">/终身</span>
             </div>
 
             <ul role="list" className="mb-8 space-y-4 text-left">
@@ -231,7 +225,7 @@ const PricesTable = () => {
           </div>
         </div>
 
-        <div className="mx-auto max-w-screen-md text-center">
+        <div className="mx-auto max-w-screen-md text-center hidden">
           <p className="text-lg font-medium text-gray-800 dark:text-white">Ready to get started?</p>
           <a href="" className="text-teal-600 hover:text-teal-700 dark:hover:text-teal-400 font-semibold">
             Sign up now

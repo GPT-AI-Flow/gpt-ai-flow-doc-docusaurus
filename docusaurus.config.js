@@ -80,7 +80,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'zh',
     locales: ['zh', 'en'],
     localeConfigs: {
       zh: {
@@ -195,6 +195,10 @@ const config = {
             label: '下载',
             position: 'left',
           },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
           {
             to: 'https://www.app.gptaiflow.com',
             label: '网页版',
