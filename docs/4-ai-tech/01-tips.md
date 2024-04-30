@@ -44,3 +44,7 @@
 - 让 ChatGPT 梳理大纲再进行写作
 - 用特定作家的口吻写作
 - 用特定作家的口吻进行翻译
+
+## Resource
+
+- ChatGPT最佳中文学习网站: https://www.bookai.top/
