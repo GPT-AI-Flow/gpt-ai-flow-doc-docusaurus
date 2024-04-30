@@ -40,7 +40,7 @@ import ContactUs from "../9-contact-us.md"
 
 ### 套餐选择
 
-查看套餐区别: [点击这里](/business/prices-table)
+查看套餐区别: [点击这里](/pricing)
 
 - `免费版`和`工具版`需自备 [OpenAI key](/blog/how-to-register-for-OpenAI-account-and-get-OpenAI-api-key)
 - `模型版`开启试用后可直接正常使用

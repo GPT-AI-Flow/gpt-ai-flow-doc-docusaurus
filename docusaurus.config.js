@@ -81,7 +81,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh',
-    locales: ['zh'],
+    locales: ['zh', 'en'],
     localeConfigs: {
       zh: {
         label: '简体中文',
@@ -136,7 +136,7 @@ const config = {
       announcementBar: {
         id: 'alert',
         content:
-          '🎉🎉🎉 v0.1.44 GPT AI Flow 现已全面开放免费国际版: 为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 🎉🎉🎉',
+          '🎉🎉🎉 v0.1.49 GPT AI Flow 现已开放免费国际版: 为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 🎉🎉🎉',
         backgroundColor: '#161925',
         // content: '由于系统升级, 服务将出现中断影响',
         // backgroundColor: '#F13030',
@@ -185,16 +185,20 @@ const config = {
           },
           // { to: '/blog', label: '提示工程文章', position: 'left' },
           { to: '/blog', label: '博客文章', position: 'left' },
-          // {
-          //   to: '/business/prices-table',
-          //   label: '价格',
-          //   position: 'left',
-          // },
+          {
+            to: '/pricing',
+            label: '价格',
+            position: 'left',
+          },
           {
             to: '/download',
             label: '下载',
             position: 'left',
           },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
           {
             to: 'https://www.app.gptaiflow.com',
             label: '网页版',
