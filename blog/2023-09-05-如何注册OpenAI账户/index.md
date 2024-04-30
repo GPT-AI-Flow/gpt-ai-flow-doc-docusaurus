@@ -10,7 +10,7 @@ authors: [xiaoka]
 
 # 如何注册 OpenAI 账户并获得 OpenAI API key 密匙？
 
-如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐，请点击这里](/business/prices-table))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
+如果您选择使用我们提供的`StartAI 入门工具版套餐`的话([了解套餐，请点击这里](/pricing))，需要先拥有一个 OpenAI 的账户，并且通过 OpenAI 的后台得到一个 `API key` 密匙。
 
 为了得到这个密匙，我们需要有:
 
