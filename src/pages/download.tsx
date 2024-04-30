@@ -82,6 +82,7 @@ const DownloadPage = (): JSX.Element => {
                 <div className="!mt-3 flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
                     href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
+                    target="_blank"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button relative !left-[2px]"
@@ -95,6 +96,7 @@ const DownloadPage = (): JSX.Element => {
                   </a>
                   <a
                     href="https://pan.baidu.com/s/1beAxOeaMSgk-80Zh8IiDxA?pwd=flow"
+                    target="_blank"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button relative !left-[2px]"
