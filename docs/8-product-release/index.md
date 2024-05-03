@@ -1,5 +1,7 @@
 # 产品更新
 
+<!-- ## 2024-05-04-v0.1.50-Enable autoupdater -->
+
 ## 2024-04-30-v0.1.49-GPT AI Flow 免费版推出
 
 v0.1.49-GPT AI Flow 免费版推出
