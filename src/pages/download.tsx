@@ -40,7 +40,7 @@ const DownloadPage = (): JSX.Element => {
 
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.49/GPT.AI.Flow-0.1.49.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.57/GPT-AI-Flow-0.1.57.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -53,7 +53,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.49/GPT.AI.Flow-0.1.49-arm64.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.57/GPT-AI-Flow-0.1.57-arm64.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -66,7 +66,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本 (M1)
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.49/GPT.AI.Flow.Setup.0.1.49.exe"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.57/GPT-AI-Flow-Setup-0.1.57.exe"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
@@ -116,7 +116,7 @@ const DownloadPage = (): JSX.Element => {
                       target="_blank"
                       style={{ textDecoration: 'none', color: '#4B5563' }}
                     >
-                      点击选择其他快速下载线路(v0.1.49)，可能会提高下载速度。
+                      点击选择其他快速下载线路(v0.1.57)，可能会提高下载速度。
                     </a>
                   </span>
                 </div>
