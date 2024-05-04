@@ -135,11 +135,11 @@ const config = {
       // Replace with your project's social card
       announcementBar: {
         id: 'alert',
-        // content:
-        //   '🎉🎉🎉 v0.1.49 GPT AI Flow 现已开放免费国际版: 为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 🎉🎉🎉',
-        // backgroundColor: '#161925',
-        content: '由于系统升级, 服务将出现中断影响',
-        backgroundColor: '#F13030',
+        content:
+          '🎉🎉🎉 v0.1.49 GPT AI Flow 现已开放免费国际版: 为了能够拥有最好的应用体验和更强大的功能支持, 请先导出所有指令数据，并将版本升级至最新版 🎉🎉🎉',
+        backgroundColor: '#161925',
+        // content: '由于系统升级, 服务将出现中断影响',
+        // backgroundColor: '#F13030',
         textColor: 'white',
         isCloseable: false,
       },
