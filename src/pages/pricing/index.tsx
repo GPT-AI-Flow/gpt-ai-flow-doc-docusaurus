@@ -79,7 +79,8 @@ const PricesTable = () => {
               </li>
             </ul>
             <a
-              href="/download"
+              href="https://www.app.gptaiflow.com/signUp"
+              target="_blank"
               className="text-emerald-700 bg-emerald-50 hover:bg-emerald-100 focus:ring-4 focus:ring-teal-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-teal-900"
             >
               Signup for free
