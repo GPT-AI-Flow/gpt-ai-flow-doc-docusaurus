@@ -6,7 +6,7 @@ import React from 'react';
 const DownloadPage = (): JSX.Element => {
   return (
     <Layout
-      title={`自媒体AI助手: 下载`}
+      title={`自媒体AI助手: 下载 (beta 版)`}
       description="面对自媒体内容创作的挑战, GPT AI Flow 是您的最佳助手。适合新手到专业博主，我们帮您生成高质量文案、优化互动并确保内容被搜索引擎发现。加入我们，共创成功故事！"
     >
       <div className="Container" id="downloadPage">
@@ -40,7 +40,7 @@ const DownloadPage = (): JSX.Element => {
 
                 <div className="flex flex-wrap justify-center gap-4 md:justify-start lg:gap-6">
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.58/GPT-AI-Flow-0.1.58.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.59/GPT-AI-Flow-0.1.59.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -53,7 +53,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.58/GPT-AI-Flow-0.1.58-arm64.dmg"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.59/GPT-AI-Flow-0.1.59-arm64.dmg"
                     title="Download for Mac"
                     aria-label="Download for Mac"
                     className="download-link-button"
@@ -66,7 +66,7 @@ const DownloadPage = (): JSX.Element => {
                     下载 Mac 版本 (M1)
                   </a>
                   <a
-                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.58/GPT-AI-Flow-Setup-0.1.58.exe"
+                    href="https://github.com/GPT-AI-Flow/gpt-ai-flow-doc-docusaurus/releases/download/v0.1.59/GPT-AI-Flow-Setup-0.1.59.exe"
                     title="Download for Windows"
                     aria-label="Download for Windows"
                     className="download-link-button"
@@ -116,7 +116,7 @@ const DownloadPage = (): JSX.Element => {
                       target="_blank"
                       style={{ textDecoration: 'none', color: '#4B5563' }}
                     >
-                      点击选择其他快速下载线路(v0.1.58)，可能会提高下载速度。
+                      点击选择其他快速下载线路(v0.1.59)，可能会提高下载速度。
                     </a>
                   </span>
                 </div>
